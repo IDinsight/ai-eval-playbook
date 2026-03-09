@@ -1,4 +1,4 @@
-# Glossary: GenAI Evaluation in the development sector
+# Glossary
 
 ## Core Concepts
 

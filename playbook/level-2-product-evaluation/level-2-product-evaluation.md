@@ -1,6 +1,5 @@
 ---
 description: Does the overall product engage and retain users?
-icon: box-isometric
 ---
 
 # Level 2 – Product evaluation

@@ -1,7 +1,3 @@
----
-description: '[DRAFT For Review by Expert Panel] February 2026'
----
-
 # Generative AI Evaluation in the Development Sector: A Living Playbook
 
 The use of generative AI (GenAI) tools in low- and middle-income countries is multiplying – from AI-powered math tutors for children to digital advisory tools for farmers. While studies have shown that AI-powered applications can improve human and economic development outcomes (e.g., [Henkel et al., 2024](https://www.google.com/url?q=https://arxiv.org/abs/2402.09809\&sa=D\&source=editors\&ust=1770879886855612\&usg=AOvVaw3bjuJgFIYcZ8YRZ5-AJxwI)), others warn of harmful uses (e.g., [Bastani et al., 2024](https://www.google.com/url?q=https://papers.ssrn.com/sol3/papers.cfm?abstract_id%3D4895486\&sa=D\&source=editors\&ust=1770879886855935\&usg=AOvVaw2mkBlmGgvo7SVx26MrPQL2)).
@@ -24,4 +20,4 @@ This playbook is a living playbook. We’ll keep updating this playbook and coll
 
 
 
-<table data-view="cards"><thead><tr><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td>Building Blocks for GenAI Evaluation</td><td><a href="building-blocks-for-genai-evaluation.md">building-blocks-for-genai-evaluation.md</a></td></tr><tr><td>Building Cross-Functional Teams</td><td><a href="building-cross-functional-teams.md">building-cross-functional-teams.md</a></td></tr><tr><td>The 4-Level Framework</td><td><a href="/broken/pages/DBmmql7nGw6aCr2qAq78">Broken link</a></td></tr><tr><td>Frequently Asked Questions</td><td><a href="frequently-asked-questions.md">frequently-asked-questions.md</a></td></tr><tr><td>Glossary</td><td><a href="glossary-genai-evaluation-in-the-development-sector.md">glossary-genai-evaluation-in-the-development-sector.md</a></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td>Building Blocks for GenAI Evaluation</td><td><a href="overview/building-blocks-for-genai-evaluation.md">building-blocks-for-genai-evaluation.md</a></td></tr><tr><td>Building Cross-Functional Teams</td><td><a href="overview/building-cross-functional-teams.md">building-cross-functional-teams.md</a></td></tr><tr><td>The 4-Level Framework</td><td><a href="/broken/pages/DBmmql7nGw6aCr2qAq78">Broken link</a></td></tr><tr><td>Frequently Asked Questions</td><td><a href="overview/frequently-asked-questions.md">frequently-asked-questions.md</a></td></tr><tr><td>Glossary</td><td><a href="references/glossary.md">glossary.md</a></td></tr></tbody></table>

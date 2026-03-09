@@ -16,7 +16,7 @@ Formative research is early-stage work conducted before or during design to unde
 
 Formative research can help form a Theory of Change (TOC). A TOCmaps hypothesized causal pathways from inputs (e.g., training, products, information) to a human development “North Star” outcome (e.g., literacy, mortality, yields). It traces how inputs move through activities to outputs, produce short-term outcomes, and ultimately generate social impact. The figure below shows a TOC for a skills development intervention.
 
-<div data-full-width="true"><img src=".gitbook/assets/unknown (5).png" alt="Figure 3. An example theory of change of a skills development intervention"></div>
+<div data-full-width="true"><img src="../.gitbook/assets/unknown (5).png" alt="Figure 3. An example theory of change of a skills development intervention"></div>
 
 From an evaluation standpoint, a TOC explains how earlier-stage Level 1–3 variables—AI system performance, user engagement, and user mindsets—are expected to drive the medium-term outcome or impact of interest. By making the end-to-end flow from inputs to impacts explicit, a TOC helps motivate the design of the intervention, product, and AI workflow.
 
@@ -119,7 +119,7 @@ We also recommend defining data quality requirements and target values for each 
 * "Event": defined as a timestamped user engagement, within a specific session, for a given AI system configuration and/or product version (e.g. a user’s prompt correction); and
 * "Action", which is the user’s choice or input as they navigate a product journey (e.g. copying the system’s final output at the end of a session).
 
-In some cases, you may need multiple nested funnels to capture the full user experience with an AI product. These funnels and their metrics can also be linked across all framework levels; the final [Linkages Across Levels](the-4-level-framework/linkages-across-levels.md) section discusses this in more detail.
+In some cases, you may need multiple nested funnels to capture the full user experience with an AI product. These funnels and their metrics can also be linked across all framework levels; the final [Linkages Across Levels](linkages-across-levels.md) section discusses this in more detail.
 
 ## 3. ETL pipelines: Build and tracking metrics
 

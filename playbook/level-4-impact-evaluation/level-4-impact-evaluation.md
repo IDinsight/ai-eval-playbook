@@ -1,6 +1,5 @@
 ---
 description: Do users with access to the product improve development outcomes?
-icon: chart-column
 ---
 
 # Level 4 – Impact evaluation
