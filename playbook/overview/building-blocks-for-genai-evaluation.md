@@ -113,23 +113,23 @@ At each stage of the user funnel, consider capturing a range of Level 1–4 metr
 * Number of daily active users, session duration, timestamps (<i class="fa-box-isometric">:box-isometric:</i> Level 2)
 * User satisfaction or comprehension of content (<i class="fa-user">:user:</i> Level 3)
 
-We also recommend defining data quality requirements and target values for each MVE metric. Critically, to track users across evaluation levels and funnel stages, you will need a simple set of identifiers that can be captured in log data and surveys, including:
+We also recommend defining data quality requirements and target values for each MVE metric. Critically, to track users across evaluation levels and funnel stages, you will need a simple set of identifiers that can be captured in log data and surveys, including:&#x20;
 
-* "User ID" : a unique identifier for each user;
-* "Event": defined as a timestamped user engagement, within a specific session, for a given AI system configuration and/or product version (e.g. a user’s prompt correction); and
-* "Action", which is the user’s choice or input as they navigate a product journey (e.g. copying the system’s final output at the end of a session).
+* **User (Dimension):** Defined by a User ID, this represents the unique identifier for each individual and their persistent attributes.
+* **Action (Dimension):** A collection of features or UI elements within your application (e.g., a "Login" button or "Prompt Correction" field). These represent the available touchpoints in the product journey.
+* **Event (Fact):** A timestamped record of a specific user interaction with an action. Each event captures the _"who"_ (User ID) and the _"what"_ (Action) within a specific session, including the system configuration and the resulting outcome.
 
-In some cases, you may need multiple nested funnels to capture the full user experience with an AI product. These funnels and their metrics can also be linked across all framework levels; the final [Linkages Across Levels](linkages-across-levels.md) section discusses this in more detail.
+In some cases, you may need multiple nested funnels to capture the full user experience with an AI product. These funnels and their metrics can also be linked across all framework levels; the final [Linkages Across Levels](linkages-across-levels/) section discusses this in more detail.
 
-## 3. ETL pipelines: Build and tracking metrics
+## 3. Data pipelines: Build and tracking metrics
 
-A well-designed evaluation framework is only as good as the data infrastructure that supports it. At the heart of that infrastructure is a robust ETL pipeline – a system that extracts, transforms, and loads data to power consistent, reliable measurement of user funnel metrics (also known as program indicators):
+A well-designed evaluation framework is only as good as the data infrastructure that supports it. At the heart of that infrastructure is a robust data pipeline – a system that extracts, transforms, and loads data to power consistent, reliable measurement of user funnel metrics (also known as program indicators):
 
 * **Extract**: Collect data from various sources – chat logs, product telemetry, survey tools, third-party APIs, or even spreadsheets.
 * **Transform**: Clean, standardize, and reshape the raw data into a usable format. This could involve timestamp alignment, anonymization, session stitching, or deriving new funnel metrics like time-on-task or trust indicators.
 * **Load**: Make the transformed data available from centralized storage (like a data warehouse or analytics dashboard) so teams can access it for analysis, visualization, or modeling.
 
-AI products—especially GenAI—generate large volumes of complex, unstructured data. Without a clear ETL pipeline, turning this data into actionable metrics at scale is slow and unreliable. For example, a product supporting adolescent mental health might collect:
+AI products—especially GenAI—generate large volumes of complex, unstructured data. Without a clear data pipeline, turning this data into actionable metrics at scale is slow and unreliable. For example, a product supporting adolescent mental health might collect:
 
 * **Model-level outputs** (<i class="fa-gear-code">:gear-code:</i> Level 1): response quality, hallucination rate, representative failure cases.
 * **Engagement logs** (<i class="fa-box-isometric">:box-isometric:</i> Level 2): sessions per user, conversation length, feature use.
@@ -140,7 +140,7 @@ To make sense of this, teams should build a data pipeline that integrates core d
 
 ## 4. Hypothesis targeting: Address weak links
 
-Once a user funnel and robust ETL pipeline are in place, the next challenge is diagnosing why metrics underperform. Start by identifying major drop-offs: if users do not engage, they are unlikely to benefit. Then investigate what drives the drop-off, using targeted hypotheses.
+Once a user funnel and robust data pipeline are in place, the next challenge is diagnosing why metrics underperform. Start by identifying major drop-offs: if users do not engage, they are unlikely to benefit. Then investigate what drives the drop-off, using targeted hypotheses.
 
 Rather than relying on intuition, teams should ask specific, testable questions about drop-offs and mechanisms. This approach bridges product management, UX research, and behavioral science, keeping evaluation disciplined despite nonlinear development.
 
@@ -148,7 +148,7 @@ Evaluation should not dictate what teams build; it should clarify what needs to 
 
 ## 5. Experimentation: Test with rigor and speed
 
-Once hypotheses are set, experimentation tests them. For lightweight changes (e.g., prompts or onboarding), evaluation datasets and A/B tests (through tools like [Evidential](https://www.google.com/url?q=https://docs.evidential.dev/welcome/\&sa=D\&source=editors\&ust=1770879886900619\&usg=AOvVaw1aqbit6aXwhPbGgXxpO9xK)) are often fastest and cheapest. For deeper behavioral or policy questions, teams may use staggered rollouts, holdouts, or—when justified—full RCTs informed by L1–3 data. The aim is consistent: produce credible causal evidence on what improves user outcomes, turning evaluation into a decision tool.
+Once hypotheses are set, experimentation tests them. For lightweight changes (e.g., prompts or onboarding), evaluation datasets and A/B tests (through tools like [Evidential](https://docs.evidential.dev/welcome/)) are often fastest and cheapest. For deeper behavioral or policy questions, teams may use staggered rollouts, holdouts, or—when justified—full RCTs informed by L1–3 data. The aim is consistent: produce credible causal evidence on what improves user outcomes, turning evaluation into a decision tool.
 
 Throughout experimentation, maintain version control by logging every change to the AI system, product features, wrap-around services, and delivery manuals. This often-overlooked practice is foundational: it helps align stakeholders when updates are needed and enables accurate interpretation of shifts in evaluation data at every level.
 

@@ -1,0 +1,7 @@
+# Why is this level of evaluation important?
+
+Interventions in the development sector aim to improve the quality of people’s lives. Impact evaluations (IEs) measure the effects of the intervention on outcomes such as mortality, learning outcomes, and earnings. The main issue these evaluations face is that the world is a messy place: as an intervention is being implemented, many other things are happening that would make a simple before-and-after comparison a bad way to judge program effectiveness.
+
+To address this, we use a counterfactual: a sample as similar as possible to the group that received the intervention. It represents what would have happened without the program. Comparing the two allows us to isolate the intervention’s impact.
+
+There are a number of ways to construct the counterfactual. The most straightforward approach is usually a randomized controlled trial (RCT). In an RCT, participants are randomly assigned to one or more treatment groups that receive an intervention (or variants of it) and a comparison group that does not. Researchers then measure outcomes across groups. Randomized evaluations enable credible, unbiased estimates of causal impact—that is, which changes in participants’ lives can be attributed to the program. Other techniques for the counterfactual construction include propensity score matching, difference in differences, and regression discontinuity designs. These are discussed further below.

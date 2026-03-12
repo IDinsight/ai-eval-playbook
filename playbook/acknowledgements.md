@@ -8,3 +8,7 @@ The core authors are&#x20;
 * Level 2: Robert On, The Agency Fund
 * Level 3: Temina Madon, The Agency Fund
 * Level 4: Markus Goldstein, Center for Global Development
+
+
+
+<figure><img src=".gitbook/assets/Slide1.jpg" alt=""><figcaption></figcaption></figure>
