@@ -2,7 +2,7 @@
 
 Once an AI system is functioning as expected (Level 1), and the product is engaging users as intended (Level 2), we can ask a deeper question: Is the product influencing how users think, feel, or act—and in ways that advance a development outcome of interest?
 
-The success of commercial AI products is often measured via user satisfaction ratings or Net Promoter Score (NPS)—essentially asking, 'Do you like this product enough to recommend it?' But in the development sector, satisfaction is not a proxy for impact. A student might enjoy a tutoring app (high NPS) without actually mastering the curriculum. A patient may favorably review a health provider, even when harmed by sub-standard care.
+The success of commercial AI products is often measured via user satisfaction ratings or Net Promoter Score (NPS)—essentially asking, _'Do you like this product enough to recommend it?'_ But in the development sector, satisfaction is not a proxy for impact. A student might enjoy a tutoring app (high NPS) without actually mastering the curriculum. A patient may favorably review a health provider, even when harmed by sub-standard care.
 
 In Level 3 evaluation, we identify and measure specific behaviors, beliefs, or feelings that predict long-term improvements in health, education, or livelihoods. We will use a program’s Theory of Change (TOC) to specify the “stepping stones” that users traverse on their path toward impact. Instead of waiting years to see if health or education outcomes improve, we will identify intermediate changes in how users think, feel, or act to serve as early signals of success.
 

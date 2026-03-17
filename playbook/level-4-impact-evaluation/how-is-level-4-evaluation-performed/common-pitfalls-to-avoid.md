@@ -10,7 +10,7 @@ As discussed earlier, you track your target population and key sub-groups across
 
 #### Mismanaging transparency
 
-Impact evaluations should build confidence by involving credible, independent investigators, sharing data where appropriate, and pre-specifying key measures and analyses. But transparency should not come at the expense of adaptability. Allow for reasonable adjustments as implementation evolves, and work with evaluators to balance rigor and responsiveness. Given how quickly AI interventions change, establish mechanisms for early and ongoing coordination during implementation.
+Impact evaluations should build confidence by involving credible, independent investigators, sharing data where appropriate, and pre-specifying key measures and analyses. But transparency should not come at the expense of adaptability. Researchers and implementers need to have an agreement on what they are evaluating, and if e.g. the intervention is to remain static or not and if not what data will be available to understand the dynamic nature of the intervention. Given how quickly AI interventions can change, establish mechanisms for early and ongoing coordination during implementation.
 
 #### Letting product evolution obscure the analysis
 
@@ -19,13 +19,3 @@ If the product may change during the study, pre-specify how changes will be hand
 #### Underestimating the risks of attrition
 
 Attrition—through disengagement or loss to follow-up—can seriously weaken power and interpretability. In digital interventions, only a small share of sign-ups may engage, and drop-off is easy. Plan for this: track engagement early, power studies accordingly, and use passive data where possible. If attrition is unavoidable, pre-specify how it will be handled and report it transparently. Use Level 2 and 3 data to monitor attrition early, adjust design, and link it to version tracking to understand who drops out and when.
-
-
-
-{% hint style="info" %}
-
-
-Level 4 impact evaluations reveal the intervention’s effect but may not explain the mechanism behind it. A PE ([see primer here](https://docs.google.com/document/d/18du_LUMPGGu4pZQ1nZ-pKoEwu2zlzmQhFLYwX-A-ix0/edit?tab=t.0#bookmark=id.v2m41nft5xp9)) could offer an explanation. When impact is limited, it could identify if implementation was weak. When impact is strong, it can identify conditions that made it possible which should be replicated when scaling.
-
-<br>
-{% endhint %}

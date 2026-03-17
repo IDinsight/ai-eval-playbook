@@ -2,10 +2,11 @@
 
 ## Overview
 
-* [Generative AI Evaluation in the Development Sector: A Living Playbook](README.md "Introduction")
-* [Building Blocks for GenAI Evaluation](overview/building-blocks-for-genai-evaluation.md "Building Blocks")
-* [Building Cross-Functional Teams](overview/building-cross-functional-teams.md)
-* [Frequently Asked Questions](overview/frequently-asked-questions.md)
+* [Introduction](README.md "Introduction")
+* [The Process Behind This Playbook](overview/the-process-behind-this-playbook.md)
+* [Building Blocks for GenAI Evaluation](overview/building-blocks-for-genai-evaluation/README.md "Building Blocks")
+  * [Building the Team](overview/building-blocks-for-genai-evaluation/building-the-team.md)
+  * [Building the Infrastructure](overview/building-blocks-for-genai-evaluation/building-the-infrastructure.md)
 * [Linkages Across Levels](overview/linkages-across-levels/README.md)
   * [Risk assessment and mitigation](overview/linkages-across-levels/risk-assessment-and-mitigation.md)
   * [Process Evaluations](overview/linkages-across-levels/process-evaluations/README.md)
@@ -42,10 +43,10 @@
 ## Level 3 - User evaluation
 
 * [Overview](level-3-user-evaluation/overview/README.md)
-  * [What is the Minimum Viable Evaluation?](level-3-user-evaluation/overview/what-is-the-minimum-viable-evaluation.md "Minimum Viable Evaluation")
+  * [Why is this level of evaluation important?](level-3-user-evaluation/overview/why-is-this-level-of-evaluation-important.md "Why is this important?")
   * [Who is most involved in this level of evaluation?](level-3-user-evaluation/overview/who-is-most-involved-in-this-level-of-evaluation.md "Who is involved in this evaluation?")
   * [Who is the “User” being evaluated?](level-3-user-evaluation/overview/who-is-the-user-being-evaluated.md "Who is the “User”?")
-  * [Why is this level of evaluation important?](level-3-user-evaluation/overview/why-is-this-level-of-evaluation-important.md "Why is this important?")
+  * [What is the Minimum Viable Evaluation?](level-3-user-evaluation/overview/what-is-the-minimum-viable-evaluation.md "Minimum Viable Evaluation")
 * [How is Level 3 evaluation performed?](level-3-user-evaluation/how-is-level-3-evaluation-performed/README.md "How to evaluate")
   * [Descriptive Analysis](level-3-user-evaluation/how-is-level-3-evaluation-performed/descriptive-analysis.md)
   * [Collect Survey Data](level-3-user-evaluation/how-is-level-3-evaluation-performed/collect-survey-data.md)
@@ -70,6 +71,7 @@
 
 ## References
 
+* [Frequently Asked Questions](references/frequently-asked-questions.md)
 * [Additional Resources](references/additional-resources.md)
 * [Minimum Viable Evaluations](references/minimum-viable-evaluations.md)
 * [Glossary](references/glossary.md)

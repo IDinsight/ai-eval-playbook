@@ -4,7 +4,7 @@ Once you routinely track product performance metrics, you can run rapid experime
 
 A/B testing is the most common approach. It’s how tech companies build and refine products, and how digital marketers improve ad performance. The concept is simple: expose “version A” of a product to one set of users, and “version B” to another, then measure which version more effectively improves your funnel metrics.
 
-For the A/B test to be valid, randomization is critical: it ensures that any observed final differences across groups can be attributed to the product changes being tested, rather than to pre-existing differences between user groups. The process begins with selecting a random sample of your user base for the experiment. Individuals within this sample are then randomly assigned to different treatment groups.
+For the A/B test to be valid, **randomization is critical**: it ensures that any observed final differences across groups can be attributed to the product changes being tested, rather than to pre-existing differences between user groups. The process begins with selecting a random sample of your user base for the experiment. Individuals within this sample are then randomly assigned to different treatment groups.
 
 It is important to select a user sample large enough to ensure your test is representative of the entire user base. The treatment groups must also be large enough to generate statistically significant estimates of test effects.
 
