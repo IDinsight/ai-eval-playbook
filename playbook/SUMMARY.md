@@ -3,15 +3,9 @@
 ## Overview
 
 * [Introduction](README.md "Introduction")
-* [The Process Behind This Playbook](overview/the-process-behind-this-playbook.md)
 * [Building Blocks for GenAI Evaluation](overview/building-blocks-for-genai-evaluation/README.md "Building Blocks")
   * [Building the Team](overview/building-blocks-for-genai-evaluation/building-the-team.md)
   * [Building the Infrastructure](overview/building-blocks-for-genai-evaluation/building-the-infrastructure.md)
-* [Linkages Across Levels](overview/linkages-across-levels/README.md)
-  * [Risk assessment and mitigation](overview/linkages-across-levels/risk-assessment-and-mitigation.md)
-  * [Process Evaluations](overview/linkages-across-levels/process-evaluations/README.md)
-    * [Do I need a Process Evaluation?](overview/linkages-across-levels/process-evaluations/do-i-need-a-process-evaluation.md)
-    * [What does it take to do a process evaluation?](overview/linkages-across-levels/process-evaluations/what-does-it-take-to-do-a-process-evaluation.md)
 
 ## Level 1 - Model evaluation
 
@@ -69,13 +63,18 @@
   * [Common pitfalls to avoid](level-4-impact-evaluation/how-is-level-4-evaluation-performed/common-pitfalls-to-avoid.md)
   * [Process Evaluation: Why Aren’t Outcomes Changing?](level-4-impact-evaluation/how-is-level-4-evaluation-performed/process-evaluation-why-arent-outcomes-changing.md "Why Aren’t Outcomes Changing? ")
 
+## Linkages Across Levels
+
+* [Overview](linkages-across-levels/overview.md)
+* [Risk assessment and mitigation](linkages-across-levels/risk-assessment-and-mitigation.md)
+* [Process Evaluations](linkages-across-levels/process-evaluations/README.md)
+  * [Do I need a Process Evaluation?](linkages-across-levels/process-evaluations/do-i-need-a-process-evaluation.md)
+  * [What does it take to do a process evaluation?](linkages-across-levels/process-evaluations/what-does-it-take-to-do-a-process-evaluation.md)
+
 ## References
 
+* [The Process Behind This Playbook](references/the-process-behind-this-playbook.md)
 * [Frequently Asked Questions](references/frequently-asked-questions.md)
 * [Additional Resources](references/additional-resources.md)
 * [Minimum Viable Evaluations](references/minimum-viable-evaluations.md)
 * [Glossary](references/glossary.md)
-
-***
-
-* [Acknowledgements](acknowledgements.md)

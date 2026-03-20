@@ -1,6 +1,6 @@
 # Why Aren’t Thoughts, Feelings, and Behavior Changing?
 
-A PE ([see primer here](../../overview/linkages-across-levels/process-evaluations/)) linked to a level 3 evaluation can surface what is or isn’t enabling cognitive, affective, or behavioral outcomes, informing what to test and where to focus program improvements.
+A PE ([see primer here](../../linkages-across-levels/process-evaluations/)) linked to a level 3 evaluation can surface what is or isn’t enabling cognitive, affective, or behavioral outcomes, informing what to test and where to focus program improvements.
 
 At this level it is important to zoom out from the user into the broader program ToC (Figure 3 in Building Blocks section). Behavior change is shaped by the program delivery system and social context outside the program: the workflows, organizational, and social conditions that determine whether product use translates into changed thoughts, feelings, and behavior.&#x20;
 

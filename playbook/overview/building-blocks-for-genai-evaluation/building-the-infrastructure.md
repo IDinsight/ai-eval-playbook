@@ -117,7 +117,7 @@ We also recommend defining data quality requirements and target values for each 
 * **Action (Dimension):** A collection of features or UI elements within your application (e.g., a "Login" button or "Prompt Correction" field). These represent the available touchpoints in the product journey.
 * **Event (Fact):** A timestamped record of a specific user interaction with an action. Each event captures the _"who"_ (User ID) and the _"what"_ (Action) within a specific session, including the system configuration and the resulting outcome.
 
-In some cases, you may need multiple nested funnels to capture the full user experience with an AI product. These funnels and their metrics can also be linked across all framework levels; the final [Linkages Across Levels](../linkages-across-levels/) section discusses this in more detail.
+In some cases, you may need multiple nested funnels to capture the full user experience with an AI product. These funnels and their metrics can also be linked across all framework levels; the final [Linkages Across Levels](../../linkages-across-levels/overview.md) section discusses this in more detail.
 
 ## 3. Data pipelines: Build and tracking metrics
 
