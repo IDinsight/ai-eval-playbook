@@ -6,6 +6,7 @@
 * [Building Blocks for GenAI Evaluation](overview/building-blocks-for-genai-evaluation/README.md "Building Blocks")
   * [Building the Team](overview/building-blocks-for-genai-evaluation/building-the-team.md)
   * [Building the Infrastructure](overview/building-blocks-for-genai-evaluation/building-the-infrastructure.md)
+* [How to Contribute to the Playbook](overview/how-to-contribute-to-the-playbook.md)
 
 ## Level 1 - Model evaluation
 
