@@ -24,12 +24,12 @@ As you mitigate risk, weigh the financial and moral costs of failures across eva
 
 If product development reveals an incompatible insight, then you may need to modify the theory of change for it to maintain its guiding function.
 
-{% embed url="https://tally.so/r/A788l0?originPage=linkages-across-levels%2Frisk-assessment-and-mitigation" %}
-{% endembed %}
-
 ---
 
-{% details title="💬 Want to suggest edits or provide feedback?" %}
+<details>
+<summary>💬 Want to suggest edits or provide feedback?</summary>
+
 {% embed url="https://tally.so/r/A788l0?originPage=linkages-across-levels%2Frisk-assessment-and-mitigation" %}
 {% endembed %}
-{% enddetails %}
+
+</details>

@@ -11,12 +11,12 @@ These are very basic introductions. For more on methods as well as a step-by-ste
 
 In the following section, we do not replicate that guidance. Instead, we focus on what is _distinctive_ when evaluating AI-based products in the development sector.
 
-{% embed url="https://tally.so/r/A788l0?originPage=level-4-impact-evaluation%2Fhow-is-level-4-evaluation-performed%2Fa-quick-primer-on-impact-evaluation-methods" %}
-{% endembed %}
-
 ---
 
-{% details title="💬 Want to suggest edits or provide feedback?" %}
+<details>
+<summary>💬 Want to suggest edits or provide feedback?</summary>
+
 {% embed url="https://tally.so/r/A788l0?originPage=level-4-impact-evaluation%2Fhow-is-level-4-evaluation-performed%2Fa-quick-primer-on-impact-evaluation-methods" %}
 {% endembed %}
-{% enddetails %}
+
+</details>

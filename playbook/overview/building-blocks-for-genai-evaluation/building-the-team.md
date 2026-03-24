@@ -37,12 +37,12 @@ Adopt a shared vocabulary across levels (e.g., Level 1 accuracy, Level 2 engagem
 Besides the tooling described above, in the following sections of this introductory playbook, we’ll also share an initial overview of the key resources and tools available for each phase.
 {% endhint %}
 
-{% embed url="https://tally.so/r/A788l0?originPage=overview%2Fbuilding-blocks-for-genai-evaluation%2Fbuilding-the-team" %}
-{% endembed %}
-
 ---
 
-{% details title="💬 Want to suggest edits or provide feedback?" %}
+<details>
+<summary>💬 Want to suggest edits or provide feedback?</summary>
+
 {% embed url="https://tally.so/r/A788l0?originPage=overview%2Fbuilding-blocks-for-genai-evaluation%2Fbuilding-the-team" %}
 {% endembed %}
-{% enddetails %}
+
+</details>

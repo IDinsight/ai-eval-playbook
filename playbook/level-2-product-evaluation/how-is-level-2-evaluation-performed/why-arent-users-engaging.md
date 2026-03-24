@@ -12,12 +12,12 @@ Document what product changes are made in response, and re-run the relevant funn
 
 <br>
 
-{% embed url="https://tally.so/r/A788l0?originPage=level-2-product-evaluation%2Fhow-is-level-2-evaluation-performed%2Fwhy-arent-users-engaging" %}
-{% endembed %}
-
 ---
 
-{% details title="💬 Want to suggest edits or provide feedback?" %}
+<details>
+<summary>💬 Want to suggest edits or provide feedback?</summary>
+
 {% embed url="https://tally.so/r/A788l0?originPage=level-2-product-evaluation%2Fhow-is-level-2-evaluation-performed%2Fwhy-arent-users-engaging" %}
 {% endembed %}
-{% enddetails %}
+
+</details>

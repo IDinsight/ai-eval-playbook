@@ -19,12 +19,12 @@ A more sophisticated—but less mature—option is multi-objective optimization,
 4. **User research** should sit alongside each evaluation level to interpret log data. Its depth varies by level: interviews to design golden datasets (L1), workflow observation to develop hypotheses (L2), and cognitive interviewing to inform survey design (L3–L4).
 
 
-{% embed url="https://tally.so/r/A788l0?originPage=linkages-across-levels%2Foverview" %}
-{% endembed %}
-
 ---
 
-{% details title="💬 Want to suggest edits or provide feedback?" %}
+<details>
+<summary>💬 Want to suggest edits or provide feedback?</summary>
+
 {% embed url="https://tally.so/r/A788l0?originPage=linkages-across-levels%2Foverview" %}
 {% endembed %}
-{% enddetails %}
+
+</details>

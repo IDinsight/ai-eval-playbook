@@ -10,12 +10,12 @@ If a program moves to a Level 4 trial without incorporating a process evaluation
 
 <br>
 
-{% embed url="https://tally.so/r/A788l0?originPage=linkages-across-levels%2Fprocess-evaluations%2Fdo-i-need-a-process-evaluation" %}
-{% endembed %}
-
 ---
 
-{% details title="💬 Want to suggest edits or provide feedback?" %}
+<details>
+<summary>💬 Want to suggest edits or provide feedback?</summary>
+
 {% embed url="https://tally.so/r/A788l0?originPage=linkages-across-levels%2Fprocess-evaluations%2Fdo-i-need-a-process-evaluation" %}
 {% endembed %}
-{% enddetails %}
+
+</details>

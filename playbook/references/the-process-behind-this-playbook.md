@@ -12,12 +12,12 @@ The Playbook is now a living document with a development roadmap that will evolv
 Note: The version Working Group Members first published in March 2026 can be found here \[PDF]. Given this is a living playbook with multiple additional contributors since the initial publication, this website's online version does not necessarily reflect the positions of the original working group.​ With the exception of Steering Committee Members, Working Group Members and Core Contributors served in their individual capacities, not as official representatives of any organization.
 {% endhint %}
 
-{% embed url="https://tally.so/r/A788l0?originPage=references%2Fthe-process-behind-this-playbook" %}
-{% endembed %}
-
 ---
 
-{% details title="💬 Want to suggest edits or provide feedback?" %}
+<details>
+<summary>💬 Want to suggest edits or provide feedback?</summary>
+
 {% embed url="https://tally.so/r/A788l0?originPage=references%2Fthe-process-behind-this-playbook" %}
 {% endembed %}
-{% enddetails %}
+
+</details>

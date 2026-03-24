@@ -37,12 +37,12 @@ The technical implementation of A/B testing has been greatly simplified by moder
 
 A/B testing has become indispensable because it replaces opinion-driven decision-making with empirical evidence. When implemented rigorously, it enables organizations to continuously improve their products and experiences based on how real users actually behave rather than how we think they might behave.
 
-{% embed url="https://tally.so/r/A788l0?originPage=level-2-product-evaluation%2Fhow-is-level-2-evaluation-performed%2Fmethods-for-experimentation-a-b-testing-and-beyond" %}
-{% endembed %}
-
 ---
 
-{% details title="💬 Want to suggest edits or provide feedback?" %}
+<details>
+<summary>💬 Want to suggest edits or provide feedback?</summary>
+
 {% embed url="https://tally.so/r/A788l0?originPage=level-2-product-evaluation%2Fhow-is-level-2-evaluation-performed%2Fmethods-for-experimentation-a-b-testing-and-beyond" %}
 {% endembed %}
-{% enddetails %}
+
+</details>

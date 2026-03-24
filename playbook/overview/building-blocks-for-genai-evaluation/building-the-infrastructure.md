@@ -158,12 +158,12 @@ Throughout experimentation, maintain version control by logging every change to 
 
     For Level-1 (L1) “minimum viable evaluation” (MVE) metrics, acceptable thresholds should be explicitly specified to support go/no-go deployment decisions (e.g., ≥70% accuracy for emergency-intent detection in a health chatbot may be considered minimally launchable, whereas performance below this threshold would not meet MVE criteria).
 
-{% embed url="https://tally.so/r/A788l0?originPage=overview%2Fbuilding-blocks-for-genai-evaluation%2Fbuilding-the-infrastructure" %}
-{% endembed %}
-
 ---
 
-{% details title="💬 Want to suggest edits or provide feedback?" %}
+<details>
+<summary>💬 Want to suggest edits or provide feedback?</summary>
+
 {% embed url="https://tally.so/r/A788l0?originPage=overview%2Fbuilding-blocks-for-genai-evaluation%2Fbuilding-the-infrastructure" %}
 {% endembed %}
-{% enddetails %}
+
+</details>

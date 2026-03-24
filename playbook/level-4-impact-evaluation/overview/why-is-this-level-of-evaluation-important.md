@@ -8,12 +8,12 @@ There are a number of ways to estimate or measure the counterfactual. The most s
 
 <br>
 
-{% embed url="https://tally.so/r/A788l0?originPage=level-4-impact-evaluation%2Foverview%2Fwhy-is-this-level-of-evaluation-important" %}
-{% endembed %}
-
 ---
 
-{% details title="💬 Want to suggest edits or provide feedback?" %}
+<details>
+<summary>💬 Want to suggest edits or provide feedback?</summary>
+
 {% embed url="https://tally.so/r/A788l0?originPage=level-4-impact-evaluation%2Foverview%2Fwhy-is-this-level-of-evaluation-important" %}
 {% endembed %}
-{% enddetails %}
+
+</details>

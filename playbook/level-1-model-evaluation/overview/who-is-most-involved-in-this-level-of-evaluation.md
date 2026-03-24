@@ -3,12 +3,12 @@
 {% include "../../.gitbook/includes/level-1-roles.md" %}
 
 
-{% embed url="https://tally.so/r/A788l0?originPage=level-1-model-evaluation%2Foverview%2Fwho-is-most-involved-in-this-level-of-evaluation" %}
-{% endembed %}
-
 ---
 
-{% details title="💬 Want to suggest edits or provide feedback?" %}
+<details>
+<summary>💬 Want to suggest edits or provide feedback?</summary>
+
 {% embed url="https://tally.so/r/A788l0?originPage=level-1-model-evaluation%2Foverview%2Fwho-is-most-involved-in-this-level-of-evaluation" %}
 {% endembed %}
-{% enddetails %}
+
+</details>

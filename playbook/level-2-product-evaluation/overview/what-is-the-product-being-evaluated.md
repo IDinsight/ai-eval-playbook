@@ -17,12 +17,12 @@ The following table defines common Level 2 product metrics for each stage:
 
 In addition to these, you may want to specify negative metrics (or safety guardrails) that track problematic user behavior. For example, if a mother uses a health chatbot for an emergency, a long session may indicate confusion and inefficiency. We must aggressively distinguish between intense or extensive engagement, and effective engagement.
 
-{% embed url="https://tally.so/r/A788l0?originPage=level-2-product-evaluation%2Foverview%2Fwhat-is-the-product-being-evaluated" %}
-{% endembed %}
-
 ---
 
-{% details title="💬 Want to suggest edits or provide feedback?" %}
+<details>
+<summary>💬 Want to suggest edits or provide feedback?</summary>
+
 {% embed url="https://tally.so/r/A788l0?originPage=level-2-product-evaluation%2Foverview%2Fwhat-is-the-product-being-evaluated" %}
 {% endembed %}
-{% enddetails %}
+
+</details>

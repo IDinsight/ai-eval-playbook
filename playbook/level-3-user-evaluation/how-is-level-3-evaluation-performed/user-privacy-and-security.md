@@ -10,12 +10,12 @@ Collecting data on user thoughts and feelings (Level 3) carries significant lega
    * Generalizable Knowledge (Academic Standard): If you partner with academic researchers or intend to publish your findings as "research," you will likely require Institutional Review Board (IRB) approval. IRBs oversee the ethical treatment of human subjects and ensure informed consent.
 3. **Value of Responsible Data**: While user privacy constraints require effort, they enable the safe leveraging of product data to generate concrete intermediate metrics for A/B testing. Sometimes analyzing chat logs and feedback is the only way to optimize your product for users (Level 3) and ensure it is ready to drive development outcomes (Level 4). Responsible data practices build the user trust necessary for this impact.
 
-{% embed url="https://tally.so/r/A788l0?originPage=level-3-user-evaluation%2Fhow-is-level-3-evaluation-performed%2Fuser-privacy-and-security" %}
-{% endembed %}
-
 ---
 
-{% details title="💬 Want to suggest edits or provide feedback?" %}
+<details>
+<summary>💬 Want to suggest edits or provide feedback?</summary>
+
 {% embed url="https://tally.so/r/A788l0?originPage=level-3-user-evaluation%2Fhow-is-level-3-evaluation-performed%2Fuser-privacy-and-security" %}
 {% endembed %}
-{% enddetails %}
+
+</details>

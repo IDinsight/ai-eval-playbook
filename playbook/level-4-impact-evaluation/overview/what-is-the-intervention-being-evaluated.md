@@ -34,12 +34,12 @@ At a minimum, we suggest:
 
 [^1]: Selecting unintended consequences to measure can be informed by process evaluations or level 3 data to minimize cost of data collection.
 
-{% embed url="https://tally.so/r/A788l0?originPage=level-4-impact-evaluation%2Foverview%2Fwhat-is-the-intervention-being-evaluated" %}
-{% endembed %}
-
 ---
 
-{% details title="💬 Want to suggest edits or provide feedback?" %}
+<details>
+<summary>💬 Want to suggest edits or provide feedback?</summary>
+
 {% embed url="https://tally.so/r/A788l0?originPage=level-4-impact-evaluation%2Foverview%2Fwhat-is-the-intervention-being-evaluated" %}
 {% endembed %}
-{% enddetails %}
+
+</details>

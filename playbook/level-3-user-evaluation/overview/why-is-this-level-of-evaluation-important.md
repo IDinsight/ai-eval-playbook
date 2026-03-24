@@ -16,12 +16,12 @@ To do this, organizations should address 5 key issues:
 
 By defining and tracking intermediate outcomes, Level 3 helps you conduct fast product iterations during pilots and ongoing feature development, setting the stage for a successful Level 4 evaluation down the road.
 
-{% embed url="https://tally.so/r/A788l0?originPage=level-3-user-evaluation%2Foverview%2Fwhy-is-this-level-of-evaluation-important" %}
-{% endembed %}
-
 ---
 
-{% details title="💬 Want to suggest edits or provide feedback?" %}
+<details>
+<summary>💬 Want to suggest edits or provide feedback?</summary>
+
 {% embed url="https://tally.so/r/A788l0?originPage=level-3-user-evaluation%2Foverview%2Fwhy-is-this-level-of-evaluation-important" %}
 {% endembed %}
-{% enddetails %}
+
+</details>

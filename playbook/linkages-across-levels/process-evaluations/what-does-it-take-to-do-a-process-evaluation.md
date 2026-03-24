@@ -10,12 +10,12 @@ Process evaluations systematically and empirically describe what happens during 
 
 [^1]: For illustrative examples, see Smith, M., Huang, C.H., Carter, S. et al., "Where AI Interventions Succeed or Fail," IDinsight, 2026. [https://www.idinsight.org/article/where-ai-interventions-succeed-or-fail/](https://www.idinsight.org/article/where-ai-interventions-succeed-or-fail/)
 
-{% embed url="https://tally.so/r/A788l0?originPage=linkages-across-levels%2Fprocess-evaluations%2Fwhat-does-it-take-to-do-a-process-evaluation" %}
-{% endembed %}
-
 ---
 
-{% details title="💬 Want to suggest edits or provide feedback?" %}
+<details>
+<summary>💬 Want to suggest edits or provide feedback?</summary>
+
 {% embed url="https://tally.so/r/A788l0?originPage=linkages-across-levels%2Fprocess-evaluations%2Fwhat-does-it-take-to-do-a-process-evaluation" %}
 {% endembed %}
-{% enddetails %}
+
+</details>

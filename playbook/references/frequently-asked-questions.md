@@ -36,12 +36,12 @@ Commercial apps often optimize for retention; development apps must optimize for
 
 Commercial products evolve and are localized as they enter new markets, supported by well-defined workflows. Evaluations must also adapt to context. When deploying an existing product in a new setting, factors like health system variation, disease epidemiology, or student–teacher ratios will shape the right metrics and benchmarks. For example, in one country, a cough-based AI TB detector may consider chest radiographs as the diagnostic “gold standard,” whereas for a different country, serological biomarkers might be used to ascertain the ground truth. Evaluation is therefore part of product development at every stage—from early prototyping to multi-country launch.
 
-{% embed url="https://tally.so/r/A788l0?originPage=references%2Ffrequently-asked-questions" %}
-{% endembed %}
-
 ---
 
-{% details title="💬 Want to suggest edits or provide feedback?" %}
+<details>
+<summary>💬 Want to suggest edits or provide feedback?</summary>
+
 {% embed url="https://tally.so/r/A788l0?originPage=references%2Ffrequently-asked-questions" %}
 {% endembed %}
-{% enddetails %}
+
+</details>

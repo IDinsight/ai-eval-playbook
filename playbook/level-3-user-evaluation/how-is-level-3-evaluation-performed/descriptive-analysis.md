@@ -52,12 +52,12 @@ AI education platforms often include specific features or recommendations intend
 
 </details>
 
-{% embed url="https://tally.so/r/A788l0?originPage=level-3-user-evaluation%2Fhow-is-level-3-evaluation-performed%2Fdescriptive-analysis" %}
-{% endembed %}
-
 ---
 
-{% details title="💬 Want to suggest edits or provide feedback?" %}
+<details>
+<summary>💬 Want to suggest edits or provide feedback?</summary>
+
 {% embed url="https://tally.so/r/A788l0?originPage=level-3-user-evaluation%2Fhow-is-level-3-evaluation-performed%2Fdescriptive-analysis" %}
 {% endembed %}
-{% enddetails %}
+
+</details>
