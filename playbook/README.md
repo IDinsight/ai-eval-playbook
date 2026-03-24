@@ -24,3 +24,13 @@ The central element of this framework is continuous evaluation. Unlike earlier r
 
 {% include ".gitbook/includes/4-level-framework-diagram.md" %}
 
+
+---
+
+<details>
+<summary>💬 Want to suggest edits or provide feedback?</summary>
+
+{% embed url="https://tally.so/r/A788l0?originPage=introduction" %}
+{% endembed %}
+
+</details>

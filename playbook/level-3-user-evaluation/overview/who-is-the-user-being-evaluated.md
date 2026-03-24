@@ -41,3 +41,13 @@ In contrast, individual changes can be immediate. You can observe if a user is l
 Our recommendation: Do not ignore social dynamics, but do not let them slow down your experimentation. Measure what you can see today (i.e., the user’s behavior) and until you are ready for a full impact evaluation, use lightweight proxies to track social effects (e.g., asking "Did you share this advice with a neighbor?"). In-app questions about off-app behaviour can complement information about user behaviour.
 
 <br>
+
+---
+
+<details>
+<summary>💬 Want to suggest edits or provide feedback?</summary>
+
+{% embed url="https://tally.so/r/A788l0?originPage=level-3-user-evaluation%2Foverview%2Fwho-is-the-user-being-evaluated" %}
+{% endembed %}
+
+</details>

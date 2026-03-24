@@ -11,3 +11,13 @@ A process evaluation at this stage interrogates the assumptions in your theory o
 Document what product changes are made in response, and re-run the relevant funnel metrics afterward to confirm the bottleneck has been resolved.
 
 <br>
+
+---
+
+<details>
+<summary>💬 Want to suggest edits or provide feedback?</summary>
+
+{% embed url="https://tally.so/r/A788l0?originPage=level-2-product-evaluation%2Fhow-is-level-2-evaluation-performed%2Fwhy-arent-users-engaging" %}
+{% endembed %}
+
+</details>

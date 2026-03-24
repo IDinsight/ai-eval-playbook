@@ -7,3 +7,13 @@ As PE asks:
 > Are the right actors doing the right things, at the right time, in response to the AI tool and within the program delivery system? It does not estimate counterfactual impact. Instead, it investigates whether the intervention is implemented as planned and surfaces insights to inform refinement.
 
 PEs can be conducted before, during, or after Levels 2, 3 and 4 to diagnose bottlenecks, refine delivery, and ensure that subsequent evaluations test the best possible versions of the program. As highlighted in the Process Evaluation boxes across Levels 1-3, they can help explain adoption and retention at Level 2 and interrogate the enablers and constraints of behavior change at Level 3. When impact is mixed or null at Level 4, PEs can help distinguish whether limitations stem from the AI itself or from the activities and conditions surrounding its delivery. And by contrast- if impacts are positive, PEs are helpful in articulating what a realistic path to impact at scale might require. At Level 4, process data collected across study sites can enhance interpretation of  impact—through mediation analysis, subgroup analysis (e.g., across indicators of implementation context), or by constructing a treatment intensity variable to estimate the causal effect of variation in delivery fidelity.
+
+---
+
+<details>
+<summary>💬 Want to suggest edits or provide feedback?</summary>
+
+{% embed url="https://tally.so/r/A788l0?originPage=linkages-across-levels%2Fprocess-evaluations" %}
+{% endembed %}
+
+</details>

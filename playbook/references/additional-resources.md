@@ -55,3 +55,13 @@ Case Study: [ChatSEL](https://agency-fund.github.io/chatsel-docs/docs/t1-intro) 
 * Implementation Monitoring and Process Evaluation (Practical Guidebook) Bliss, M. J., & Emshoff, J. G. (2018). Implementation Monitoring and Process Evaluation. SAGE Publications.​
 
 <br>
+
+---
+
+<details>
+<summary>💬 Want to suggest edits or provide feedback?</summary>
+
+{% embed url="https://tally.so/r/A788l0?originPage=references%2Fadditional-resources" %}
+{% endembed %}
+
+</details>

@@ -151,3 +151,13 @@
 **OpenTelemetry:** An open-source standard for collecting and exporting metrics, logs, and traces across systems.
 
 **Evidential:** A lightweight experimentation tool that automates randomization, tracking, and analysis for A/B or holdout tests.
+
+---
+
+<details>
+<summary>💬 Want to suggest edits or provide feedback?</summary>
+
+{% embed url="https://tally.so/r/A788l0?originPage=references%2Fglossary" %}
+{% endembed %}
+
+</details>

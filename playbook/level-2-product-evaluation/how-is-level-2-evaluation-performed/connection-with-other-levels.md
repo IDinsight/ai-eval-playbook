@@ -7,3 +7,13 @@ In this playbook, Level 2 evaluation focuses exclusively on the digital traces u
 Note that Level 2 also ignores the external, “real world” inputs to a social program or service (like in-person trainings or customer support) that complement a digital product. Metrics to track these in-person events are typically captured in process evaluations, conducted by Monitoring and Evaluation (M\&E) teams. We recommend reviewing process evaluation data alongside Level 2 product analytics, to better understand whether user frictions result from failures in the product, or in the associated offline services. &#x20;
 
 As your product evolves, remember to refine and revalidate your Level 2 metrics, to better capture the nuance of the user experience. Metrics that record meaningful interactions are more valuable than raw event counts.&#x20;
+
+---
+
+<details>
+<summary>💬 Want to suggest edits or provide feedback?</summary>
+
+{% embed url="https://tally.so/r/A788l0?originPage=level-2-product-evaluation%2Fhow-is-level-2-evaluation-performed%2Fconnection-with-other-levels" %}
+{% endembed %}
+
+</details>

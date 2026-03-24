@@ -7,3 +7,13 @@ To address this, we consider the counterfactual: what would have happened to the
 There are a number of ways to estimate or measure the counterfactual. The most straightforward approach is usually a randomized controlled trial (RCT). In an RCT, participants are randomly assigned to one or more treatment groups that receive an intervention (or variants of it) and a comparison group that does not. Researchers then measure outcomes across groups. Well-designed randomized evaluations enable credible, and are less-prone-to-bias estimates of causal impact—that is, which changes in participants’ lives can be attributed to the program. Other techniques for the counterfactual construction include propensity score matching, difference in differences, and regression discontinuity designs.  These are discussed further below, but in general require more technical econometric expertise and contextual knowledge in order to execute well.&#x20;
 
 <br>
+
+---
+
+<details>
+<summary>💬 Want to suggest edits or provide feedback?</summary>
+
+{% embed url="https://tally.so/r/A788l0?originPage=level-4-impact-evaluation%2Foverview%2Fwhy-is-this-level-of-evaluation-important" %}
+{% endembed %}
+
+</details>

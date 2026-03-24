@@ -7,3 +7,13 @@
 {% include "../.gitbook/includes/level-3-mve.md" %}
 
 {% include "../.gitbook/includes/level-4-mve.md" %}
+
+---
+
+<details>
+<summary>💬 Want to suggest edits or provide feedback?</summary>
+
+{% embed url="https://tally.so/r/A788l0?originPage=references%2Fminimum-viable-evaluations" %}
+{% endembed %}
+
+</details>

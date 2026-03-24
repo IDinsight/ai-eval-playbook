@@ -60,3 +60,13 @@ AI tools are easily shared, which creates a risk of "contamination" (the control
 
 
 <a href="common-pitfalls-to-avoid.md" class="button primary">Read more -></a>
+
+---
+
+<details>
+<summary>💬 Want to suggest edits or provide feedback?</summary>
+
+{% embed url="https://tally.so/r/A788l0?originPage=level-4-impact-evaluation%2Fhow-is-level-4-evaluation-performed" %}
+{% endembed %}
+
+</details>

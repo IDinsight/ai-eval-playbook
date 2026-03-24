@@ -18,3 +18,13 @@ A more sophisticated—but less mature—option is multi-objective optimization,
 3. **Conduct routine multi-level risk assessments and failure-mode analyses.** When conducting error analysis, flag aberrant behavior at any level—for example, benchmark drift (Level 1) or user gaming (Level 3)—then assess whether it is detectable in the data produced at that level or other levels. Combine these insights with user research to predict fixes: issues appearing in Level 1 metrics near the top of the funnel often require AI system changes (e.g., knowledge base updates, prompt engineering), while downstream failures may require new product features or broader solution/intervention changes.
 4. **User research** should sit alongside each evaluation level to interpret log data. Its depth varies by level: interviews to design golden datasets (L1), workflow observation to develop hypotheses (L2), and cognitive interviewing to inform survey design (L3–L4).
 
+
+---
+
+<details>
+<summary>💬 Want to suggest edits or provide feedback?</summary>
+
+{% embed url="https://tally.so/r/A788l0?originPage=linkages-across-levels%2Foverview" %}
+{% endembed %}
+
+</details>

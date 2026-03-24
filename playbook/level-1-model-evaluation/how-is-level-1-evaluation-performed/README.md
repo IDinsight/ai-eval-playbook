@@ -45,3 +45,13 @@ Manual evaluation can become tedious, is not scalable, and introduces inconsiste
 Beyond evaluating your solution against known criteria (e.g. those captured in your Golden Dataset), you may also want to actively try to break or pressure test your AI system before releasing it into the wild.
 {% endstep %}
 {% endstepper %}
+
+---
+
+<details>
+<summary>💬 Want to suggest edits or provide feedback?</summary>
+
+{% embed url="https://tally.so/r/A788l0?originPage=level-1-model-evaluation%2Fhow-is-level-1-evaluation-performed" %}
+{% endembed %}
+
+</details>

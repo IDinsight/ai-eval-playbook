@@ -8,3 +8,13 @@ In a level 4 evaluation, process data collected across study sites can also be u
 
 * **Mediation and subgroup analysis**. If you have sufficient variation in implementation across study units and sample sizes, evaluators can test whether impact concentrates among subgroups defined by implementation quality or contextual factors.&#x20;
 * **Treatment-on-the-Treated analysis** with varying implementation intensity. In practice, not all treatment units might receive the intervention as designed. Process data capturing implementation fidelity or intensity allow evaluators to move beyond the intention-to-treat estimate and conduct ToT analysis that uses randomization as an instrument for actual exposure or treatment intensity.<br>
+
+---
+
+<details>
+<summary>💬 Want to suggest edits or provide feedback?</summary>
+
+{% embed url="https://tally.so/r/A788l0?originPage=level-4-impact-evaluation%2Fhow-is-level-4-evaluation-performed%2Fprocess-evaluation-why-arent-outcomes-changing" %}
+{% endembed %}
+
+</details>

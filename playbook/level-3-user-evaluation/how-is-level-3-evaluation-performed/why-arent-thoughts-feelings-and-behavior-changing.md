@@ -11,3 +11,13 @@ At this level it is important to zoom out from the user into the broader program
 | Externalities           | Has the tool shifted the roles or behaviors of others in the program ecosystem — intentionally or not? Are these shifts undermining outcomes?             | Key informant interviews and/or surveys with supervisors and non-user staff; focus groups; administrative data on workload, staffing, or service utilization                                   |
 
 A PE at Level 3 typically requires richer qualitative inquiry than at Level 2, since barriers to behavior change are often rooted in context, relationships, and norms. When possible, run the PE alongside or before the Level 3 evaluation, so findings can directly inform program refinements.
+
+---
+
+<details>
+<summary>💬 Want to suggest edits or provide feedback?</summary>
+
+{% embed url="https://tally.so/r/A788l0?originPage=level-3-user-evaluation%2Fhow-is-level-3-evaluation-performed%2Fwhy-arent-thoughts-feelings-and-behavior-changing" %}
+{% endembed %}
+
+</details>
