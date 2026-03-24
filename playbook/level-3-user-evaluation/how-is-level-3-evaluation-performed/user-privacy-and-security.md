@@ -12,3 +12,10 @@ Collecting data on user thoughts and feelings (Level 3) carries significant lega
 
 {% embed url="https://tally.so/r/A788l0?originPage=level-3-user-evaluation%2Fhow-is-level-3-evaluation-performed%2Fuser-privacy-and-security" %}
 {% endembed %}
+
+---
+
+{% details title="💬 Want to suggest edits or provide feedback?" %}
+{% embed url="https://tally.so/r/A788l0?originPage=level-3-user-evaluation%2Fhow-is-level-3-evaluation-performed%2Fuser-privacy-and-security" %}
+{% endembed %}
+{% enddetails %}

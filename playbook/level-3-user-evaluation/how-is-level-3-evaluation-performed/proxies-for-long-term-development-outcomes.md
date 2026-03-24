@@ -5,3 +5,10 @@ We expect Level 3 metrics to materialize more quickly than Level 4 evaluation ou
 
 {% embed url="https://tally.so/r/A788l0?originPage=level-3-user-evaluation%2Fhow-is-level-3-evaluation-performed%2Fproxies-for-long-term-development-outcomes" %}
 {% endembed %}
+
+---
+
+{% details title="💬 Want to suggest edits or provide feedback?" %}
+{% embed url="https://tally.so/r/A788l0?originPage=level-3-user-evaluation%2Fhow-is-level-3-evaluation-performed%2Fproxies-for-long-term-development-outcomes" %}
+{% endembed %}
+{% enddetails %}

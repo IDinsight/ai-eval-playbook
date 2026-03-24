@@ -10,3 +10,10 @@ We recommend measuring agency in two ways:
 
 {% embed url="https://tally.so/r/A788l0?originPage=level-3-user-evaluation%2Fhow-is-level-3-evaluation-performed%2Fdefining-guardrail-metrics-measuring-potential-harm" %}
 {% endembed %}
+
+---
+
+{% details title="💬 Want to suggest edits or provide feedback?" %}
+{% embed url="https://tally.so/r/A788l0?originPage=level-3-user-evaluation%2Fhow-is-level-3-evaluation-performed%2Fdefining-guardrail-metrics-measuring-potential-harm" %}
+{% endembed %}
+{% enddetails %}

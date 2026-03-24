@@ -39,3 +39,10 @@ Besides the tooling described above, in the following sections of this introduct
 
 {% embed url="https://tally.so/r/A788l0?originPage=overview%2Fbuilding-blocks-for-genai-evaluation%2Fbuilding-the-team" %}
 {% endembed %}
+
+---
+
+{% details title="💬 Want to suggest edits or provide feedback?" %}
+{% embed url="https://tally.so/r/A788l0?originPage=overview%2Fbuilding-blocks-for-genai-evaluation%2Fbuilding-the-team" %}
+{% endembed %}
+{% enddetails %}

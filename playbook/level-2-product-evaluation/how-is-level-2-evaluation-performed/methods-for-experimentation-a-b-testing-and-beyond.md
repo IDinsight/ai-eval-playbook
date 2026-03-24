@@ -39,3 +39,10 @@ A/B testing has become indispensable because it replaces opinion-driven decision
 
 {% embed url="https://tally.so/r/A788l0?originPage=level-2-product-evaluation%2Fhow-is-level-2-evaluation-performed%2Fmethods-for-experimentation-a-b-testing-and-beyond" %}
 {% endembed %}
+
+---
+
+{% details title="💬 Want to suggest edits or provide feedback?" %}
+{% embed url="https://tally.so/r/A788l0?originPage=level-2-product-evaluation%2Fhow-is-level-2-evaluation-performed%2Fmethods-for-experimentation-a-b-testing-and-beyond" %}
+{% endembed %}
+{% enddetails %}

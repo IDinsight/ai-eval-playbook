@@ -42,3 +42,10 @@ An exciting addition to the toolkit is using Natural Language Processing (NLP) m
 
 {% embed url="https://tally.so/r/A788l0?originPage=level-3-user-evaluation%2Fhow-is-level-3-evaluation-performed" %}
 {% endembed %}
+
+---
+
+{% details title="💬 Want to suggest edits or provide feedback?" %}
+{% embed url="https://tally.so/r/A788l0?originPage=level-3-user-evaluation%2Fhow-is-level-3-evaluation-performed" %}
+{% endembed %}
+{% enddetails %}

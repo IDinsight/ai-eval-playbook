@@ -22,3 +22,10 @@ Attrition—through disengagement or loss to follow-up—can seriously weaken po
 
 {% embed url="https://tally.so/r/A788l0?originPage=level-4-impact-evaluation%2Fhow-is-level-4-evaluation-performed%2Fcommon-pitfalls-to-avoid" %}
 {% endembed %}
+
+---
+
+{% details title="💬 Want to suggest edits or provide feedback?" %}
+{% embed url="https://tally.so/r/A788l0?originPage=level-4-impact-evaluation%2Fhow-is-level-4-evaluation-performed%2Fcommon-pitfalls-to-avoid" %}
+{% endembed %}
+{% enddetails %}

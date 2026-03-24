@@ -91,3 +91,10 @@ Cluster randomization (e.g., by school or clinic) can further reduce spillovers.
 
 {% embed url="https://tally.so/r/A788l0?originPage=level-4-impact-evaluation%2Fhow-is-level-4-evaluation-performed%2Fkey-design-considerations-for-ai-specific-impact-evaluations" %}
 {% endembed %}
+
+---
+
+{% details title="💬 Want to suggest edits or provide feedback?" %}
+{% embed url="https://tally.so/r/A788l0?originPage=level-4-impact-evaluation%2Fhow-is-level-4-evaluation-performed%2Fkey-design-considerations-for-ai-specific-impact-evaluations" %}
+{% endembed %}
+{% enddetails %}

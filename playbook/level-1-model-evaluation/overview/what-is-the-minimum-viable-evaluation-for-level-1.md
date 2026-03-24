@@ -10,3 +10,10 @@ Once you are ready to deploy a product to actual users, consider using an observ
 
 {% embed url="https://tally.so/r/A788l0?originPage=level-1-model-evaluation%2Foverview%2Fwhat-is-the-minimum-viable-evaluation-for-level-1" %}
 {% endembed %}
+
+---
+
+{% details title="💬 Want to suggest edits or provide feedback?" %}
+{% embed url="https://tally.so/r/A788l0?originPage=level-1-model-evaluation%2Foverview%2Fwhat-is-the-minimum-viable-evaluation-for-level-1" %}
+{% endembed %}
+{% enddetails %}

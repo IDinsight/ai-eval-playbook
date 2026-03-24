@@ -13,3 +13,10 @@ In the following section, we do not replicate that guidance. Instead, we focus o
 
 {% embed url="https://tally.so/r/A788l0?originPage=level-4-impact-evaluation%2Fhow-is-level-4-evaluation-performed%2Fa-quick-primer-on-impact-evaluation-methods" %}
 {% endembed %}
+
+---
+
+{% details title="💬 Want to suggest edits or provide feedback?" %}
+{% embed url="https://tally.so/r/A788l0?originPage=level-4-impact-evaluation%2Fhow-is-level-4-evaluation-performed%2Fa-quick-primer-on-impact-evaluation-methods" %}
+{% endembed %}
+{% enddetails %}

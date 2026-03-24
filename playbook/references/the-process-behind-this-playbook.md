@@ -14,3 +14,10 @@ Note: The version Working Group Members first published in March 2026 can be fou
 
 {% embed url="https://tally.so/r/A788l0?originPage=references%2Fthe-process-behind-this-playbook" %}
 {% endembed %}
+
+---
+
+{% details title="💬 Want to suggest edits or provide feedback?" %}
+{% embed url="https://tally.so/r/A788l0?originPage=references%2Fthe-process-behind-this-playbook" %}
+{% endembed %}
+{% enddetails %}

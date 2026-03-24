@@ -38,3 +38,10 @@ Commercial products evolve and are localized as they enter new markets, supporte
 
 {% embed url="https://tally.so/r/A788l0?originPage=references%2Ffrequently-asked-questions" %}
 {% endembed %}
+
+---
+
+{% details title="💬 Want to suggest edits or provide feedback?" %}
+{% embed url="https://tally.so/r/A788l0?originPage=references%2Ffrequently-asked-questions" %}
+{% endembed %}
+{% enddetails %}

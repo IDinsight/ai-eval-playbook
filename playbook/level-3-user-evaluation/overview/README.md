@@ -56,3 +56,10 @@ Level 3 combines the experimental rigor of Level 2 with deeper psychological and
 
 {% embed url="https://tally.so/r/A788l0?originPage=level-3-user-evaluation%2Foverview" %}
 {% endembed %}
+
+---
+
+{% details title="💬 Want to suggest edits or provide feedback?" %}
+{% embed url="https://tally.so/r/A788l0?originPage=level-3-user-evaluation%2Foverview" %}
+{% endembed %}
+{% enddetails %}

@@ -160,3 +160,10 @@ Throughout experimentation, maintain version control by logging every change to 
 
 {% embed url="https://tally.so/r/A788l0?originPage=overview%2Fbuilding-blocks-for-genai-evaluation%2Fbuilding-the-infrastructure" %}
 {% endembed %}
+
+---
+
+{% details title="💬 Want to suggest edits or provide feedback?" %}
+{% embed url="https://tally.so/r/A788l0?originPage=overview%2Fbuilding-blocks-for-genai-evaluation%2Fbuilding-the-infrastructure" %}
+{% endembed %}
+{% enddetails %}

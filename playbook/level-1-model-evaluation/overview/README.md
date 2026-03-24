@@ -60,3 +60,10 @@ Level 1 evaluation follows a 6-step continuous loop to move from lab testing to 
 
 {% embed url="https://tally.so/r/A788l0?originPage=level-1-model-evaluation%2Foverview" %}
 {% endembed %}
+
+---
+
+{% details title="💬 Want to suggest edits or provide feedback?" %}
+{% embed url="https://tally.so/r/A788l0?originPage=level-1-model-evaluation%2Foverview" %}
+{% endembed %}
+{% enddetails %}

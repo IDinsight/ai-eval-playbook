@@ -154,3 +154,10 @@
 
 {% embed url="https://tally.so/r/A788l0?originPage=references%2Fglossary" %}
 {% endembed %}
+
+---
+
+{% details title="💬 Want to suggest edits or provide feedback?" %}
+{% embed url="https://tally.so/r/A788l0?originPage=references%2Fglossary" %}
+{% endembed %}
+{% enddetails %}

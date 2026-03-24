@@ -21,3 +21,10 @@ A more sophisticated—but less mature—option is multi-objective optimization,
 
 {% embed url="https://tally.so/r/A788l0?originPage=linkages-across-levels%2Foverview" %}
 {% endembed %}
+
+---
+
+{% details title="💬 Want to suggest edits or provide feedback?" %}
+{% embed url="https://tally.so/r/A788l0?originPage=linkages-across-levels%2Foverview" %}
+{% endembed %}
+{% enddetails %}

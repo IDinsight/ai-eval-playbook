@@ -7,3 +7,10 @@
 
 {% embed url="https://tally.so/r/A788l0?originPage=level-4-impact-evaluation%2Foverview%2Fwho-is-involved-in-this-evaluation" %}
 {% endembed %}
+
+---
+
+{% details title="💬 Want to suggest edits or provide feedback?" %}
+{% embed url="https://tally.so/r/A788l0?originPage=level-4-impact-evaluation%2Foverview%2Fwho-is-involved-in-this-evaluation" %}
+{% endembed %}
+{% enddetails %}

@@ -14,3 +14,10 @@ A PE at Level 3 typically requires richer qualitative inquiry than at Level 2, s
 
 {% embed url="https://tally.so/r/A788l0?originPage=level-3-user-evaluation%2Fhow-is-level-3-evaluation-performed%2Fwhy-arent-thoughts-feelings-and-behavior-changing" %}
 {% endembed %}
+
+---
+
+{% details title="💬 Want to suggest edits or provide feedback?" %}
+{% embed url="https://tally.so/r/A788l0?originPage=level-3-user-evaluation%2Fhow-is-level-3-evaluation-performed%2Fwhy-arent-thoughts-feelings-and-behavior-changing" %}
+{% endembed %}
+{% enddetails %}

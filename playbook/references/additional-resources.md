@@ -58,3 +58,10 @@ Case Study: [ChatSEL](https://agency-fund.github.io/chatsel-docs/docs/t1-intro) 
 
 {% embed url="https://tally.so/r/A788l0?originPage=references%2Fadditional-resources" %}
 {% endembed %}
+
+---
+
+{% details title="💬 Want to suggest edits or provide feedback?" %}
+{% embed url="https://tally.so/r/A788l0?originPage=references%2Fadditional-resources" %}
+{% endembed %}
+{% enddetails %}

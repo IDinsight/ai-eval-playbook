@@ -36,3 +36,10 @@ This section provides a technical and strategic roadmap for:
 
 {% embed url="https://tally.so/r/A788l0?originPage=overview%2Fbuilding-blocks-for-genai-evaluation" %}
 {% endembed %}
+
+---
+
+{% details title="💬 Want to suggest edits or provide feedback?" %}
+{% embed url="https://tally.so/r/A788l0?originPage=overview%2Fbuilding-blocks-for-genai-evaluation" %}
+{% endembed %}
+{% enddetails %}

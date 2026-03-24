@@ -51,3 +51,10 @@ Most LLMs are trained on digitized text in just a handful of languages, predomin
 
 {% embed url="https://tally.so/r/A788l0?originPage=level-1-model-evaluation%2Foverview%2Fwhat-is-the-ai-system-being-evaluated" %}
 {% endembed %}
+
+---
+
+{% details title="💬 Want to suggest edits or provide feedback?" %}
+{% embed url="https://tally.so/r/A788l0?originPage=level-1-model-evaluation%2Foverview%2Fwhat-is-the-ai-system-being-evaluated" %}
+{% endembed %}
+{% enddetails %}
