@@ -23,3 +23,6 @@ As you mitigate risk, weigh the financial and moral costs of failures across eva
 > What can be changed to align with the theory of change?
 
 If product development reveals an incompatible insight, then you may need to modify the theory of change for it to maintain its guiding function.
+
+{% embed url="https://tally.so/r/A788l0?originPage=linkages-across-levels%2Frisk-assessment-and-mitigation" %}
+{% endembed %}

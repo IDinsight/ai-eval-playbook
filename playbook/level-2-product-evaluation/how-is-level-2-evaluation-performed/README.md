@@ -47,3 +47,6 @@ Once the results of an experiment are available, product or program managers int
 
 While product use and retention may be necessary entry points for impact, you should avoid engaging users in ways that waste their time or worsen their well-being. Instead, optimize for a metric like “Time to Success”, where success is defined as solving the user’s problem or building their capabilities. Setting appropriate boundaries for a healthy level of engagement is also critical.
 {% endhint %}
+
+{% embed url="https://tally.so/r/A788l0?originPage=level-2-product-evaluation%2Fhow-is-level-2-evaluation-performed" %}
+{% endembed %}

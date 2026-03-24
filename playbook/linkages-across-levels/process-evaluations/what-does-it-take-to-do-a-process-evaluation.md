@@ -9,3 +9,6 @@ Process evaluations systematically and empirically describe what happens during 
 * **Stage-gate the next level of evaluation:** Make satisfactory implementation improvements an explicit precondition for proceeding to the next level of evaluation.&#x20;
 
 [^1]: For illustrative examples, see Smith, M., Huang, C.H., Carter, S. et al., "Where AI Interventions Succeed or Fail," IDinsight, 2026. [https://www.idinsight.org/article/where-ai-interventions-succeed-or-fail/](https://www.idinsight.org/article/where-ai-interventions-succeed-or-fail/)
+
+{% embed url="https://tally.so/r/A788l0?originPage=linkages-across-levels%2Fprocess-evaluations%2Fwhat-does-it-take-to-do-a-process-evaluation" %}
+{% endembed %}

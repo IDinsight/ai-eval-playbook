@@ -48,3 +48,6 @@ Most LLMs are trained on digitized text in just a handful of languages, predomin
 
 
     Numerous books exist on unit testing. We found chapters 11-14 of Software Engineering at Google especially useful when building right sized, right scope, and repeatable tests.
+
+{% embed url="https://tally.so/r/A788l0?originPage=level-1-model-evaluation%2Foverview%2Fwhat-is-the-ai-system-being-evaluated" %}
+{% endembed %}

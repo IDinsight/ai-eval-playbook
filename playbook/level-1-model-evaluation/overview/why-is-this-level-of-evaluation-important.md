@@ -11,3 +11,6 @@ Product developers can often address these limitations, but it requires a struct
 Level 1 evaluation verifies that the AI system performs reliably and is appropriate to the context. This is non-negotiable in sectors like education, health, and agriculture, where misalignment or unverified claims can cause real-world harm to vulnerable users. We recommend starting early with Level 1 evaluation, to prevent wasted effort and time.
 
 You can begin by engaging key stakeholders, including users and domain experts, to define success criteria and a continuous evaluation strategy. This allows you to shape system behavior throughout the development process, and to avoid the high costs (and delays) of fixing a misaligned system after it has already been built.
+
+{% embed url="https://tally.so/r/A788l0?originPage=level-1-model-evaluation%2Foverview%2Fwhy-is-this-level-of-evaluation-important" %}
+{% endembed %}

@@ -33,3 +33,6 @@ This section provides a technical and strategic roadmap for:
 5. Experimentation: Moving from intuition to evidence through A/B testing and rigorous version control.
 
 <a href="building-the-infrastructure.md" class="button primary">Read more -></a>
+
+{% embed url="https://tally.so/r/A788l0?originPage=overview%2Fbuilding-blocks-for-genai-evaluation" %}
+{% endembed %}

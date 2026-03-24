@@ -15,3 +15,6 @@ To do this, organizations should address 5 key issues:
 5. **Perception**: Do users feel more empowered to act (e.g., do they have a clearer understanding of their next steps), even if they do not immediately take action? User perceptions can be predictive of outcomes, for example when a student recognizes the learning gains they have achieved while using an app.
 
 By defining and tracking intermediate outcomes, Level 3 helps you conduct fast product iterations during pilots and ongoing feature development, setting the stage for a successful Level 4 evaluation down the road.
+
+{% embed url="https://tally.so/r/A788l0?originPage=level-3-user-evaluation%2Foverview%2Fwhy-is-this-level-of-evaluation-important" %}
+{% endembed %}

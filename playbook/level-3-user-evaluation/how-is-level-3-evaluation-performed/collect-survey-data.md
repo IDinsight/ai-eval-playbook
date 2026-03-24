@@ -28,3 +28,6 @@ In this context, you might conduct:
 * **Observer Reports**: In an educational context, teachers or parents might report on the student’s changes (“I noticed my child now approaches homework more confidently”). These external perspectives can validate self-reported survey items and trace data.
 * **Analysis of Objective Performance Data**: Whenever possible, tie AI usage to objective outcomes measured external to the AI solution. For example, if an AI writing assistant claims to improve writing skills, administer a writing assessment before and after prolonged use, with blind graders evaluating outputs (or conduct a randomized controlled trial, [as in this field experiment](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4895486)). You can correlate Level 2 metrics with exam scores, task completion rates, and even health indicators. This gets you closer to impact-level metrics, providing strong evidence of user-level change – but within a shorter time period.
 
+
+{% embed url="https://tally.so/r/A788l0?originPage=level-3-user-evaluation%2Fhow-is-level-3-evaluation-performed%2Fcollect-survey-data" %}
+{% endembed %}

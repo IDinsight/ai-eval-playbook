@@ -88,3 +88,6 @@ Cluster randomization (e.g., by school or clinic) can further reduce spillovers.
 [^1]: For a rigorous treatment of this, see [VanderWeele and Hernán (2013)](https://pmc.ncbi.nlm.nih.gov/articles/PMC4219328/)
 
 [^2]: See [https://www.gsb.stanford.edu/sites/default/files/publication/pdfs/academic-publication-desiging-adaptive-experiments-2021-mar.pdf](https://www.gsb.stanford.edu/sites/default/files/publication/pdfs/academic-publication-desiging-adaptive-experiments-2021-mar.pdf) for a good introduction to adaptive experiments.
+
+{% embed url="https://tally.so/r/A788l0?originPage=level-4-impact-evaluation%2Fhow-is-level-4-evaluation-performed%2Fkey-design-considerations-for-ai-specific-impact-evaluations" %}
+{% endembed %}

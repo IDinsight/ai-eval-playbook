@@ -19,3 +19,6 @@ If the product may change during the study, pre-specify how changes will be hand
 #### Underestimating the risks of attrition
 
 Attrition—through disengagement or loss to follow-up—can seriously weaken power and interpretability. In digital interventions, only a small share of sign-ups may engage, and drop-off is easy. Plan for this: track engagement early, power studies accordingly, and use passive data where possible. If attrition is unavoidable, pre-specify how it will be handled and report it transparently. Use Level 2 and 3 data to monitor attrition early, adjust design, and link it to version tracking to understand who drops out and when.
+
+{% embed url="https://tally.so/r/A788l0?originPage=level-4-impact-evaluation%2Fhow-is-level-4-evaluation-performed%2Fcommon-pitfalls-to-avoid" %}
+{% endembed %}
