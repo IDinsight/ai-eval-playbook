@@ -6,7 +6,7 @@ Beyond the team, we define five building blocks for building and evaluating AI p
 
 GenAI products—such as math tutors or clinical decision support—operate within larger systems. A government AI tutor, for instance, depends on teacher training, devices, and incentives. If outcomes fall short, the cause may be the model (level 1) or program delivery. Understanding the full system is essential.
 
-<div data-full-width="true"><img src="https://docs.google.com/drawings/d/1sA3i252ExADWRjOrn6nw_l3KirUDyx03QkG1eUD-xUzbc8WPX1_RBTjB3f3FZ4oXp-jMFQVi23RrkJfSBdy4PGvFB0UcvSJ_tZHuiXcCvBYiwmVl/image?parent=18du_LUMPGGu4pZQ1nZ-pKoEwu2zlzmQhFLYwX-A-ix0&#x26;rev=90&#x26;drawingRevisionAccessToken=bNVlK9CLHzEQcA&#x26;h=400&#x26;w=400&#x26;ac=1" alt="Figure 2. Unit of AI evaluation across systems"></div>
+<div data-full-width="true"><img src="../../.gitbook/assets/Figure2.svg" alt="Figure 2. Unit of AI evaluation across systems" width="563"></div>
 
 **Formative research** helps organizations define the context and system in which a GenAI product operates (Figure 2). At the center is the **AI system**, which includes multiple components—one of which is a foundation model (e.g. GPT-5, Claude Opus 4.5, Gemini 3). Foundation models are trained on large datasets to learn patterns and generate new outputs—text, images, code, or audio—that resemble their training data. In this playbook, however, the AI system extends beyond the model itself to include prompts, knowledge bases, and other elements of the broader AI pipeline.
 
@@ -15,6 +15,8 @@ In global development, AI models typically sit within an **AI product**, such as
 Formative research is early-stage work conducted before or during GenAI-based intervention design to understand the problem, the users, and the delivery system. Its goal is not to prove impact, but to inform design decisions. It typically uses qualitative and mixed methods—interviews, observations, usability tests, surveys, and rapid pilots—to reveal how people actually behave, not how we expect them to. A **human-centered design** approach fosters adaptation to local context, conditions and needs, and is relevant from the start: PATH provides [guidance](https://media.path.org/documents/LLM_Playbook_final.pdf?_gl=1*1rxptz6*_gcl_au*Nzg5MjA1MTcuMTc3MjE5Mzc5MQ..*_ga*ODg1Nzc4NDUwLjE3NzIxOTM3OTI.*_ga_YBSE7ZKDQM*czE3NzIxOTcyNjQkbzIkZzEkdDE3NzIxOTcyNzQkajUwJGwwJGgw) on dataset creation, Dalberg illustrates their [approach](https://thepeopleplaybook.ai/) with learnings from various practical experiences, and Google [offers](https://pair.withgoogle.com/guidebook/) guidance for general AI solutions.
 
 Formative research can help form a **Theory of Change (TOC)**. A TOC maps hypothesized causal pathways from inputs (e.g., training, products, information) to a development “North Star” outcome (e.g., literacy, mortality, yields). It traces how inputs move through activities to outputs, produce short-term outcomes, and ultimately generate social impact. For example, the figure below describes how a skills development intervention that trains and certifies workers ultimately achieves impacts such as reductions in poverty and economic growth.
+
+<figure><img src="../../.gitbook/assets/Figure3.svg" alt=""><figcaption><p>Figure 3: An example theory of change of a skills development intervention</p></figcaption></figure>
 
 From an evaluation standpoint, a TOC explains how earlier-stage Level 1–3 variables—AI system performance, user engagement, and user mindsets—are expected to drive the outcome or impact of interest. By making the end-to-end flow from inputs to impacts explicit, a TOC helps motivate the design of the intervention, product, and AI workflow.
 
@@ -34,37 +36,37 @@ Funnel design is usually bottom-up. Start with the **final development outcome**
 
 {% stepper %}
 {% step %}
-### Recruitment
+#### Recruitment
 
 The beneficiary is identified and enters the program. (Level 2)
 {% endstep %}
 
 {% step %}
-### Onboarding
+#### Onboarding
 
 The user is introduced to the AI product and completes initial setup. (Level 2)
 {% endstep %}
 
 {% step %}
-### Engagement
+#### Engagement
 
 The user begins actively interacting with the AI product (Level 2).
 {% endstep %}
 
 {% step %}
-### Retention
+#### Retention
 
 The user continues engaging with the AI product over time, rather than dropping off (Level 2). Level 1 evaluation may continue as needed to monitor model behavior.
 {% endstep %}
 
 {% step %}
-### Proximal Outcome
+#### Proximal Outcome
 
 The user demonstrates near-term cognitive or behavioral change (Level 3). Level 1 evaluation may continue as needed to monitor model behavior.
 {% endstep %}
 
 {% step %}
-### Development Outcome
+#### Development Outcome
 
 The user achieves the desired long-term result (Level 4).
 {% endstep %}
@@ -111,7 +113,7 @@ Applying the principle of **“Minimum Viable Evaluation”** (MVE) here means c
 * Number of daily active users, session duration, timestamps (<i class="fa-box-isometric">:box-isometric:</i> Level 2)
 * User satisfaction or comprehension of content (<i class="fa-user">:user:</i> Level 3)
 
-We also recommend defining data quality requirements and target values for each MVE metric. Critically, to track users across evaluation levels and funnel stages, you will need a simple set of identifiers that can be captured in log data and surveys, including:&#x20;
+We also recommend defining data quality requirements and target values for each MVE metric. Critically, to track users across evaluation levels and funnel stages, you will need a simple set of identifiers that can be captured in log data and surveys, including:
 
 * **User (Dimension):** Defined by a User ID, this represents the unique identifier for each individual and their persistent attributes.
 * **Action (Dimension):** A collection of features or UI elements within your application (e.g., a "Login" button or "Prompt Correction" field). These represent the available touchpoints in the product journey.
@@ -150,20 +152,20 @@ Once hypotheses are set, experimentation tests them. For lightweight changes (e.
 
 Throughout experimentation, maintain version control by logging every change to the AI system, product features, wrap-around services, and delivery manuals. This often-overlooked practice is foundational: it helps align stakeholders when updates are needed and enables accurate interpretation of shifts in evaluation data at every level.
 
-[^1]: **Accuracy** refers to the proportion of system outputs that are correct according to a task-specific ground truth or expert-validated rubric.&#x20;
-
-    **Response completeness** refers to the extent to which a system’s reply covers all required informational components of the user’s query (as specified by a task-level checklist or rubric).&#x20;
-
-    **Response latency** refers to the time elapsed between a user message and the system’s response. <br>
-
-    For Level-1 (L1) “minimum viable evaluation” (MVE) metrics, acceptable thresholds should be explicitly specified to support go/no-go deployment decisions (e.g., ≥70% accuracy for emergency-intent detection in a health chatbot may be considered minimally launchable, whereas performance below this threshold would not meet MVE criteria).
-
----
+***
 
 <details>
+
 <summary>💬 Want to suggest edits or provide feedback?</summary>
 
 {% embed url="https://tally.so/r/A788l0?originPage=overview%2Fbuilding-blocks-for-genai-evaluation%2Fbuilding-the-infrastructure" %}
-{% endembed %}
 
 </details>
+
+[^1]: **Accuracy** refers to the proportion of system outputs that are correct according to a task-specific ground truth or expert-validated rubric.
+
+    **Response completeness** refers to the extent to which a system’s reply covers all required informational components of the user’s query (as specified by a task-level checklist or rubric).
+
+    **Response latency** refers to the time elapsed between a user message and the system’s response.<br>
+
+    For Level-1 (L1) “minimum viable evaluation” (MVE) metrics, acceptable thresholds should be explicitly specified to support go/no-go deployment decisions (e.g., ≥70% accuracy for emergency-intent detection in a health chatbot may be considered minimally launchable, whereas performance below this threshold would not meet MVE criteria).

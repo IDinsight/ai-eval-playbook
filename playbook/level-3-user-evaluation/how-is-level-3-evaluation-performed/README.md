@@ -10,13 +10,13 @@ The full workflow includes:
 
 {% stepper %}
 {% step %}
-### Hypothesis generation
+#### Hypothesis generation
 
 Based on the theory of change, define intermediate cognitive and affective outcomes that are plausibly linked to your targeted social impact. Validate these via qualitative methods (e.g., user interviews) as well as quantitative research or reviews of the academic literature.
 {% endstep %}
 
 {% step %}
-### Descriptive analyses
+#### Descriptive analyses
 
 Review log data or conversation data, as well as Level 2 metrics, to better understand what constitutes psychologically and behaviorally meaningful user interaction.
 
@@ -24,7 +24,7 @@ Review log data or conversation data, as well as Level 2 metrics, to better unde
 {% endstep %}
 
 {% step %}
-### Collect survey data
+#### Collect survey data
 
 Often, the most direct way to gauge a user’s thoughts, feelings, knowledge, and behaviors is simply to ask them. Short surveys can capture self-reported changes and subjective experiences or perceptions.
 
@@ -32,7 +32,7 @@ Often, the most direct way to gauge a user’s thoughts, feelings, knowledge, an
 {% endstep %}
 
 {% step %}
-### Analyze user generated content
+#### Analyze user generated content
 
 An exciting addition to the toolkit is using Natural Language Processing (NLP) methods to analyze what users say or write during their interactions. The actual conversation logs or written outputs can be mined for signals of cognitive or emotional change.
 
@@ -40,12 +40,12 @@ An exciting addition to the toolkit is using Natural Language Processing (NLP) m
 {% endstep %}
 {% endstepper %}
 
----
+***
 
 <details>
+
 <summary>💬 Want to suggest edits or provide feedback?</summary>
 
 {% embed url="https://tally.so/r/A788l0?originPage=level-3-user-evaluation%2Fhow-is-level-3-evaluation-performed" %}
-{% endembed %}
 
 </details>

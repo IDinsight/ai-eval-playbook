@@ -14,7 +14,7 @@
   * [Why is this level of evaluation important?](level-1-model-evaluation/overview/why-is-this-level-of-evaluation-important.md "Why is this important?")
   * [Who is most involved in this level of evaluation?](level-1-model-evaluation/overview/who-is-most-involved-in-this-level-of-evaluation.md "Who is involved in this evaluation?")
   * [What is the “AI system” being evaluated?](level-1-model-evaluation/overview/what-is-the-ai-system-being-evaluated.md "What is an AI system?")
-  * [What is the Minimum Viable Evaluation for Level 1?](level-1-model-evaluation/overview/what-is-the-minimum-viable-evaluation-for-level-1.md "Minimum Viable Evaluation ")
+  * [What is the Minimum Viable Evaluation for Level 1?](level-1-model-evaluation/overview/what-is-the-minimum-viable-evaluation-for-level-1.md "Minimum Viable Evaluation")
 * [How is Level 1 evaluation performed?](level-1-model-evaluation/how-is-level-1-evaluation-performed/README.md "How to evaluate?")
   * [1. Decide on an evaluation rubric](level-1-model-evaluation/how-is-level-1-evaluation-performed/1.-decide-on-an-evaluation-rubric.md)
   * [2. Decide on metrics](level-1-model-evaluation/how-is-level-1-evaluation-performed/2.-decide-on-metrics.md)
@@ -58,11 +58,11 @@
   * [Who is involved in this evaluation?](level-4-impact-evaluation/overview/who-is-involved-in-this-evaluation.md "Who is involved in this evaluation?")
   * [What is the “intervention” being evaluated?](level-4-impact-evaluation/overview/what-is-the-intervention-being-evaluated.md)
   * [Minimum Viable Evaluation](level-4-impact-evaluation/overview/minimum-viable-evaluation.md)
-* [How is Level 4 evaluation performed? ](level-4-impact-evaluation/how-is-level-4-evaluation-performed/README.md "How to evaluate")
+* [How is Level 4 evaluation performed?](level-4-impact-evaluation/how-is-level-4-evaluation-performed/README.md "How to evaluate")
   * [A Quick Primer on Impact Evaluation Methods](level-4-impact-evaluation/how-is-level-4-evaluation-performed/a-quick-primer-on-impact-evaluation-methods.md "Primer on Impact Eval Methods")
   * [Key design considerations for AI-specific impact evaluations](level-4-impact-evaluation/how-is-level-4-evaluation-performed/key-design-considerations-for-ai-specific-impact-evaluations.md "Design for AI impact evaluations")
   * [Common pitfalls to avoid](level-4-impact-evaluation/how-is-level-4-evaluation-performed/common-pitfalls-to-avoid.md)
-  * [Process Evaluation: Why Aren’t Outcomes Changing?](level-4-impact-evaluation/how-is-level-4-evaluation-performed/process-evaluation-why-arent-outcomes-changing.md "Why Aren’t Outcomes Changing? ")
+  * [Process Evaluation: Why Aren’t Outcomes Changing?](level-4-impact-evaluation/how-is-level-4-evaluation-performed/process-evaluation-why-arent-outcomes-changing.md "Why Aren’t Outcomes Changing?")
 
 ## Linkages Across Levels
 

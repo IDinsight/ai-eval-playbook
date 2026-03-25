@@ -13,7 +13,7 @@ In this playbook, we will distinguish between two different concepts:
 
 When we say “AI system”, we generally are referring to the End-to-End AI System described above. To avoid confusion, we will always use the term foundation model when referring to the “nucleus” and use “AI system” or “AI pipeline” when referring to the “cell”.
 
-![Figure 6: Defining the AI System](<../../.gitbook/assets/unknown (2).png>)
+![Figure 6: Defining the AI System](../../.gitbook/assets/Figure4.svg)
 
 To simplify the evaluation of an AI system, we define three distinct components:
 
@@ -43,18 +43,16 @@ Consider a product answering questions from farmers in Pulaar. The AI system inc
 
 Most LLMs are trained on digitized text in just a handful of languages, predominantly English. Yet they are used in contexts where users speak ”low-resource” languages, such as Kannada or Hikuyu. These languages may be spoken by tens of millions of people, but there is relatively less digitized text (and even fewer labeled datasets) available to train foundation models. As a result, LLM queries in these languages may result in higher rates of hallucination or other failure modes. In contrast, “high-resource” languages like English or Hindi have far more internet and digital data available, leading to stronger performance. To improve the performance of an AI system operating in “low-resource” languages, you may want to design your systems to first translate the user’s input from their language to a high-resource one, generate the AI response in a high-resource foundation model, then translate the answer back, so the user receives guidance in the language they prefer.
 
-[^1]: e.g. [Unit tests for AI models](https://hamel.dev/blog/posts/evals/#level-1-unit-tests) by Hamel Husain.
-
-
-
-    Numerous books exist on unit testing. We found chapters 11-14 of Software Engineering at Google especially useful when building right sized, right scope, and repeatable tests.
-
----
+***
 
 <details>
+
 <summary>💬 Want to suggest edits or provide feedback?</summary>
 
 {% embed url="https://tally.so/r/A788l0?originPage=level-1-model-evaluation%2Foverview%2Fwhat-is-the-ai-system-being-evaluated" %}
-{% endembed %}
 
 </details>
+
+[^1]: e.g. [Unit tests for AI models](https://hamel.dev/blog/posts/evals/#level-1-unit-tests) by Hamel Husain.
+
+    Numerous books exist on unit testing. We found chapters 11-14 of Software Engineering at Google especially useful when building right sized, right scope, and repeatable tests.

@@ -4,7 +4,7 @@ With the increased evaluations of AI products, distinct challenges for impact ev
 
 {% stepper %}
 {% step %}
-### Selecting the right counterfactual
+#### Selecting the right counterfactual
 
 Choosing the counterfactual—what participants would receive without the AI-enabled intervention—is foundational to impact evaluation design. In GenAI evaluations, the range of plausible comparators is often larger, making clear justification essential.[\[5\]](https://docs.google.com/document/d/18du_LUMPGGu4pZQ1nZ-pKoEwu2zlzmQhFLYwX-A-ix0/export?format=html#ftnt5) The counterfactual should represent a meaningful alternative to your product and credibly reflect what the world would look like without it at scale.
 
@@ -18,7 +18,7 @@ Thoughtful counterfactual choice affects not only estimated effect size, but als
 {% endstep %}
 
 {% step %}
-### Measuring latent access and contextual factors
+#### Measuring latent access and contextual factors
 
 The marginal impact of an AI product depends on users’ baseline access to support, including existing AI tools, related technologies, informal use of the product, and competitors. Measuring this baseline is essential for interpreting effects. Where such tools are already widespread, gains may be modest; in low-capacity settings, the same product may yield much larger (or smaller) benefits. Because access can change quickly, it should be tracked throughout the evaluation.
 
@@ -32,7 +32,7 @@ Substitutes that users turn to when they don’t use, or have access to your AI 
 {% endstep %}
 
 {% step %}
-### Managing product dynamism
+#### Managing product dynamism
 
 RCTs enable powerful causal inference, but only under specific assumptions. One of the most important is the Stable Unit Treatment Value Assumption (SUTVA). [A key component of SUTVA is the _no-multiple-versions_ condition: all treated units must receive the same version of the intervention.](#user-content-fn-1)[^1]
 
@@ -47,15 +47,13 @@ We recommend four practices:
 3. **Maintain a hold-out group on the baseline version** – If sample size allows, keep a subset of treated participants on a frozen baseline version throughout the trial. Comparing them to users on updated versions allows estimation of the incremental effect of product changes. In a more dynamic variation on this, adaptive experiments could be a [useful approach](#user-content-fn-2)[^2].
 4. **Pre-specify at a high level** – In the pre-analysis plan, specify how versions are defined, how rollouts occur, and how exposure is measured. Avoid overly detailed commitments that limit flexibility in responding to unforeseen product changes.
 
-These can seem daunting.  The first step is to focus on the primary purpose of the evaluation: whether it's to prove out an individual product/intervention or whether you are trying to generate generalizable insights about human behavior and how this technology is affecting them.  Referring back to the primary objective (and maybe giving the secondary some weight) will help you decide, for example, at what level of granularity you want to tag your versions (or at least at what level the tags are important).
+These can seem daunting. The first step is to focus on the primary purpose of the evaluation: whether it's to prove out an individual product/intervention or whether you are trying to generate generalizable insights about human behavior and how this technology is affecting them. Referring back to the primary objective (and maybe giving the secondary some weight) will help you decide, for example, at what level of granularity you want to tag your versions (or at least at what level the tags are important).
 
-In addition, the good news is that there is data to help inform decisions about when to exercise these practices.  If L1 and L2 are running frequently (or even continuously), these will provide insights into the magnitude of changes in the models and user use. And L3 evaluations can help you understand whether these changes are associated with changes in behaviors and practices (some quick qualitative work can help you gauge how causal you think these changes are).  These data, together with the purpose of the evaluation, will help you judge what merits a significant enough change, for example, that merits a tag or consideration of an A/B test.&#x20;
-
-
+In addition, the good news is that there is data to help inform decisions about when to exercise these practices. If L1 and L2 are running frequently (or even continuously), these will provide insights into the magnitude of changes in the models and user use. And L3 evaluations can help you understand whether these changes are associated with changes in behaviors and practices (some quick qualitative work can help you gauge how causal you think these changes are). These data, together with the purpose of the evaluation, will help you judge what merits a significant enough change, for example, that merits a tag or consideration of an A/B test.
 {% endstep %}
 
 {% step %}
-### Measuring true development outcomes
+#### Measuring true development outcomes
 
 AI tools often simulate expertise. But does the user _learn_, or just _copy_?
 
@@ -64,9 +62,9 @@ AI tools often simulate expertise. But does the user _learn_, or just _copy_?
 {% endstep %}
 
 {% step %}
-### Embracing Spillovers to Improve Estimates
+#### Embracing Spillovers to Improve Estimates
 
-GenAI tools are often built to scale—easy to access and share—which makes contamination a real risk in impact evaluations. Information spillovers, where users obtain information about the GenAI solution and perhaps also from it, is one aspect. Another is actual use of GenAI solution despite being in the non-treatment group. &#x20;
+GenAI tools are often built to scale—easy to access and share—which makes contamination a real risk in impact evaluations. Information spillovers, where users obtain information about the GenAI solution and perhaps also from it, is one aspect. Another is actual use of GenAI solution despite being in the non-treatment group.
 
 Your randomization (or other identification strategy) should reflect how the product is delivered.
 
@@ -81,20 +79,16 @@ Cluster randomization (e.g., by school or clinic) can further reduce spillovers.
 {% endstep %}
 {% endstepper %}
 
+***
 
+<details>
 
+<summary>💬 Want to suggest edits or provide feedback?</summary>
 
+{% embed url="https://tally.so/r/A788l0?originPage=level-4-impact-evaluation%2Fhow-is-level-4-evaluation-performed%2Fkey-design-considerations-for-ai-specific-impact-evaluations" %}
+
+</details>
 
 [^1]: For a rigorous treatment of this, see [VanderWeele and Hernán (2013)](https://pmc.ncbi.nlm.nih.gov/articles/PMC4219328/)
 
 [^2]: See [https://www.gsb.stanford.edu/sites/default/files/publication/pdfs/academic-publication-desiging-adaptive-experiments-2021-mar.pdf](https://www.gsb.stanford.edu/sites/default/files/publication/pdfs/academic-publication-desiging-adaptive-experiments-2021-mar.pdf) for a good introduction to adaptive experiments.
-
----
-
-<details>
-<summary>💬 Want to suggest edits or provide feedback?</summary>
-
-{% embed url="https://tally.so/r/A788l0?originPage=level-4-impact-evaluation%2Fhow-is-level-4-evaluation-performed%2Fkey-design-considerations-for-ai-specific-impact-evaluations" %}
-{% endembed %}
-
-</details>
