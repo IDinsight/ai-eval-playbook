@@ -1,10 +1,12 @@
 ---
-description: How to provide feedback, suggest edits, or contribute to the AI Evaluation Playbook.
+description: >-
+  How to provide feedback, suggest edits, or contribute to the AI Evaluation
+  Playbook.
 ---
 
 # How to Contribute to the Playbook
 
-This is a living playbook. AI evaluation is an active area of research, with new methods and best practices being explored all the time. We welcome edits, suggestions, and feedback to help keep this resource relevant and useful, and we hope to keep updating it as the space evolves.
+This is a living playbook maintained by a Steering Committee staffed by the Center for Global Development, IDinsight, and The Agency Fund. AI evaluation is an active area of research, with new methods and best practices being explored all the time. We welcome edits, suggestions, and feedback to help keep this resource relevant and useful, and we hope to keep updating it as the space evolves.
 
 We aim to release new versions of the playbook incorporating community feedback every quarter.
 
@@ -22,12 +24,30 @@ Every page in the playbook includes a feedback form at the bottom. Use it to lea
 
 For direct edits or contributions, open a pull request in our GitHub repository: [https://github.com/IDinsight/ai-eval-playbook](https://github.com/IDinsight/ai-eval-playbook).
 
----
+
+
+## What happens next
+
+### 1. We review contributions monthly
+
+The Steering Committee does this at least monthly but could respond faster if urgent
+
+### 2. We may reach out for clarification
+
+If we think there's something actionable but need more information we'll reach out. Please engage with us!
+
+### 3. We'll list you as a contributor!
+
+We're keen to grow our community of contributors. Join us!
+
+
+
+***
 
 <details>
+
 <summary>💬 Want to suggest edits or provide feedback?</summary>
 
 {% embed url="https://tally.so/r/A788l0?originPage=overview%2Fhow-to-contribute-to-the-playbook" %}
-{% endembed %}
 
 </details>
