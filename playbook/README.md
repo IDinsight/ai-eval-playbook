@@ -1,12 +1,12 @@
 ---
 cover: .gitbook/assets/ChatGPT Image Mar 27, 2026, 09_14_31 PM.png
-coverY: 194.12688821752263
+coverY: 227.99671070272973
 coverHeight: 274
 layout:
   width: default
   cover:
     visible: true
-    size: hero
+    size: full
   title:
     visible: true
   description:
