@@ -6,13 +6,13 @@ CGD convened a Technical Working Group to refine these evaluation lessons into t
 
 The Playbook is now a living document with a development roadmap that will evolve as evidence and AI capabilities advance, with TAF, IDinsight, and CGD stewarding updates and incorporating community feedback.<br>
 
-<figure><img src="../.gitbook/assets/hi-res.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/WorkingGroup.jpg" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 Note: The version Working Group Members first published in March 2026 can be found here \[PDF]. Given this is a living playbook with multiple additional contributors since the initial publication, this website's online version does not necessarily reflect the positions of the original working group.​ With the exception of Steering Committee Members, Working Group Members and Core Contributors served in their individual capacities, not as official representatives of any organization.
 {% endhint %}
 
-<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Implementers.jpg" alt=""><figcaption></figcaption></figure>
 
 ***
 
