@@ -12,6 +12,8 @@ The Playbook is now a living document with a development roadmap that will evolv
 Note: The version Working Group Members first published in March 2026 can be found here \[PDF]. Given this is a living playbook with multiple additional contributors since the initial publication, this website's online version does not necessarily reflect the positions of the original working group.​ With the exception of Steering Committee Members, Working Group Members and Core Contributors served in their individual capacities, not as official representatives of any organization.
 {% endhint %}
 
+<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+
 ***
 
 <details>
