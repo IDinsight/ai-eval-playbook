@@ -14,7 +14,7 @@ Note: The version Working Group Members first published in March 2026 can be fou
 
 <figure><img src="../.gitbook/assets/Implementers.jpg" alt=""><figcaption></figcaption></figure>
 
-###
+
 
 ### Community of Contributors
 
