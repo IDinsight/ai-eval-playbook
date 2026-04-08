@@ -6,14 +6,16 @@ The goal of this step is to quickly analyze errors in the current configuration,
 
 Once you are ready to deploy a product to actual users, consider using an observability platform (like Langfuse or DeepEval) to automatically record traces as you iterate. This is important for understanding where your AI system is failing and why. But don’t let this delay your launch.
 
-{% include "../../.gitbook/includes/level-2-mve.md" %}
 
----
+
+{% include "../../.gitbook/includes/level-1-mve.md" %}
+
+***
 
 <details>
+
 <summary>💬 Want to suggest edits or provide feedback?</summary>
 
 {% embed url="https://tally.so/r/A788l0?originPage=level-1-model-evaluation%2Foverview%2Fwhat-is-the-minimum-viable-evaluation-for-level-1" %}
-{% endembed %}
 
 </details>
