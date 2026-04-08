@@ -14,6 +14,26 @@ Note: The version Working Group Members first published in March 2026 can be fou
 
 <figure><img src="../.gitbook/assets/Implementers.jpg" alt=""><figcaption></figcaption></figure>
 
+###
+
+### Community of Contributors
+
+{% columns %}
+{% column %}
+Asim Fayaz, The Agency Fund
+
+Aman Dalmia, The Agency Fund
+
+Isha Fuletra, IDinsight
+{% endcolumn %}
+
+{% column %}
+Suzin You, IDinsight
+
+Yolanda Yang, CGD
+{% endcolumn %}
+{% endcolumns %}
+
 ***
 
 <details>
@@ -23,3 +43,6 @@ Note: The version Working Group Members first published in March 2026 can be fou
 {% embed url="https://tally.so/r/A788l0?originPage=references%2Fthe-process-behind-this-playbook" %}
 
 </details>
+
+
+
