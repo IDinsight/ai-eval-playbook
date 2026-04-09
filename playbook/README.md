@@ -29,11 +29,11 @@ layout:
 This playbook is a living playbook. We’ll keep updating this playbook and collaborating more deeply with specialists to co-create shared evaluation tools, refine methodologies, and support their practical use in real-world settings.
 {% endhint %}
 
-The use of generative AI (GenAI) tools in low- and middle-income countries is multiplying – from AI-powered math tutors for children to digital advisory tools for farmers. While studies have shown that AI-powered applications can improve human and economic development outcomes (e.g., [Henkel et al., 2024](https://arxiv.org/abs/2402.09809)), others warn of harmful uses (e.g., [Bastani et al., 2024](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4895486)).
+The use of generative AI (GenAI) tools in low- and middle-income countries is multiplying – from AI-powered math tutors for children to digital advisory tools for farmers. While studies have shown that AI-powered applications can improve human and economic development outcomes (e.g., [Henkel et al., 2024](https://arxiv.org/abs/2402.09809)), others warn of harmful uses (e.g., [Bastani et al., 2024](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4895486)). The common thread is that outcomes depend critically on how AI is designed and used.
 
-**Evaluations can address these challenges,** **yet there has been little agreement on what evaluation actually means.** Organizations often find themselves caught between two extremes of evaluation: tech teams prioritize product performance, often overlooking impact, while impact evaluators focus on outcomes but may neglect the underlying technology.
+**Evaluations can help developers build more impactful AI tools,** **yet there has been little agreement on what evaluation actually means.** Organizations often find themselves caught between two extremes of evaluation: tech teams prioritize product performance, often overlooking impact, while impact evaluators focus on outcomes but may neglect the underlying technology.
 
-**These foci may seem at odds, but are actually complementary to each other.** This playbook offers a unified framework to bridge the gap, laying out how to evaluate GenAI services in the development sector: what evaluation should include, and the standard practices implementers should follow. It is organized around a four-level framework:
+**These foci are often pursued in isolation, even though they are inherently complementary.** This playbook offers a unified framework to bridge the gap, laying out how to evaluate GenAI services in the development sector: what evaluation should include, and the standard practices implementers should follow. It is organized around a four-level framework:
 
 {% include ".gitbook/includes/4-level-framework-links.md" %}
 

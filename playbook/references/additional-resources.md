@@ -20,7 +20,13 @@
 * [Evaluation of Farmer.Chat at Digital Green](https://www.google.com/url?q=https://arxiv.org/abs/2409.08916\&sa=D\&source=editors\&ust=1770879887028651\&usg=AOvVaw16Dg4hG-cD4XYvKq5rsJ44)
 * [Evaluation of mMitra at Armman](https://www.google.com/url?q=https://docs.google.com/presentation/d/1mAF1lI8tkTjLLW3SjwrV8mdz4VDkTdog/edit?slide%3Did.p1%23slide%3Did.p1\&sa=D\&source=editors\&ust=1770879887028851\&usg=AOvVaw0G6LUHis4BHjHxpy-cxcsU)
 
+***
 
+### Red Teaming&#x20;
+
+* [Red-Teaming AI for Social Good Playbook](https://humane-intelligence.org/insights/research/) (UNESCO & Human Intelligence, 2024)
+* [Planning Red-Teaming for Large Language Models](https://learn.microsoft.com/en-us/azure/foundry/openai/concepts/red-teaming) (Microsoft Learn, 2024)
+* [The Playbook – Red Teaming Artificial Intelligence for Social Good](https://humane-intelligence.org/insights/research/) (Humane Intelligence, 2025) &#x20;
 
 ## Level 2
 
@@ -38,15 +44,11 @@ For more details on A/B testing, please review these resources:
 * [Optimizely: What is A/B testing?](https://www.google.com/url?q=https://www.optimizely.com/optimization-glossary/ab-testing/\&sa=D\&source=editors\&ust=1770879887076174\&usg=AOvVaw3PKvBKt3EJLt8sZn70Vxx3)
 * [Amplitude: What is A/B testing? How it works and when to use it](https://www.google.com/url?q=https://amplitude.com/blog/ab-testing\&sa=D\&source=editors\&ust=1770879887076429\&usg=AOvVaw3sG72ntnL5ErkzmLbKVjJ-)
 
-
-
 ## Level 3
 
 Case Study: [ChatSEL](https://agency-fund.github.io/chatsel-docs/docs/t1-intro) is a GenAI coach developed at the Agency Fund that provides teachers with evidence-based and context-sensitive guidance on understanding and implementing SEL programs in a low-resource classroom. Please see the following document for how we might measure Level 3 outcomes in the context of ChatSEL.
 
 [User Evaluation Workshop - ChatSEL](https://docs.google.com/document/d/18AXtIeDx6HsidhMKTJ2kIDb7hUwHEkEnwGPZuC9JJo0/edit?tab=t.0)
-
-
 
 ## Process Evaluations
 
@@ -56,12 +58,12 @@ Case Study: [ChatSEL](https://agency-fund.github.io/chatsel-docs/docs/t1-intro) 
 
 <br>
 
----
+***
 
 <details>
+
 <summary>💬 Want to suggest edits or provide feedback?</summary>
 
 {% embed url="https://tally.so/r/A788l0?originPage=references%2Fadditional-resources" %}
-{% endembed %}
 
 </details>
