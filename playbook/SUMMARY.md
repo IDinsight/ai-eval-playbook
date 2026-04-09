@@ -43,13 +43,12 @@
   * [Who is the “User” being evaluated?](level-3-user-evaluation/overview/who-is-the-user-being-evaluated.md "Who is the “User”?")
   * [What is the Minimum Viable Evaluation?](level-3-user-evaluation/overview/what-is-the-minimum-viable-evaluation.md "Minimum Viable Evaluation")
 * [How is Level 3 evaluation performed?](level-3-user-evaluation/how-is-level-3-evaluation-performed/README.md "How to evaluate")
-  * [Descriptive Analysis](level-3-user-evaluation/how-is-level-3-evaluation-performed/descriptive-analysis.md)
-  * [Collect Survey Data](level-3-user-evaluation/how-is-level-3-evaluation-performed/collect-survey-data.md)
-  * [Analyze user generated content](level-3-user-evaluation/how-is-level-3-evaluation-performed/analyze-user-generated-content.md)
-  * [Defining Guardrail Metrics: Measuring Potential Harm](level-3-user-evaluation/how-is-level-3-evaluation-performed/defining-guardrail-metrics-measuring-potential-harm.md "Measuring Potential Harm")
-  * [Proxies for Long-term Development Outcomes](level-3-user-evaluation/how-is-level-3-evaluation-performed/proxies-for-long-term-development-outcomes.md)
-  * [User privacy and security](level-3-user-evaluation/how-is-level-3-evaluation-performed/user-privacy-and-security.md)
-  * [Why Aren’t Thoughts, Feelings, and Behavior Changing?](level-3-user-evaluation/how-is-level-3-evaluation-performed/why-arent-thoughts-feelings-and-behavior-changing.md)
+  * [Identify metrics through analyzing interaction data](level-3-user-evaluation/how-is-level-3-evaluation-performed/descriptive-analysis.md)
+  * [Identify metrics through primary data collection](level-3-user-evaluation/how-is-level-3-evaluation-performed/collect-survey-data.md)
+  * [Identify metrics through analyzing conversation logs](level-3-user-evaluation/how-is-level-3-evaluation-performed/analyze-user-generated-content.md)
+  * [Define guardrail metrics and measure potential harm](level-3-user-evaluation/how-is-level-3-evaluation-performed/defining-guardrail-metrics-measuring-potential-harm.md "Define guardrail metrics and measure potential harm")
+  * [Consider conducting experiments to improve the selected key metrics and running process evaluations](level-3-user-evaluation/how-is-level-3-evaluation-performed/why-arent-thoughts-feelings-and-behavior-changing.md)
+  * [Address user privacy and safety concerns throughout Level 3](level-3-user-evaluation/how-is-level-3-evaluation-performed/user-privacy-and-security.md)
 
 ## Level 4 - Impact evaluation
 

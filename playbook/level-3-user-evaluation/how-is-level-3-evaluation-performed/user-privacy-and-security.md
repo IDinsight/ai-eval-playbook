@@ -1,6 +1,6 @@
-# User privacy and security
+# Address user privacy and safety concerns throughout Level 3
 
-Collecting data on user thoughts and feelings (Level 3) carries significant legal and ethical responsibilities. Because using GenAI models may involve sending data to third-party model providers (e.g., OpenAI, Google, Anthropic), it is important to pay attention to data governance:
+Collecting data on user thoughts and feelings (Level 3) carries significant legal and ethical responsibilities. Because using GenAI models may involve sending data to third-party model providers (e.g., OpenAI, Google, Anthropic), it is important to pay attention to data governance and privacy and safety policies:
 
 1. **Know the Legal Landscape**: Data privacy laws vary by jurisdiction (e.g., Data Protection Act in Kenya, GDPR in Europe). Organizations should consult with legal counsel to define clear Terms of Use and Privacy Policies for the AI products they deploy.
    * Be especially cautious if your user base includes minors or if you are handling sensitive health information or Personally Identifiable Information (PII).
@@ -10,12 +10,12 @@ Collecting data on user thoughts and feelings (Level 3) carries significant lega
    * Generalizable Knowledge (Academic Standard): If you partner with academic researchers or intend to publish your findings as "research," you will likely require Institutional Review Board (IRB) approval. IRBs oversee the ethical treatment of human subjects and ensure informed consent.
 3. **Value of Responsible Data**: While user privacy constraints require effort, they enable the safe leveraging of product data to generate concrete intermediate metrics for A/B testing. Sometimes analyzing chat logs and feedback is the only way to optimize your product for users (Level 3) and ensure it is ready to drive development outcomes (Level 4). Responsible data practices build the user trust necessary for this impact.
 
----
+***
 
 <details>
+
 <summary>💬 Want to suggest edits or provide feedback?</summary>
 
 {% embed url="https://tally.so/r/A788l0?originPage=level-3-user-evaluation%2Fhow-is-level-3-evaluation-performed%2Fuser-privacy-and-security" %}
-{% endembed %}
 
 </details>
