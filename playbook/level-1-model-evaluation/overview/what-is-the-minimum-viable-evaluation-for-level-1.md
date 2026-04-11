@@ -10,8 +10,6 @@ Once you are ready to deploy a product to actual users, consider using an observ
 
 {% include "../../.gitbook/includes/level-1-mve.md" %}
 
-{% include "../../.gitbook/includes/level-1-mve.md" %}
-
 ***
 
 <details>
