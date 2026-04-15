@@ -47,6 +47,7 @@
   * [Define guardrail metrics and measure potential harm](level-3-user-evaluation/how-is-level-3-evaluation-performed/defining-guardrail-metrics-measuring-potential-harm.md "Define guardrail metrics and measure potential harm")
   * [Consider conducting experiments to improve the selected key metrics and running process evaluations](level-3-user-evaluation/how-is-level-3-evaluation-performed/why-arent-thoughts-feelings-and-behavior-changing.md)
   * [Address user privacy and safety concerns throughout Level 3](level-3-user-evaluation/how-is-level-3-evaluation-performed/user-privacy-and-security.md)
+  * [Why Aren’t Thoughts, Feelings, and Behavior Changing?](level-3-user-evaluation/how-is-level-3-evaluation-performed/user-privacy-and-security-1.md)
 
 ## Level 4 - Impact evaluation
 
