@@ -1,61 +1,73 @@
 ---
-description: 'Generative AI Evaluation in the Development Sector: A Living Playbook'
+cover: .gitbook/assets/1. Banner (1).png
+coverY: 15.000505206459447
+coverHeight: 234
 layout:
-  width: wide
+  width: default
+  cover:
+    visible: true
+    size: hero
   title:
-    visible: false
+    visible: true
   description:
     visible: false
   tableOfContents:
-    visible: false
+    visible: true
   outline:
     visible: false
   pagination:
-    visible: false
+    visible: true
   metadata:
     visible: true
   tags:
     visible: true
 ---
 
-# Home
+# About this playbook
 
-<h2 align="center">Generative AI Evaluation in the Development Sector</h2>
+From math tutors to farmer advisory tools, generative AI (GenAI) is rapidly expanding across low- and middle-income countries. This playbook provides a 4-level framework and recommends practices for evaluating these GenAI tools.
 
-<h4 align="center">A Living Playbook</h4>
+<br>
 
+<figure><img src=".gitbook/assets/EvaluationLevels-Diagram.svg" alt=""><figcaption></figcaption></figure>
 
+### Why we need this playbook
 
-<p align="center"><a href="https://app.gitbook.com/s/7QyW332zLXP50hE2nhPE/" class="button primary" data-icon="rocket-launch">Get Started</a></p>
+Evaluating GenAI products can mean different things depending on who you ask. Tech teams prioritize performance, often overlooking impact, while impact evaluators focus on outcomes but may neglect the underlying technology. Even within disciplines, the sophistication and quality of evaluations can differ.
 
-<p align="center"></p>
+This playbook establishes a unified set of expectations and practices for evaluating GenAI products in global development.
 
-<p align="center"></p>
+{% include ".gitbook/includes/cards.md" %}
 
+### Who is this playbook for
 
+{% include ".gitbook/includes/cards-2.md" %}
 
-<table data-view="cards"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th><th data-hidden data-card-cover data-type="image">Cover image</th></tr></thead><tbody><tr><td><h4><i class="fa-cubes-stacked">:cubes-stacked:</i></h4></td><td><h4><strong>Building Blocks</strong></h4></td><td><p>The 5 reusable building blocks for GenAI evaluation</p><p><br></p></td><td><a href="https://app.gitbook.com/s/7QyW332zLXP50hE2nhPE/building-blocks-for-genai-evaluation">Building Blocks for GenAI Evaluation</a></td><td><a href="https://images.unsplash.com/photo-1564951434112-64d74cc2a2d7?crop=entropy&#x26;cs=srgb&#x26;fm=jpg&#x26;ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHw1fHxhYnN0cmFjdCUyMHBhc3RlbHxlbnwwfHx8fDE3NzE5MjkzMzZ8MA&#x26;ixlib=rb-4.1.0&#x26;q=85">https://images.unsplash.com/photo-1564951434112-64d74cc2a2d7?crop=entropy&#x26;cs=srgb&#x26;fm=jpg&#x26;ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHw1fHxhYnN0cmFjdCUyMHBhc3RlbHxlbnwwfHx8fDE3NzE5MjkzMzZ8MA&#x26;ixlib=rb-4.1.0&#x26;q=85</a></td></tr><tr><td><h4><i class="fa-users">:users:</i></h4></td><td><h4>Building Cross-Functional Teams</h4></td><td>Learn how to staff and run cross-functional teams for GenAI evaluation</td><td><a href="https://app.gitbook.com/s/7QyW332zLXP50hE2nhPE/building-cross-functional-teams">Building Cross-Functional Teams</a></td><td><a href="https://images.unsplash.com/photo-1575573550252-4bea31b9d485?crop=entropy&#x26;cs=srgb&#x26;fm=jpg&#x26;ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHw5fHxhYnN0cmFjdCUyMHBhc3RlbCUyMGJsdWV8ZW58MHx8fHwxNzcxOTI5MzYyfDA&#x26;ixlib=rb-4.1.0&#x26;q=85">https://images.unsplash.com/photo-1575573550252-4bea31b9d485?crop=entropy&#x26;cs=srgb&#x26;fm=jpg&#x26;ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHw5fHxhYnN0cmFjdCUyMHBhc3RlbCUyMGJsdWV8ZW58MHx8fHwxNzcxOTI5MzYyfDA&#x26;ixlib=rb-4.1.0&#x26;q=85</a></td></tr><tr><td><h4><i class="fa-check-double">:check-double:</i></h4></td><td><h4>The 4-Level Framework </h4></td><td>A framework for evaluating AI systems in development contexts</td><td><a href="https://app.gitbook.com/s/7QyW332zLXP50hE2nhPE/the-4-level-framework">The 4-Level Framework</a></td><td><a href="https://images.unsplash.com/photo-1599422281620-143e425acfd9?crop=entropy&#x26;cs=srgb&#x26;fm=jpg&#x26;ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHw4fHxhYnN0cmFjdCUyMHBhc3RlbCUyMG9yYW5nZXxlbnwwfHx8fDE3NzE5MjkzODV8MA&#x26;ixlib=rb-4.1.0&#x26;q=85">https://images.unsplash.com/photo-1599422281620-143e425acfd9?crop=entropy&#x26;cs=srgb&#x26;fm=jpg&#x26;ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHw4fHxhYnN0cmFjdCUyMHBhc3RlbCUyMG9yYW5nZXxlbnwwfHx8fDE3NzE5MjkzODV8MA&#x26;ixlib=rb-4.1.0&#x26;q=85</a></td></tr></tbody></table>
+### How to use this playbook
 
+The playbook is organized around a 4-level framework that asks the following evaluation questions:
 
+{% include ".gitbook/includes/how-to-use-this-framework.md" %}
 
+Each level outlines detailed evaluation practices for organizations building AI products to pursue.
 
+The four levels form a logical progressio&#x6E;_._ Users are unlikely to stay engaged (Level 2) if the GenAI system fails to perform (Level 1), and development outcomes are unlikely to improve (Level 4) if users disengage or their feelings, knowledge, and behaviors are harmed (Level 3).
 
+The playbook helps implementers conduct continuous evaluation across levels. Often, the results of one level of evaluation may require revisiting the performance of a preceding level. Amidst evolving technology, this enables rapid iteration, maintains expected behavior, and improves performance and impact over time.
 
+### Setting the Foundation
 
-{% columns %}
-{% column %}
-<figure><img src="https://images.unsplash.com/photo-1593462512927-2d51160b5981?crop=entropy&#x26;cs=srgb&#x26;fm=jpg&#x26;ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHwzfHxhYnN0cmFjdCUyMHBhc3RlbCUyMHdhcm18ZW58MHx8fHwxNzcxOTI5NDQ4fDA&#x26;ixlib=rb-4.1.0&#x26;q=85" alt=""><figcaption></figcaption></figure>
-{% endcolumn %}
+{% include ".gitbook/includes/setting-foundation.md" %}
 
-{% column %}
-### Learn more
+#### Additional Resources
 
-Learn more about this playbook
+[FAQs](additional-resources/frequently-asked-questions.md) | [Glossary](additional-resources/glossary.md) | [Minimal Viable Evaluations](additional-resources/minimum-viable-evaluations.md) | [Tools & Templates](additional-resources/additional-resources.md)
 
+#### Stay involved
 
+* [See the process behind the playbook](overview/the-process-behind-this-playbook.md)
+* [Contribute to this playbook](overview/how-to-contribute-to-the-playbook.md)<br>
 
-<a href="https://app.gitbook.com/s/7QyW332zLXP50hE2nhPE/frequently-asked-questions" class="button secondary" data-icon="book">FAQs</a>
-{% endcolumn %}
-{% endcolumns %}
+***
 
-<h2 align="center"></h2>
+This is a living playbook. It will be updated regularly, with deeper collaboration with specialists to co-create shared evaluation tools, refine methodologies, and support their practical use in real-world settings.
