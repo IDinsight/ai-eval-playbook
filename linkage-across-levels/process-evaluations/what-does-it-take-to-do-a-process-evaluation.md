@@ -1,0 +1,46 @@
+---
+layout:
+  width: default
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: false
+  pagination:
+    visible: true
+  metadata:
+    visible: true
+  tags:
+    visible: true
+metaLinks:
+  alternates:
+    - >-
+      https://app.gitbook.com/s/pbloAUUbQhacfW14WRJm/linkages-across-levels/process-evaluations/what-does-it-take-to-do-a-process-evaluation
+---
+
+# What does it take to do a process evaluation?
+
+
+
+Process evaluations systematically and empirically describe what happens during program implementation, then carefully compare this description to ex-ante expectations in the implementation plan and theory of change. In brief, it proceeds along the following lines:
+
+* **Program theory of change:** Construct user funnels for all stakeholders (human actors) that interact with the AI product and influence development outcomes. Explicitly articulate what each actor must do differently for the AI intervention to work. Make sure to surface the assumptions that link each step: what needs to be true for inputs to lead to activities, for activities to generate outputs, and for outputs to translate into outcomes. These assumptions are often where the [chain breaks](#user-content-fn-1)[^1].
+* **Adopt an implementation framework:** Established Implementation Science (IS) frameworks such as CFIR ([Consolidated Framework for Implementation Research](https://link.springer.com/article/10.1186/s13012-022-01245-0)) (Damschroder et al., 2009) offer pre-specified domains for systematically identifying the factors that shape whether an intervention takes hold in a real-world setting. These and similar frameworks have been applied extensively to digital interventions (e.g. [Greenhalgh et al. 2017](https://pubmed.ncbi.nlm.nih.gov/29092808/)). PEs of AI-enabled tools can draw on this body of work to systematically assess how characteristics of the broader intervention, the implementing organization (e.g., leadership engagement, infrastructure), and the external environment (e.g., policy, incentives) shape real-world implementation dynamics.
+* **Use mixed methods:** Combine routine and administrative data, structured process indicators, document review, qualitative (interviews, observations, focus groups) and quantitative methods (representative surveys), to interrogate weak links in the theory of change.
+* **Iterate on programme design (beyond model or product**): Treat findings as input into redesigning training, supervision, accountability structures, and integration with existing systems.
+* **Stage-gate the next level of evaluation:** Make satisfactory implementation improvements an explicit precondition for proceeding to the next level of evaluation.
+
+***
+
+<details>
+
+<summary>💬 Want to suggest edits or provide feedback?</summary>
+
+{% embed url="https://tally.so/r/A788l0?originPage=linkages-across-levels%2Fprocess-evaluations%2Fwhat-does-it-take-to-do-a-process-evaluation" %}
+
+</details>
+
+[^1]: For illustrative examples, see Smith, M., Huang, C.H., Carter, S. et al., "Where AI Interventions Succeed or Fail," IDinsight, 2026. [https://www.idinsight.org/article/where-ai-interventions-succeed-or-fail/](https://www.idinsight.org/article/where-ai-interventions-succeed-or-fail/)

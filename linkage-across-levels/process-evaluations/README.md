@@ -1,0 +1,43 @@
+---
+layout:
+  width: default
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: false
+  pagination:
+    visible: true
+  metadata:
+    visible: true
+  tags:
+    visible: true
+metaLinks:
+  alternates:
+    - >-
+      https://app.gitbook.com/s/pbloAUUbQhacfW14WRJm/linkages-across-levels/process-evaluations
+---
+
+# Process Evaluations
+
+Each level of the 4-level framework answers a distinct question about whether an AI intervention is working; results at each level can also help explain what is or isn't happening at the next. A process evaluation (PE) complements and extends the ability to understand why something isn’t working. Where the framework's levels 1 to 3 focus on the user journey, a process evaluation (PE) widens the lens by examining the full program delivery system to document what is happening during program delivery and compare it to what was intended.
+
+As PE asks:
+
+> Are the right actors doing the right things, at the right time, in response to the AI tool and within the program delivery system? It does not estimate counterfactual impact. Instead, it investigates whether the intervention is implemented as planned and surfaces insights to inform refinement.
+
+PEs can be conducted before, during, or after Levels 2, 3 and 4 to diagnose bottlenecks, refine delivery, and ensure that subsequent evaluations test the best possible versions of the program. As highlighted in the Process Evaluation boxes across Levels 1-3, they can help explain adoption and retention at Level 2 and interrogate the enablers and constraints of behavior change at Level 3. When impact is mixed or null at Level 4, PEs can help distinguish whether limitations stem from the AI itself or from the activities and conditions surrounding its delivery. And by contrast- if impacts are positive, PEs are helpful in articulating what a realistic path to impact at scale might require. At Level 4, process data collected across study sites can enhance interpretation of impact—through mediation analysis, subgroup analysis (e.g., across indicators of implementation context), or by constructing a treatment intensity variable to estimate the causal effect of variation in delivery fidelity.
+
+***
+
+<details>
+
+<summary>💬 Want to suggest edits or provide feedback?</summary>
+
+{% embed url="https://tally.so/r/A788l0?originPage=linkages-across-levels%2Fprocess-evaluations" %}
+
+</details>
+
