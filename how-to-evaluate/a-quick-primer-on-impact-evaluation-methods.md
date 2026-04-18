@@ -1,0 +1,47 @@
+---
+layout:
+  width: default
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: false
+  pagination:
+    visible: true
+  metadata:
+    visible: true
+  tags:
+    visible: true
+metaLinks:
+  alternates:
+    - >-
+      https://app.gitbook.com/s/NdqczEOrO06puTzbj8Wy/level-4-impact-evaluation/how-is-level-4-evaluation-performed/a-quick-primer-on-impact-evaluation-methods
+---
+
+# A Quick Primer on Impact Evaluation Methods
+
+
+
+Once it is the right time and resources are in place, you must choose a method. At its core, an impact evaluation compares outcomes between groups that differ only in exposure to the intervention—that is, treatment versus control. There are several ways to achieve or approximate this:
+
+<table data-card-size="large" data-view="cards"><thead><tr><th></th><th></th><th data-hidden data-card-cover data-type="image">Cover image</th></tr></thead><tbody><tr><td><strong>Randomized Control Trials (RCTs)</strong></td><td>RCTs assign a sufficiently large number of units (e.g., individuals, schools, clinics) at random to receive the intervention, while others are excluded (or often assigned to a waitlist). Randomization, along with sufficient sample size, ensures groups are comparable on average, except for whether they receive the intervention. Sometimes, politics, ethics, or other constraints will make it less feasible to randomize, so we can turn to other methods. Other times, conducting a randomized evaluation is easier politically and more ethical; context and resources will determine that.</td><td><a href="https://images.unsplash.com/photo-1588348442528-85c6fa3b0440?crop=entropy&#x26;cs=srgb&#x26;fm=jpg&#x26;ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHw1fHxleHBlcmltZW50fGVufDB8fHx8MTc3MzI4NDgxOXww&#x26;ixlib=rb-4.1.0&#x26;q=85">https://images.unsplash.com/photo-1588348442528-85c6fa3b0440?crop=entropy&#x26;cs=srgb&#x26;fm=jpg&#x26;ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHw1fHxleHBlcmltZW50fGVufDB8fHx8MTc3MzI4NDgxOXww&#x26;ixlib=rb-4.1.0&#x26;q=85</a></td></tr><tr><td><strong>Propensity score matching</strong></td><td>This approach requires a large dataset covering both participants and non-participants, with a clear indicator of treatment. It uses statistical techniques to match treated units with similar untreated ones based on observable characteristics. Because it relies only on what is observed, robustness declines when unobservable differences are likely to matter.</td><td><a href="https://images.unsplash.com/photo-1581574919402-5b7d733224d6?crop=entropy&#x26;cs=srgb&#x26;fm=jpg&#x26;ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHw0fHxzY29yZXxlbnwwfHx8fDE3NzMyODQ4NDV8MA&#x26;ixlib=rb-4.1.0&#x26;q=85">https://images.unsplash.com/photo-1581574919402-5b7d733224d6?crop=entropy&#x26;cs=srgb&#x26;fm=jpg&#x26;ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHw0fHxzY29yZXxlbnwwfHx8fDE3NzMyODQ4NDV8MA&#x26;ixlib=rb-4.1.0&#x26;q=85</a></td></tr><tr><td><strong>Quasi-experimental</strong></td><td>This method relies on the assumption that treated and untreated (comparison) groups would have followed parallel trends in outcomes, but does not have the luxury of random assignment to force that to be so by design. By comparing differences before and after the intervention, impact can be estimated. Key is to try to understand why the comparison group was not treated and whether that reason is masking—- i.e., predictive— of a likely difference in trends that they may experience compared to the likely trend of those treated had the treated not been treated.</td><td><a href="https://images.unsplash.com/photo-1705163630188-bd3f0844113b?crop=entropy&#x26;cs=srgb&#x26;fm=jpg&#x26;ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHw1fHxEaWZmZXJlbmNlfGVufDB8fHx8MTc3MzI4NDcyOXww&#x26;ixlib=rb-4.1.0&#x26;q=85">https://images.unsplash.com/photo-1705163630188-bd3f0844113b?crop=entropy&#x26;cs=srgb&#x26;fm=jpg&#x26;ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHw1fHxEaWZmZXJlbmNlfGVufDB8fHx8MTc3MzI4NDcyOXww&#x26;ixlib=rb-4.1.0&#x26;q=85</a></td></tr><tr><td><strong>Regression discontinuity design</strong></td><td>This approach uses a cutoff, comparing people (or other treatment units) just below it to those just above. For example, if students below a threshold receive remedial education, impact is estimated by comparing students near the cutoff on either side. Valid implementation requires that the cutoff itself does not directly affect outcomes (e.g., it reflects budget constraints, not pedagogy) and that there are many observations close to the threshold, since differences grow farther from it.</td><td><a href="https://images.unsplash.com/photo-1669027108349-a9bea2bec1d5?crop=entropy&#x26;cs=srgb&#x26;fm=jpg&#x26;ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHwzfHxjcmFja3xlbnwwfHx8fDE3NzMyODQ4Nzl8MA&#x26;ixlib=rb-4.1.0&#x26;q=85">https://images.unsplash.com/photo-1669027108349-a9bea2bec1d5?crop=entropy&#x26;cs=srgb&#x26;fm=jpg&#x26;ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHwzfHxjcmFja3xlbnwwfHx8fDE3NzMyODQ4Nzl8MA&#x26;ixlib=rb-4.1.0&#x26;q=85</a></td></tr></tbody></table>
+
+These are very basic introductions. For more on methods as well as a step-by-step guide to impact evaluation planning – including sampling, power calculations, and analysis – we strongly recommend:
+
+* [Impact Evaluation in Practice](https://openknowledge.worldbank.org/server/api/core/bitstreams/4659ef23-61ff-5df7-9b4e-89fda12b074d/content) (Gertler et al., World Bank)
+* [Running Randomized Evaluations](https://press.princeton.edu/books/paperback/9780691159270/running-randomized-evaluations) (Glennerster & Takavarasha)
+
+In the following section, we do not replicate that guidance. Instead, we focus on what is _distinctive_ when evaluating AI-based products in the development sector.
+
+***
+
+<details>
+
+<summary>💬 Want to suggest edits or provide feedback?</summary>
+
+{% embed url="https://tally.so/r/A788l0?originPage=level-4-impact-evaluation%2Fhow-is-level-4-evaluation-performed%2Fa-quick-primer-on-impact-evaluation-methods" %}
+
+</details>
