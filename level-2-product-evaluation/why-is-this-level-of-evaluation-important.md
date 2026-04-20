@@ -23,7 +23,12 @@ metaLinks:
 
 # Who is most involved in this level of evaluation?
 
-{% include "https://app.gitbook.com/s/c8kIjQckFMmOgTGk4tcQ/~/reusable/OZsp0JULREo1SS5KtmHi/" %}
+
+
+| Execute 🟢                                                                                                                            | Support 🟡                                                                                                                        |
+| ------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------- |
+| Product Managers                                                                                                                      | Data Scientists                                                                                                                   |
+| Directly responsible for product metrics at this level. Works cross-functionally to prioritize the most promising hypotheses to test. | Apply evaluation methods with the proper measurement tools. Ensure accuracy and availability of product metrics (data pipelines). |
 
 ## Why is this level of evaluation important?
 
@@ -45,4 +50,3 @@ Like AI system evals, Level 2 evaluation is a continuous, iterative cycle, not a
 {% embed url="https://tally.so/r/A788l0?originPage=level-2-product-evaluation%2Foverview%2Fwhy-is-this-level-of-evaluation-important" %}
 
 </details>
-
