@@ -23,7 +23,10 @@ metaLinks:
 
 # Who is involved in this evaluation?
 
-{% include "https://app.gitbook.com/s/c8kIjQckFMmOgTGk4tcQ/~/reusable/adL8MjHccamO3oYgPFva/" %}
+| Execute 🟢                                                  | Support 🟡                                                                    |
+| ----------------------------------------------------------- | ----------------------------------------------------------------------------- |
+| Policy Researchers, some Data Scientists, and/or Economists | AI Engineers                                                                  |
+| Apply evaluation methods with the proper measurement tools  | Ensure that the product functions as expected throughout the evaluation phase |
 
 ## Why is this level of evaluation important?
 
@@ -44,4 +47,3 @@ There are a number of ways to estimate or measure the counterfactual. The most s
 {% embed url="https://tally.so/r/A788l0?originPage=level-4-impact-evaluation%2Foverview%2Fwhy-is-this-level-of-evaluation-important" %}
 
 </details>
-
