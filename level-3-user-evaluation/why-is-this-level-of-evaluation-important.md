@@ -28,7 +28,10 @@ In Level 3, researchers evaluate users’ attitudes and behaviors using [quantit
 * **Quantitative approaches** (analyzing logs, surveys, and conversation data) to infer users’ state or traits. These approaches measure constructs such as knowledge, beliefs, intention, norms, feelings, behaviors, etc.
 * **Qualitative approaches** (interviews, focus groups, usability tests, and ethnographic methods) to understand how users interact with a product. These approaches help researchers validate assumptions, understand mechanisms, surface unintended effects, and expose contextual or environmental drivers of user pain points.
 
-{% include "https://app.gitbook.com/s/c8kIjQckFMmOgTGk4tcQ/~/reusable/wdAJExjBRpCR54JU628c/" %}
+| Design and Execute 🟢                                                  | Support and Implement 🟡                                                                                                         |
+| ---------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------- |
+| User Researchers                                                       | Data Scientists / Engineers                                                                                                      |
+| Develop and apply evaluation methods with the proper measurement tools | <p>Build and deploy surveys and experiments within the product<br>Support the design of A/B tests and randomized experiments</p> |
 
 ## Why is this level of evaluation important?
 
