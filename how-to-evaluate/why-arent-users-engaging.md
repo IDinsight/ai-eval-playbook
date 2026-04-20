@@ -23,7 +23,7 @@ metaLinks:
 
 # Why Aren’t Users Engaging?
 
-If your funnel metrics reveal low uptake or drop-off, a process evaluation (PE, [see primer here](https://docs.google.com/document/d/18du_LUMPGGu4pZQ1nZ-pKoEwu2zlzmQhFLYwX-A-ix0/edit?tab=t.0#bookmark=id.v2m41nft5xp9)) can diagnose the cause and inform product iteration before progressing to Level 3.
+If your funnel metrics reveal low uptake or drop-off, a process evaluation (PE, [see primer here](https://app.gitbook.com/s/XgLBBKLzb03jaWzygauC/linkage-across-levels/process-evaluations)) can diagnose the cause and inform product iteration before progressing to Level 3.
 
 A process evaluation at this stage interrogates the assumptions in your theory of change about the user: what they know, what they can do, and what conditions need to be in place for them to engage as intended.
 
