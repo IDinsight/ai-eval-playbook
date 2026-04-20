@@ -1,5 +1,5 @@
 ---
-description: '"Does the AI system perform as intended?"'
+description: Does the AI system perform as intended?
 layout:
   width: default
   title:
