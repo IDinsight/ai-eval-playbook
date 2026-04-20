@@ -62,13 +62,13 @@ Level 3 measures how an "adequate dosage" of your AI product shifts the user acr
 
 Level 3 combines the experimental rigor of Level 2 with deeper psychological and linguistic analysis.
 
-1. **Identify Proxies (Digital Traces):** Analyze conversation logs for "on-platform" behaviors that signal growth, such as increased query depth, technical vocabulary, or proactive follow-up questions.
-2. **Collect Survey Data:** Use short, validated scales integrated directly into the chat flow to capture self-reported shifts in confidence or emotional state.
-3. **Analyze Content (NLP):** Use tools like Sentiment Analysis or LLM-based Text Analysis to score user utterances for themes like "independence" or "anxiety" at scale.
-4. **Define Guardrail Metrics:** Specifically measure potential harms, such as "AI dependency" (reduced willingness to attempt tasks without help) or "social displacement."
-5. **De-coupled Assessment:** Conduct off-platform quizzes, interviews, or observer reports (e.g., from teachers) to validate that skills learned in-app translate to the real world.
+1. **Generate hypotheses based on a theory of change:** Based on the theory of change, define intermediate cognitive, affective, or behavioral outcomes that are plausibly linked to your targeted social impact.
+2. **Identify outcome metrics (Digital Traces):** E.g. Analyze conversation logs for "on-platform" behaviors that signal growth, such as increased query depth, technical vocabulary, or proactive follow-up questions.
+3. **Define guardrail metrics and measure potential harm:** Specifically measure potential harms, such as "AI dependency" (reduced willingness to attempt tasks without help) or "social displacement."
+4. **Consider constructing proxies for long-term development outcomes:** We propose constructing a "Surrogate Index", consisting of Level 2 and Level 3 metrics, to serve as a proxy for longer-term Level 4 outcomes.
+5. **Consider conducting experiments to improve the selected key metrics and running process evaluations:** After identifying intermediate outcomes that serve as early indicators of the development outcome of interest, the next step is to run experiments to assess how product changes influence Level 3 outcomes.&#x20;
 
-<a href="/broken/pages/4qhojxoJ99L48CcMEaW9" class="button primary">Read more -></a>
+<a href="/broken/pages/QJQlH47rYKyaPoYUIIAq" class="button primary">Read more -></a>
 
 ***
 
