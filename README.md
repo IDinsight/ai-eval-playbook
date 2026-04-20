@@ -1,5 +1,7 @@
 ---
-description: Does the product move the needle on user thoughts, feelings, and behavior?
+description: >-
+  Does the product change users' thoughts, feelings, knowledge and behaviour
+  towards the development outcome?
 layout:
   width: default
   title:
