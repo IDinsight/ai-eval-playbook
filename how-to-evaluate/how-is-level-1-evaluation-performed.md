@@ -35,37 +35,37 @@ We will elaborate on each of these steps in turn. You can apply this process to 
 
 {% stepper %}
 {% step %}
-#### [Decide on an evaluation rubric](/broken/pages/PvKO2r7Z6maNAFzc6zg6)
+#### [Decide on an evaluation rubric](1.-decide-on-an-evaluation-rubric.md)
 
 The first step in Level 1 evals is to come up with your evaluation rubric.
 {% endstep %}
 
 {% step %}
-#### [Decide on metrics](/broken/pages/s0jqDQOnbwglvpVaI4MA)
+#### [Decide on metrics](2.-decide-on-metrics.md)
 
 Once you have defined a rubric, the next step is to define metrics you will use to track performance along each dimension in the rubric.
 {% endstep %}
 
 {% step %}
-#### [Develop a golden dataset](/broken/pages/5oANwr0BPMNDD38kEUt9)
+#### [Develop a golden dataset](3.-develop-a-golden-dataset.md)
 
 To verify if your solution is actually improving along the rubric’s dimensions, you need a Golden Dataset: a set of records representing an optimal or ideal user interaction with the system.
 {% endstep %}
 
 {% step %}
-#### [Scoring & error analysis](/broken/pages/tyjLTb9bakJVt3UdwQmQ)
+#### [Scoring & error analysis](4.-scoring-and-error-analysis.md)
 
 Run online and offline evaluations and conduct error analysis
 {% endstep %}
 
 {% step %}
-#### [Automate your evaluations](how-is-level-1-evaluation-performed.md#automate-your-evaluations)
+#### [Automate your evaluations](5.-automate-your-evaluations.md)
 
 Manual evaluation can become tedious, is not scalable, and introduces inconsistency. We recommend gradually automating the process and integrating it directly into your engineering team's workflow.
 {% endstep %}
 
 {% step %}
-#### [Red-teaming](how-is-level-1-evaluation-performed.md#red-teaming)
+#### [Red-teaming](6.-red-teaming.md)
 
 Beyond evaluating your solution against known criteria (e.g. those captured in your Golden Dataset), you may also want to actively try to break or pressure test your AI system before releasing it into the wild.
 {% endstep %}
