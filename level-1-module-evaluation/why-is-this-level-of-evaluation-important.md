@@ -19,7 +19,10 @@ layout:
 
 # Who is most involved in this level of evaluation?
 
-{% include "https://app.gitbook.com/s/c8kIjQckFMmOgTGk4tcQ/~/reusable/mWShpDArkLJ7vuQiKjHe/" %}
+| Execute 🟢                                                                                                                                                                                                                                                         | Support (as product owners) 🟡                                                                                                                                                                                                                               |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| <p><i class="fa-square-code">:square-code:</i> <strong>AI Engineers</strong></p><p><i class="fa-flask-vial">:flask-vial:</i> <strong>ML Researchers</strong></p>                                                                                                   | <p><i class="fa-graduation-cap">:graduation-cap:</i> <strong>Domain Experts</strong></p><p><i class="fa-house">:house:</i> <strong>Product Owners</strong></p><p><i class="fa-magnifying-glass">:magnifying-glass:</i> <strong>User Researchers</strong></p> |
+| Your engineering team will be driving the process from driving technical development (e.g. implementing metrics and setting up automated evaluation pipelines) and working together with domain experts to finalise the rubrics and developing the golden dataset. | Domain experts and product owners must support the engineering team as product owners by deciding the rubrics, validating if the metrics proposed measure those rubrics accurately and helping inform the design of the golden dataset.                      |
 
 ## Why is this level of evaluation important?
 
@@ -44,4 +47,3 @@ You can begin by engaging key stakeholders, including users and domain experts, 
 {% embed url="https://tally.so/r/A788l0?originPage=level-1-model-evaluation%2Foverview%2Fwhy-is-this-level-of-evaluation-important" %}
 
 </details>
-
