@@ -26,7 +26,9 @@ metaLinks:
 
 # What is the Minimum Viable Evaluation?
 
-{% include "https://app.gitbook.com/s/c8kIjQckFMmOgTGk4tcQ/~/reusable/qbgNEo6Afzfl61lYKyNB/" %}
+| Level 2 - Product evaluation MVE                                                                                                                                                                                                                                                   |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <ul class="contains-task-list"><li><input type="checkbox">Baseline user engagement and retention rate tracking</li><li><input type="checkbox">A simple "Helpful/Not Helpful" binary feedback mechanism for users, providing rapid feedback on content or other features.</li></ul> |
 
 ***
 
@@ -37,4 +39,3 @@ metaLinks:
 {% embed url="https://tally.so/r/A788l0?originPage=level-2-product-evaluation%2Foverview%2Fwhat-is-the-minimum-viable-evaluation" %}
 
 </details>
-
