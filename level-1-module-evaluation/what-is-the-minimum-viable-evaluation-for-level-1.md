@@ -23,15 +23,15 @@ metaLinks:
 
 # What is the Minimum Viable Evaluation for Level 1?
 
-
-
 The earliest stage of AI development involves prototyping with offline evaluations. Here, we strongly recommend using notebooks (e.g. Jupyter notebooks, or Google Colab) to establish reproducible workflows instead of aiming to set up an automated pipeline from the start.
 
 The goal of this step is to quickly analyze errors in the current configuration, make suitable changes, and test for resolution of issues. Working inside a notebook helps you access every component in one place—data, configs, models, metrics and any other intermediate steps like retrieval, tool calling—giving you full visibility into your existing system and a test bed for validating your experiments end-to-end.
 
 Once you are ready to deploy a product to actual users, consider using an observability platform (like Langfuse or DeepEval) to automatically record traces as you iterate. This is important for understanding where your AI system is failing and why. But don’t let this delay your launch.
 
-{% include "https://app.gitbook.com/s/Ec5nQAw37GGYw1m7rYdO/~/reusable/3AxJShrmR4dgC1e7o601/" %}
+| Level 1 - Model evaluation MVE                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <ul class="contains-task-list"><li><input type="checkbox">At least <a href="../how-to-evaluate/how-is-level-1-evaluation-performed.md">one robust safety/guardrail metric</a> as part of your overall rubric computed on your Golden Dataset</li><li><input type="checkbox">A 30-50 item <a href="../how-to-evaluate/how-is-level-1-evaluation-performed.md">Golden Dataset</a> representing key, diverse user interactions</li><li><input type="checkbox"><a href="../how-to-evaluate/how-is-level-1-evaluation-performed.md">Expert review of AI system</a> responses for inputs in the Golden Dataset, as you iterate on your system configuration</li></ul> |
 
 ***
 
