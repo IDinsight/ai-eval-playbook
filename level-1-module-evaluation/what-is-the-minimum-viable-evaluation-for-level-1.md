@@ -31,7 +31,7 @@ The goal of this step is to quickly analyze errors in the current configuration,
 
 Once you are ready to deploy a product to actual users, consider using an observability platform (like Langfuse or DeepEval) to automatically record traces as you iterate. This is important for understanding where your AI system is failing and why. But don’t let this delay your launch.
 
-{% include "https://app.gitbook.com/s/c8kIjQckFMmOgTGk4tcQ/~/reusable/lwsl8FO9PoWvCTgiqdmI/" %}
+{% include "https://app.gitbook.com/s/Ec5nQAw37GGYw1m7rYdO/~/reusable/3AxJShrmR4dgC1e7o601/" %}
 
 ***
 
