@@ -29,7 +29,7 @@ Beyond the team, we define five building blocks for building and evaluating AI p
 
 GenAI products—such as math tutors or clinical decision support—operate within larger systems. A government AI tutor, for instance, depends on teacher training, devices, and incentives. If outcomes fall short, the cause may be the model (level 1) or program delivery. Understanding the full system is essential.
 
-<div data-full-width="true"><img src="../.gitbook/assets/Figure2.svg" alt="Figure 2. Unit of AI evaluation across systems" width="563"></div>
+<div data-full-width="true"><img src="../.gitbook/assets/Diagram2B_cropped.svg" alt="Figure 2. Unit of AI evaluation across systems"></div>
 
 **Formative research** helps organizations define the context and system in which a GenAI product operates (Figure 2). At the center is the **AI system**, which includes multiple components—one of which is a foundation model (e.g. GPT-5, Claude Opus 4.5, Gemini 3). Foundation models are trained on large datasets to learn patterns and generate new outputs—text, images, code, or audio—that resemble their training data. In this playbook, however, the AI system extends beyond the model itself to include prompts, knowledge bases, and other elements of the broader AI pipeline.
 
