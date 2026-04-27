@@ -17,8 +17,7 @@ layout:
     visible: true
 metaLinks:
   alternates:
-    - >-
-      https://app.gitbook.com/s/NdqczEOrO06puTzbj8Wy/level-3-user-evaluation/overview/who-is-the-user-being-evaluated
+    - /broken/spaces/NdqczEOrO06puTzbj8Wy/pages/ueUF3L4EVN38qPpzMZv4
 ---
 
 # Who is the “User” being evaluated?

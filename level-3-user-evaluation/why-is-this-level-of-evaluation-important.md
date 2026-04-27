@@ -17,8 +17,7 @@ layout:
     visible: true
 metaLinks:
   alternates:
-    - >-
-      https://app.gitbook.com/s/NdqczEOrO06puTzbj8Wy/level-3-user-evaluation/overview/why-is-this-level-of-evaluation-important
+    - /broken/spaces/NdqczEOrO06puTzbj8Wy/pages/yhdHimOuVIxCNx9ERaQA
 ---
 
 # Who is most involved in this level of evaluation?

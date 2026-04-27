@@ -20,8 +20,7 @@ layout:
     visible: true
 metaLinks:
   alternates:
-    - >-
-      https://app.gitbook.com/s/NdqczEOrO06puTzbj8Wy/level-3-user-evaluation/overview
+    - /broken/spaces/NdqczEOrO06puTzbj8Wy/pages/tAo0tdfjs0NebyNJyowo
 ---
 
 # Overview

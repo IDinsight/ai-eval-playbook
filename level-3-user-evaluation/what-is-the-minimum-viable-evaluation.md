@@ -17,8 +17,7 @@ layout:
     visible: true
 metaLinks:
   alternates:
-    - >-
-      https://app.gitbook.com/s/NdqczEOrO06puTzbj8Wy/level-3-user-evaluation/overview/what-is-the-minimum-viable-evaluation
+    - /broken/spaces/NdqczEOrO06puTzbj8Wy/pages/Lfep0jhhN6GrOVDpJsYj
 ---
 
 # What is the Minimum Viable Evaluation?

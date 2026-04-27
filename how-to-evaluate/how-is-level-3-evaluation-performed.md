@@ -63,7 +63,7 @@ After identifying intermediate outcomes that serve as early indicators of the de
 
 It is important to know that collecting data on user thoughts and feelings (Level 3) carries significant legal and ethical responsibilities. Because using GenAI models may involve sending data to third-party model providers (e.g., OpenAI, Google, Anthropic), it is important to pay attention to data governance and privacy and safety policies.
 
-<a href="user-privacy-and-security.md" class="button primary">Read more -></a>
+<a href="/broken/pages/BwxpqwOyTZ2GhEbCk44C" class="button primary">Read more -></a>
 
 
 
