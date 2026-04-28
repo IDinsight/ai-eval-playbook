@@ -2,7 +2,7 @@
 
 This playbook draws on real-world evaluation practices developed during the 2025 [AI for Global Development (AI4GD) accelerator](https://agencyfund.notion.site/ai-for-global-development). The Accelerator—led by The Agency Fund (TAF) in collaboration with OpenAI and experts at the Center for Global Development (CGD)—invested $5 million in eight non-profits building GenAI products and services across education, health, and agricultural livelihoods.
 
-CGD convened a Technical Working Group to refine these evaluation lessons into this living playbook. The group included more than 30 experts across computer science, economics, gender studies, health, education, and agriculture, with representation from Asia, Africa, North America, and Europe. IDinsight also interviewed non-profits building or deploying generative AI in the social sector to understand their current evaluation approaches and what guidance they find most actionable. More than 300 comments from experts and nonprofits informed the next version of the playbook. The convening and development of this Playbook was funded by the Gates Foundation.
+CGD convened a Technical Working Group to refine these evaluation lessons into this living playbook. The group included more than 30 experts across computer science, economics, gender studies, health, education, and agriculture, with representation from Asia, Africa, North America, and Europe. IDinsight also interviewed non-profits building or deploying generative AI in the social sector to understand their current evaluation approaches and what guidance they find most actionable. More than 300 comments from experts and nonprofits informed the next version of the playbook. The convening and development of this Playbook was funded by the Gates Foundation. The findings and conclusions contained within are those of the authors and do not necessarily reflect positions or policies of the Gates Foundation.
 
 The Playbook is now a living document with a development roadmap that will evolve as evidence and AI capabilities advance, with TAF, IDinsight, and CGD stewarding updates and incorporating community feedback.<br>
 
@@ -17,6 +17,8 @@ Note: The version Working Group Members first published in March 2026 can be fou
 
 
 ### Community of Contributors
+
+
 
 {% columns %}
 {% column %}
