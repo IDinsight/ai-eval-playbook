@@ -45,16 +45,12 @@ Note: The version Working Group Members first published in March 2026 can be fou
 
 {% columns %}
 {% column %}
-Asim Fayaz, The Agency Fund
-
-Aman Dalmia, The Agency Fund
+Suzin You, IDinsight
 
 Isha Fuletra, IDinsight
 {% endcolumn %}
 
 {% column %}
-Suzin You, IDinsight
-
 Yolanda Yang, CGD
 {% endcolumn %}
 {% endcolumns %}
