@@ -1,11 +1,11 @@
 ---
-cover: .gitbook/assets/Banner-Image-1990x480.jpg
+cover: .gitbook/assets/2. Banner (3).png
 coverY: 0
 layout:
   width: default
   cover:
     visible: true
-    size: full
+    size: hero
   title:
     visible: true
   description:
