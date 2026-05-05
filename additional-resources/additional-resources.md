@@ -38,7 +38,7 @@ metaLinks:
 ### LLM evaluation in the social sector
 
 * [Generative AI for Health in Low & Middle Income Countries](https://cdh.stanford.edu/research-portfolio/generative-ai-health-low-middle-income-countries)
-* [Evaluation framework of PROMPTS at Jacaranda Health](https://www.google.com/url?q=https://cdh.stanford.edu/generative-ai-health-low-middle-income-countries\&sa=D\&source=editors\&ust=1770879887027623\&usg=AOvVaw2tnpWpMI0955H3SybGibhB)
+* [Evaluation framework of PROMPTS at Jacaranda Health](https://www.google.com/url?q=https://cdh.stanford.edu/generative-ai-health-low-middle-income-countries\&sa=D\&source=editors\&ust=1770879887027623\&usg=AOvVaw2tnpWpMI0955H3SybGibhB) (pg 33)
 * [Evaluation framework at Precision Development](https://precisiondev.org/evaluating-ai-for-learning-a-framework/) ([slide](https://www.google.com/url?q=https://docs.google.com/presentation/d/1agCgpDWNVWtbOFhdlDYUpLM3OxyHP5CxyzON_tn61x0/edit?slide%3Did.p%23slide%3Did.p\&sa=D\&source=editors\&ust=1770879887028358\&usg=AOvVaw37SXt8aprD7bCVCdrsfQAW))
 * [Evaluation of Farmer.Chat at Digital Green](https://arxiv.org/abs/2409.08916)
 * [Evaluation of mMitra at Armman](https://docs.google.com/presentation/d/1mAF1lI8tkTjLLW3SjwrV8mdz4VDkTdog/edit?slide=id.p1#slide=id.p1)
