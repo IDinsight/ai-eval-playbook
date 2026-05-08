@@ -14,3 +14,4 @@
 * [Define guardrail metrics and measure potential harm](how-to-evaluate/defining-guardrail-metrics-measuring-potential-harm.md "Define guardrail metrics and measure potential harm")
 * [Consider conducting experiments to improve the selected key metrics and running process evaluations](how-to-evaluate/why-arent-thoughts-feelings-and-behavior-changing.md)
 * [Why Aren’t Thoughts, Feelings, and Behavior Changing?](how-to-evaluate/user-privacy-and-security.md "Challenges")
+* [Next: L4 Impact Evaluation →](https://eval.playbook.org.ai/social-impact/level-4-impact-evaluation/overview)
