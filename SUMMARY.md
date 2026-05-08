@@ -16,3 +16,4 @@
 * [Scoring & error analysis](how-to-evaluate/4.-scoring-and-error-analysis.md)
 * [Automate your evaluations](how-to-evaluate/5.-automate-your-evaluations.md)
 * [Red-teaming](how-to-evaluate/6.-red-teaming.md)
+* [Next: L2 Product Evaluation →](https://eval.playbook.org.ai/product-analytics/level-2-product-evaluation/overview)
