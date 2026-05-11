@@ -1,7 +1,7 @@
 ---
-cover: .gitbook/assets/1. Banner (1).png
-coverY: 15.000505206459447
-coverHeight: 234
+cover: .gitbook/assets/Banner 3.0.png
+coverY: 0
+coverHeight: 358
 layout:
   width: default
   cover:
