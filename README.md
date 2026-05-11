@@ -23,11 +23,11 @@ metaLinks:
 
 # Overview
 
-There are several ways to link the four levels as you develop and evaluate an AI solution. These cross-level linkages are essential for tracing how changes in your model system, product, solution, and/or program affect outcomes—whether intentional or not. Key practices include:
+There are several ways to link the four levels as you develop and evaluate an AI solution. These cross-level linkages are essential for tracing how changes in your model system, product, solution, and/or program affect outcomes—whether intentional or not. Consideration of risks and data protection requirements should also be done in a wholistic manner that cuts across the levels. Key practices include:
 
 * Developing Level 1-3 metrics at each stage of the user funnel;
 * Defining a single set of identifiers that links data collected at each level (e.g. a user ID, session, and model/product version)
-* Ensuring product managers, data scientists, and user researchers cooperate across levels to provide continuity and context while iterating on product features.
+* Ensuring product managers, data scientists, and user researchers cooperate across levels to manage risks and provide continuity and context while iterating on product features.
 
 Here are a few other actions you can take to link your evaluations across levels:
 
