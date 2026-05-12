@@ -1,5 +1,5 @@
 ---
-cover: .gitbook/assets/Banner 3.0.png
+cover: .gitbook/assets/Gates Logo (1).png
 coverY: 0
 coverHeight: 358
 layout:
