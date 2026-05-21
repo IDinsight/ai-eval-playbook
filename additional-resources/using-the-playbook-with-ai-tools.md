@@ -15,6 +15,9 @@ layout:
     visible: true
   tags:
     visible: true
+metaLinks:
+  alternates:
+    - href: /additional-resources/using-the-playbook-with-ai-tools
 ---
 
 # Using the Playbook with AI Tools
@@ -27,7 +30,7 @@ Each option comes with a tradeoff in terms of ease of setting up and the feature
 
 **Best for: Answering questions on evaluation and preparing artifacts like slides/docs/reports.**
 
-A "skill" that extends Claude's capabilities by giving it access to specialized knowledge and workflows. For example, a talent presenter can create a "skill" explaining the techniques they use to make engaging presentations. This skill can then be used to help others learn from their expertise and mimic their presentation style.
+A "skill" that extends Claude's capabilities by giving it access to specialized knowledge and workflows. For example, a talented presenter can create a "skill" explaining the techniques they use to make engaging presentations. This skill can then be used to help others learn from their expertise and mimic their presentation style.
 
 A skill file is a simple text file that contains the specialized knowledge and workflows. It can be uploaded to your AI tool of choice and used to answer your questions following the instructions in the skill file.
 
@@ -137,7 +140,7 @@ You can see the response is grounded in the playbook and it cites the specific s
 
 **Best for: Running the same type of task repeatedly, especially if your team already uses Google Workspace (Docs, Sheets, Drive).**
 
-[Gemini Gems](https://gemini.google/overview/gems/) let you create a customised version of Gemini that performs a concrete task with specific instructions and a clear goal repeatedly.
+[Gemini Gems](https://gemini.google/overview/gems/) let you create a customized version of Gemini that performs a concrete task with specific instructions and a clear goal repeatedly.
 
 Think of it as a dedicated assistant pre-configured to work with the 4-level framework. You can also connect it to Google docs/sheets/slides, making it useful when you want to apply the framework alongside your own organisation's data and documents.
 
