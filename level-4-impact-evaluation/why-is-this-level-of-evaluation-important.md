@@ -15,6 +15,8 @@ layout:
     visible: true
   tags:
     visible: true
+  actions:
+    visible: true
 metaLinks:
   alternates:
     - >-
@@ -30,7 +32,7 @@ metaLinks:
 
 ## Why is this level of evaluation important?
 
-Interventions in the development sector aim to improve the quality of people’s lives. Impact evaluations (IEs) measure the effects of the intervention on outcomes such as mortality, learning outcomes, and earnings. The main issue these evaluations face is that the world is a messy place: as an intervention is being implemented, many other things are happening that would make a simple before-and-after comparison a bad way to judge program effectiveness.
+Interventions in the development sector aim to improve the quality of people’s lives. Impact evaluations (IEs) measure the effects of the intervention on outcomes such as mortality, learning outcomes, and earnings. The main issue these evaluations face is that the world is a messy place: as an intervention is being implemented, many other things are happening that would make a simple before-and-after comparison an insufficient way to judge program effectiveness.
 
 To address this, we consider the counterfactual: what would have happened to the same people in the absence of the intervention. Because we cannot observe both realities at once (the same people with and without the intervention), we estimate the counterfactual using a comparison group that is as similar as possible to the group that received the intervention. It represents what would have happened without the program. Comparing outcomes across these groups helps us isolate the intervention’s impact.
 

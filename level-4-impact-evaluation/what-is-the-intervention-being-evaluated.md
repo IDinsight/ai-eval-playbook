@@ -15,6 +15,8 @@ layout:
     visible: true
   tags:
     visible: true
+  actions:
+    visible: true
 metaLinks:
   alternates:
     - >-
@@ -49,7 +51,7 @@ Although IEs are usually run later, credible and cost-effective evaluation requi
 
 ### How to do an IE responsibly
 
-Rigorous IEs require expertise. We recommend working with an **independent evaluator**—such as an academic partner, a research or research-and-policy organization (e.g., J-PAL, IPA), or a third-party M\&E firm (e.g., IDinsight, Laterite)—to strengthen technical quality and perceived independence. Being clear on your evaluation goals (as discussed above) will help you choose among evaluator options.
+Rigorous IEs require expertise. We recommend working with an **independent evaluator**—such as an academic partner, a research or research-and-policy organization (e.g., J-PAL, IPA, or an LMIC-based evaluation firm), or a third-party M\&E firm (e.g., IDinsight, Laterite)—to strengthen technical quality and the perceived independence of the impact evaluation. Being clear on your evaluation goals (as discussed above) will help you choose among evaluator options.
 
 At a minimum, we suggest:
 

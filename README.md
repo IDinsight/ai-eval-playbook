@@ -16,6 +16,8 @@ layout:
     visible: true
   tags:
     visible: true
+  actions:
+    visible: true
 metaLinks:
   alternates:
     - >-
@@ -26,7 +28,7 @@ metaLinks:
 
 
 
-Impact evaluation is the "gold standard" of evidence. While Level 3 measures shifts in thoughts and feelings, Level 4 measures the ultimate results: improved crop yields, higher test scores, or better health outcomes. By using a counterfactual—comparing those who use your product to a similar group that does not—you can isolate the true impact of your AI intervention from the "noise" of a messy world.
+Impact evaluation provides strong evidence for understanding causal social impact. While Level 3 measures shifts in thoughts and feelings, Level 4 measures the ultimate results: improved crop yields, higher test scores, or better health outcomes. By using a counterfactual—comparing those who use your product to a similar group that does not—you can isolate the true impact of your AI intervention from the "noise" of a messy world.
 
 ***
 
@@ -46,11 +48,11 @@ Policy makers, donors, and governments require credible evidence before they inv
 
 To know if your AI tool works, you must estimate what would have happened to the same people _without_ it. We do this by creating a comparison group.
 
-| Method                       | How it Works                                                           | Best Used When...                                      |
-| ---------------------------- | ---------------------------------------------------------------------- | ------------------------------------------------------ |
-| **RCT**                      | Randomly assign users to "Treatment" or "Control."                     | You have a large sample and high control over rollout. |
-| **Quasi-Experimental**       | Compare groups that follow "parallel trends" over time.                | Randomization is not feasible or ethical.              |
-| **Regression Discontinuity** | Compare people just above/below a specific cutoff (e.g., test scores). | Resources are allocated based on a strict threshold.   |
+| Method                        | How it Works                                                           | Best Used When...                                      |
+| ----------------------------- | ---------------------------------------------------------------------- | ------------------------------------------------------ |
+| **RCT**                       | Randomly assign users to "Treatment" or "Control."                     | You have a large sample and high control over rollout. |
+| **Difference-in-Differences** | Compare groups that follow "parallel trends" over time.                | Randomization is not feasible or ethical.              |
+| **Regression Discontinuity**  | Compare people just above/below a specific cutoff (e.g., test scores). | Resources are allocated based on a strict threshold.   |
 
 <a href="level-4-impact-evaluation/what-is-the-intervention-being-evaluated.md" class="button primary">Read more -></a>
 
