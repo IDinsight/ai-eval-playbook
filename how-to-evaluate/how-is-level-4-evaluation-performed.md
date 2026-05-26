@@ -15,10 +15,11 @@ layout:
     visible: true
   tags:
     visible: true
+  actions:
+    visible: true
 metaLinks:
   alternates:
-    - >-
-      https://app.gitbook.com/s/NdqczEOrO06puTzbj8Wy/level-4-impact-evaluation/how-is-level-4-evaluation-performed
+    - /broken/spaces/NdqczEOrO06puTzbj8Wy/pages/AFlY5GiRC66jsYKV1dHL
 ---
 
 # How is Level 4 evaluation performed?
@@ -33,7 +34,7 @@ At its core, impact evaluation compares a Treatment Group (those using the AI) t
 | ------------------------- | ---------------------------------------------------------------------------------------------------------------------- |
 | RCTs                      | You have a large sample and can randomly assign access to ensure groups are identical.                                 |
 | Propensity Score Matching | You have a large dataset of users and non-users and need to statistically "match" them based on similar traits.        |
-| Quasi-Experimental        | Randomization isn't possible, but you can compare trends before and after the intervention between two similar groups. |
+| Difference-in-Differences | Randomization isn't possible, but you can compare trends before and after the intervention between two similar groups. |
 | Regression Discontinuity  | The intervention is delivered based on a strict numeric cutoff (e.g., test scores or income level).                    |
 
 <a href="a-quick-primer-on-impact-evaluation-methods.md" class="button primary">Read more -></a>
