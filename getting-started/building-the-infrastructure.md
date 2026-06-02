@@ -15,6 +15,8 @@ layout:
     visible: true
   tags:
     visible: true
+  actions:
+    visible: true
 metaLinks:
   alternates:
     - >-
@@ -45,7 +47,7 @@ From an evaluation standpoint, a TOC explains how earlier-stage Level 1–3 vari
 
 Formative research and a TOC also help define the target population: the people or institutions (e.g., schools, health clinics) the intervention aims to benefit. Crucially, this population is **heterogeneous**; clinics vary in capacity, schools in remoteness, individuals in wealth, spoken language, literacy and digital access. Women and girls and other marginalized communities might also experience intersecting inequalities in relation to disability and other axes of inequality. For evaluation, this creates subgroups of interest. The experiences of these subgroups should be monitored at every evaluation level to detect unequal effectiveness to ensure that your product is not reproducing existing bias and inequalities.
 
-For evaluation, this creates subgroups of interest. Subgroups such as gender or rural populations should be monitored at every evaluation level to detect unequal effectiveness. Under a “minimum viable evaluation” approach—doing only what is needed to mitigate serious risks—you can define a broad initial population while focusing on those least able to benefit. That assessment can be informed by the theory of change. Teams can then iteratively design and evaluate for priority groups, such as rural, low-capacity clinics in a health assistant intervention or low-income indigenous girls in a tutoring program. Track outcomes for these subgroups and adjust the AI workflow, product, or intervention so they benefit. However, when evaluating effects on subgroups, achieving sufficient statistical power may not always be feasible.&#x20;
+For evaluation, this creates subgroups of interest. Subgroups such as gender or rural populations should be monitored at every evaluation level to detect unequal effectiveness. Under a “minimum viable evaluation” approach—doing only what is needed to mitigate serious risks—you can define a broad initial population while focusing on those least able to benefit. That assessment can be informed by the theory of change. Teams can then iteratively design and evaluate for priority groups, such as rural, low-capacity clinics in a health assistant intervention or low-income indigenous girls in a tutoring program. Track outcomes for these subgroups and adjust the AI workflow, product, or intervention so they benefit. However, when evaluating effects on subgroups, achieving sufficient statistical power may not always be feasible.
 
 Teams may have to prioritize key subgroups and balance rigor with available resources. Given that prioritization may exclude vulnerable subgroups, teams should carefully assess the tradeoffs and explicitly justify their exclusion.<br>
 
@@ -59,37 +61,37 @@ Funnel design is usually bottom-up. Start with the **final development outcome**
 
 {% stepper %}
 {% step %}
-#### Recruitment
+**Recruitment**
 
 The beneficiary is identified and enters the program. (Level 2)
 {% endstep %}
 
 {% step %}
-#### Onboarding
+**Onboarding**
 
 The user is introduced to the AI product and completes initial setup. (Level 2)
 {% endstep %}
 
 {% step %}
-#### Engagement
+**Engagement**
 
 The user begins actively interacting with the AI product (Level 2).
 {% endstep %}
 
 {% step %}
-#### Retention
+**Retention**
 
 The user continues engaging with the AI product over time, rather than dropping off (Level 2). Level 1 evaluation may continue as needed to monitor model behavior.
 {% endstep %}
 
 {% step %}
-#### Proximal Outcome
+**Proximal Outcome**
 
 The user demonstrates near-term cognitive or behavioral change (Level 3). Level 1 evaluation may continue as needed to monitor model behavior.
 {% endstep %}
 
 {% step %}
-#### Development Outcome
+**Development Outcome**
 
 The user achieves the desired long-term result (Level 4).
 {% endstep %}
@@ -184,8 +186,6 @@ Throughout experimentation, maintain version control by logging every change to 
 {% embed url="https://tally.so/r/A788l0?originPage=overview%2Fbuilding-blocks-for-genai-evaluation%2Fbuilding-the-infrastructure" %}
 
 </details>
-
-
 
 [^1]: **Accuracy** refers to the proportion of system outputs that are correct according to a task-specific ground truth or expert-validated rubric.
 

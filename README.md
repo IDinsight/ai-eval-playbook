@@ -21,6 +21,8 @@ layout:
     visible: true
   tags:
     visible: true
+  actions:
+    visible: true
 ---
 
 # About this playbook
@@ -29,7 +31,7 @@ From math tutors to farmer advisory tools, generative AI (GenAI) is rapidly expa
 
 <br>
 
-<figure><img src=".gitbook/assets/EvaluationLevels-Diagram.svg" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/Diagram1-Updated.svg" alt=""><figcaption></figcaption></figure>
 
 ### Why we need this playbook
 

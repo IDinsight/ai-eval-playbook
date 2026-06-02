@@ -15,9 +15,11 @@ layout:
     visible: true
   tags:
     visible: true
+  actions:
+    visible: true
 metaLinks:
   alternates:
-    - href: /additional-resources/using-the-playbook-with-ai-tools
+    - '[object%20Object]/'
 ---
 
 # Using the Playbook with AI Tools
@@ -133,8 +135,8 @@ You can see the response is grounded in the playbook and it cites the specific s
 
 **Things to keep in mind**
 
-- NotebookLM keeps responses strictly within what you've uploaded — it won't draw on outside knowledge. This is great for accuracy, but means it won't combine the framework with other context you haven't added.
-- You can add more links and documents as sources beyond the playbook to NotebookLM so that the response takes all the sources into account.
+* NotebookLM keeps responses strictly within what you've uploaded — it won't draw on outside knowledge. This is great for accuracy, but means it won't combine the framework with other context you haven't added.
+* You can add more links and documents as sources beyond the playbook to NotebookLM so that the response takes all the sources into account.
 
 ## Gemini Gems
 
@@ -216,8 +218,8 @@ You can see the full response [here](https://gemini.google.com/share/eb1f3e03b45
 
 **Things to keep in mind**
 
-- Gems work best for tasks you run regularly — like reviewing an evaluation plan against the framework, or checking whether a set of metrics maps to the right level.
-- You can combine the knowledge with tools like deep research, creating images and videos, etc. as shown below.
+* Gems work best for tasks you run regularly — like reviewing an evaluation plan against the framework, or checking whether a set of metrics maps to the right level.
+* You can combine the knowledge with tools like deep research, creating images and videos, etc. as shown below.
 
 ![](../.gitbook/assets/ai/gems-5.png)
 
@@ -241,10 +243,10 @@ For copying the contents of a single page rather than the whole playbook, you ca
 
 **Things to keep in mind**
 
-- This works in any AI tool and no other setup is required. The entire playbook text is around 45,000 words. Most modern AI tools can handle this, but very long pastes may slow down responses or exhaust the token limit of your plan.
-- You need to paste it fresh every new conversation. Once the value of the playbook is clear to you, switch to one of the options above so that you don't have to keep pasting the playbook content every time.
+* This works in any AI tool and no other setup is required. The entire playbook text is around 45,000 words. Most modern AI tools can handle this, but very long pastes may slow down responses or exhaust the token limit of your plan.
+* You need to paste it fresh every new conversation. Once the value of the playbook is clear to you, switch to one of the options above so that you don't have to keep pasting the playbook content every time.
 
----
+***
 
 ## MCP server
 
@@ -284,7 +286,7 @@ _Designs RCTs and quasi-experimental studies, manages counterfactual selection, 
 
 **What you'll get:** A structured pre-analysis plan with AI-specific versioning and spillover sections — ready for pre-registration.
 
----
+***
 
 **Example 2 — Stress-testing a Theory of Change**
 
@@ -314,7 +316,7 @@ _Validates rubrics, golden datasets, metric definitions, and Theory of Change as
 
 **What you'll get:** A detailed critique with dimension-by-dimension gaps, real failure cases, sharper definitions, and a missing dimension — ready to return to the engineering team.
 
----
+***
 
 **Example 2 — Annotating a Theory of Change**
 
@@ -344,7 +346,7 @@ _Works in government, multilaterals, or think tanks. Interprets evaluation findi
 
 **What you'll get:** A structured brief with plain-language verdicts, risk analysis, scale conditions, and a one-paragraph executive summary — ready to hand to the Secretary.
 
----
+***
 
 **Example 2 — Comparing two competing interventions**
 
@@ -378,7 +380,7 @@ _Works at a foundation, bilateral donor, or multilateral. Reviews grant proposal
 
 **What you'll get:** A level-by-level gap analysis mapped to the MVE checklists, specific clarification questions, and a funding verdict with non-negotiable conditions — reviewable by your investment committee.
 
----
+***
 
 **Example 2 — Setting evaluation requirements for an RFP**
 
@@ -408,7 +410,7 @@ _Builds and maintains the AI pipeline, evaluation rubrics, golden datasets, and 
 
 **What you'll get:** A structured rubric with pass/fail examples and scorer recommendations — ready to hand to your team before the dataset sprint begins.
 
----
+***
 
 **Example 2 — Seeding a golden dataset**
 
@@ -438,7 +440,7 @@ _Owns product metrics, the user funnel, A/B test design, and translating evaluat
 
 **What you'll get:** A complete funnel with stage-by-stage metrics, measurement methods, and leading indicators — ready for your engineering sprint planning.
 
----
+***
 
 **Example 2 — Writing an A/B test plan**
 
@@ -468,7 +470,7 @@ _Builds ETL pipelines, defines metric schemas, runs A/B analysis, and connects d
 
 **What you'll get:** A multi-level schema design with join logic, data frequency handling, and a practical failure checklist.
 
----
+***
 
 **Example 2 — Building a surrogate index**
 
@@ -498,7 +500,7 @@ _Measures cognitive, affective, and behavioural outcomes. Runs surveys, intervie
 
 **What you'll get:** A 3-item survey with conversational wording, validated constructs, and cultural adaptation notes — ready to embed in your chatbot flow.
 
----
+***
 
 **Example 2 — Analysing conversation logs at scale**
 
@@ -512,7 +514,7 @@ _Measures cognitive, affective, and behavioural outcomes. Runs surveys, intervie
 
 **What you'll get:** A scalable analysis pipeline with method-to-signal mappings, a ready-to-use judge prompt, and dependency detection checks.
 
----
+***
 
 <details>
 
