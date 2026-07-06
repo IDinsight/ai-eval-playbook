@@ -15,6 +15,8 @@ layout:
     visible: true
   tags:
     visible: true
+  actions:
+    visible: true
 metaLinks:
   alternates:
     - >-
@@ -62,7 +64,7 @@ Remember that AI solutions can take many forms. They can be chatbots, voice bots
 
 Consider a product answering questions from farmers in Pulaar. The AI system includes the three components as follows:
 
-<table><thead><tr><th width="203.69140625">Component</th><th>Workflow Steps</th></tr></thead><tbody><tr><td>Pre-processing</td><td><ul><li>Check input for malicious or off-topic content (filtering model)</li><li>Translate query from Pulaar to English (translation model)</li></ul></td></tr><tr><td>Context Preparation</td><td><ul><li>Retrieve relevant agricultural content from the database</li><li>Retrieve specific information about the farmer from the context window</li><li>Generate response to processed user input (large language model)</li></ul></td></tr><tr><td>Post-processing</td><td><ul><li>Verify the answer is grounded in the content provided in your knowledge base</li><li>Translate the response back to Pulaa (translation model)</li></ul></td></tr></tbody></table>
+<table><thead><tr><th width="203.69140625">Component</th><th>Workflow Steps</th></tr></thead><tbody><tr><td>Pre-processing</td><td><ul><li>Check input for malicious or off-topic content (filtering model)</li><li>Translate query from Pulaar to English (translation model)</li></ul></td></tr><tr><td>Context Preparation</td><td><ul><li>Retrieve relevant agricultural content from the database</li><li>Retrieve specific information about the farmer from the context window</li><li>Generate response to processed user input (large language model)</li></ul></td></tr><tr><td>Post-processing</td><td><ul><li>Verify the answer is grounded in the content provided in your knowledge base</li><li>Translate the response back to Pulaar (translation model)</li></ul></td></tr></tbody></table>
 
 ### Low vs high-resource languages
 
