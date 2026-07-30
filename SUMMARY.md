@@ -17,6 +17,7 @@
 
 * [Frequently Asked Questions](additional-resources/frequently-asked-questions.md)
 * [Tools & Templates](additional-resources/additional-resources.md)
+* [Resources for Funders](additional-resources/resources-for-funders.md)
 * [Minimum Viable Evaluations](additional-resources/minimum-viable-evaluations.md)
 * [Glossary](additional-resources/glossary.md)
 * [Using the Playbook with AI Tools](additional-resources/using-the-playbook-with-ai-tools.md)
