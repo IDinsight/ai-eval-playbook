@@ -1,5 +1,5 @@
 ---
-description: 12 Questions for Funders to Assess an Applicant’s AI Evaluation Maturity
+description: 15 Questions for Funders to Assess an Applicant’s AI Evaluation Maturity
 ---
 
 # Resources for Funders
