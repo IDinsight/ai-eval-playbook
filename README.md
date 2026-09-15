@@ -1,12 +1,13 @@
 ---
-cover: .gitbook/assets/Gates Logo (1).png
+cover: .gitbook/assets/Gitbook Banner w_gates logo (3).png
 coverY: 0
-coverHeight: 358
+coverHeight: 281
 layout:
   width: default
   cover:
     visible: true
     size: hero
+    mask: none
   title:
     visible: true
   description:
@@ -23,6 +24,8 @@ layout:
     visible: true
   actions:
     visible: true
+  anchors:
+    visible: true
 ---
 
 # About this playbook
@@ -31,7 +34,7 @@ From math tutors to farmer advisory tools, generative AI (GenAI) is rapidly expa
 
 <br>
 
-<figure><img src=".gitbook/assets/Diagram1-Updated.svg" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/EvaluationLevels-Diagram.svg" alt=""><figcaption></figcaption></figure>
 
 ### Why we need this playbook
 
@@ -39,7 +42,9 @@ Evaluating GenAI products can mean different things depending on who you ask. Te
 
 This playbook establishes a unified set of expectations and practices for evaluating GenAI products in global development.
 
-{% include ".gitbook/includes/cards.md" %}
+
+
+<table data-view="cards"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td><h4><i class="fa-memo-circle-check">:memo-circle-check:</i></h4></td><td><strong>Create Shared Practices</strong></td><td>Use consistent, credible, and comparable practices to assess what works and drive learning across the industry.</td></tr><tr><td><h4><i class="fa-arrow-up-right-dots">:arrow-up-right-dots:</i></h4></td><td><strong>Improve Products and Programs</strong></td><td>Identify issues early through continuous evaluation and build better products over time.</td></tr><tr><td><h4><i class="fa-user-shield">:user-shield:</i></h4></td><td><strong>Demonstrate Accountability</strong></td><td>Show stakeholders measurable progress from model performance to impact.</td></tr></tbody></table>
 
 ### Who is this playbook for
 
@@ -59,7 +64,13 @@ The playbook helps implementers conduct continuous evaluation across levels. Oft
 
 ### Setting the Foundation
 
-{% include ".gitbook/includes/setting-foundation.md" %}
+To move from a promising AI prototype to a scalable tool for social impact, you need more than just sophisticated code—edging toward real-world change requires a deliberate combination of people and process.
+
+{% hint style="warning" icon="circle-info" %}
+This section of the Playbook **outlines the two foundational pillars of your evaluation journey**: assembling a multidisciplinary team and establishing the technical and conceptual infrastructure to measure success.
+{% endhint %}
+
+{% include ".gitbook/includes/cards.md" %}
 
 #### Additional Resources
 
@@ -67,9 +78,26 @@ The playbook helps implementers conduct continuous evaluation across levels. Oft
 
 #### Stay involved
 
-* [See the process behind the playbook](overview/the-process-behind-this-playbook.md)
-* [Contribute to this playbook](overview/how-to-contribute-to-the-playbook.md)<br>
+* [See the process behind the playbook](getting-started-1/the-process-behind-this-playbook.md)
+* [Contribute to this playbook](getting-started-1/how-to-contribute-to-the-playbook.md)<br>
+
+{% hint style="warning" icon="circle-info" %}
+**This is a living playbook.** It will be updated regularly, with deeper collaboration with specialists to co-create shared evaluation tools, refine methodologies, and support their practical use in real-world settings.
+{% endhint %}
 
 ***
 
-This is a living playbook. It will be updated regularly, with deeper collaboration with specialists to co-create shared evaluation tools, refine methodologies, and support their practical use in real-world settings.
+{% hint style="success" icon="star" %}
+**Note: This playbook can be used directly with AI tools like Claude, ChatGPT, and NotebookLM.** \
+[_**Explore how**_**&#x20;>**](additional-resources/using-the-playbook-with-ai-tools.md)
+{% endhint %}
+
+***
+
+<details>
+
+<summary>💬 Want to suggest edits or provide feedback?</summary>
+
+{% embed url="https://tally.so/r/A788l0?originPage=level-1-model-evaluation%2Foverview" %}
+
+</details>

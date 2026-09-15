@@ -15,6 +15,10 @@ layout:
     visible: true
   tags:
     visible: true
+  actions:
+    visible: true
+  anchors:
+    visible: true
 metaLinks:
   alternates:
     - >-
@@ -22,8 +26,6 @@ metaLinks:
 ---
 
 # Building Blocks for GenAI Evaluation
-
-
 
 To move from a promising AI prototype to a scalable tool for social impact, you need more than just sophisticated code—edging toward real-world change requires a deliberate combination of people and process.
 
@@ -41,7 +43,7 @@ In this section, we define the specific roles required—from AI Engineers and D
 * Collaboration Best Practices: How to pair technical staff with domain experts early to ensure "accuracy" aligns with "human need."
 * Shared Language: Tools for creating a unified vocabulary to avoid the "jargon trap."
 
-<a href="building-the-team.md" class="button primary">Learn more -></a>
+<a href="../getting-started/building-the-team.md" class="button primary">Learn more -></a>
 
 ***
 
@@ -57,7 +59,7 @@ This section provides a technical and strategic roadmap for:
 4. Hypothesis Targeting: A disciplined approach to diagnosing why users drop off or why metrics underperform.
 5. Experimentation: Moving from intuition to evidence through A/B testing and rigorous version control.
 
-<a href="building-the-infrastructure.md" class="button primary">Learn more -></a>
+<a href="../getting-started/building-the-infrastructure.md" class="button primary">Learn more -></a>
 
 ***
 

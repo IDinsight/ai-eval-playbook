@@ -17,9 +17,12 @@ layout:
     visible: true
   actions:
     visible: true
+  anchors:
+    visible: true
 metaLinks:
   alternates:
-    - '[object%20Object]/'
+    - >-
+      https://github.com/IDinsight/ai-eval-playbook/blob/introduction/additional-resources/[object%20Object]/README.md
 ---
 
 # Using the Playbook with AI Tools
@@ -38,7 +41,7 @@ A skill file is a simple text file that contains the specialized knowledge and w
 
 To know more about `Skills`, please refer to [this](https://support.claude.com/en/articles/12512176-what-are-skills) blog post by Anthropic and [this](https://youtu.be/a3uMv1S-1tM) step-by-step tutorial on using Claude skills.
 
-We have created a skill file for the AI Evaluation Playbook that answers your questions on evaluation using the 4-level framework. You can download it from [here](../skills/ai-eval-playbook-guide.skill.md).
+We have created a skill file for the AI Evaluation Playbook that answers your questions on evaluation using the 4-level framework. You can download it from [here](https://github.com/IDinsight/ai-eval-playbook/blob/introduction/skills/ai-eval-playbook-guide.skill.md).
 
 ### Adding the playbook skill to Claude
 

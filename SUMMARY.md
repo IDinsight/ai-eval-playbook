@@ -1,17 +1,16 @@
 # Table of contents
 
-## Overview
+## GETTING STARTED
 
 * [About this playbook](README.md "About this Playbook")
-* [About this playbook](overview/readme-1.md "About this Playbook - 2")
-* [The Process Behind it](overview/the-process-behind-this-playbook.md)
-* [How to Contribute to the Playbook](overview/how-to-contribute-to-the-playbook.md "How to Contribute")
+* [Building the Team](getting-started/building-the-team.md)
+* [Building the Infrastructure](getting-started/building-the-infrastructure.md)
 
 ## Getting Started
 
-* [Building Blocks for GenAI Evaluation](getting-started/building-blocks-for-genai-evaluation.md "Setting the Foundation")
-* [Building the Team](getting-started/building-the-team.md)
-* [Building the Infrastructure](getting-started/building-the-infrastructure.md)
+* [Building Blocks for GenAI Evaluation](getting-started-1/building-blocks-for-genai-evaluation.md "Setting the Foundation")
+* [The Process Behind it](getting-started-1/the-process-behind-this-playbook.md)
+* [How to Contribute to the Playbook](getting-started-1/how-to-contribute-to-the-playbook.md "How to Contribute")
 
 ## Additional Resources
 
