@@ -33,13 +33,11 @@ metaLinks:
 Each option comes with a tradeoff in terms of ease of setting up and the features that are available to you. Choose the option that best suits your needs.
 {% endhint %}
 
-
-
 We have created a skill file for the AI Evaluation Playbook that answers your questions on evaluation using the 4-level framework. You can download it from [here](https://github.com/IDinsight/ai-eval-playbook/blob/introduction/skills/ai-eval-playbook-guide.skill.md).
 
 <details>
 
-<summary><i class="fa-microchip-ai" style="color:violet;">:microchip-ai:</i> <mark style="color:violet;"><strong>Adding the playbook skill to Claude</strong></mark></summary>
+<summary><i class="fa-microchip-ai">:microchip-ai:</i> <strong>Adding the playbook skill to Claude</strong></summary>
 
 {% hint style="warning" icon="star" %}
 **Best for: Answering questions on evaluation and preparing artifacts like slides/docs/reports.**
@@ -102,13 +100,11 @@ The final response for this question is generated using the 4-level framework:
 
 ![](../.gitbook/assets/ai/skill-demo-output.png)
 
-
-
 </details>
 
 <details>
 
-<summary><i class="fa-microchip-ai" style="color:violet;">:microchip-ai:</i> <mark style="color:violet;"><strong>Connecting the playbook to NotebookLM</strong></mark></summary>
+<summary><i class="fa-microchip-ai">:microchip-ai:</i> <strong>Connecting the playbook to NotebookLM</strong></summary>
 
 {% hint style="warning" icon="star" %}
 **Best for: Learning the framework, exploring ideas, and getting answers grounded only in the playbook.**
@@ -161,7 +157,7 @@ You can see the response is grounded in the playbook and it cites the specific s
 
 <details>
 
-<summary><i class="fa-microchip-ai" style="color:violet;">:microchip-ai:</i> <mark style="color:violet;"><strong>Using the playbook with Gemini Gems</strong></mark></summary>
+<summary><i class="fa-microchip-ai">:microchip-ai:</i> <strong>Using the playbook with Gemini Gems</strong></summary>
 
 {% hint style="warning" icon="star" %}
 **Best for: Running the same type of task repeatedly, especially if your team already uses Google Workspace (Docs, Sheets, Drive).**
@@ -250,13 +246,11 @@ You can see the full response [here](https://gemini.google.com/share/eb1f3e03b45
 
 ![](../.gitbook/assets/ai/gems-5.png)
 
-
-
 </details>
 
 <details>
 
-<summary><i class="fa-microchip-ai" style="color:violet;">:microchip-ai:</i> <mark style="color:violet;"><strong>Paste the playbook content directly</strong></mark></summary>
+<summary><i class="fa-microchip-ai">:microchip-ai:</i> <strong>Paste the playbook content directly</strong></summary>
 
 {% hint style="warning" icon="star" %}
 **Best for: Using the playbook with any AI tool — Claude, ChatGPT, Gemini. No setup needed.**
@@ -287,7 +281,7 @@ For copying the contents of a single page rather than the whole playbook, you ca
 
 <details>
 
-<summary><i class="fa-microchip-ai" style="color:violet;">:microchip-ai:</i> <mark style="color:violet;"><strong>MCP server</strong></mark></summary>
+<summary><i class="fa-microchip-ai">:microchip-ai:</i> <strong>MCP server</strong></summary>
 
 {% hint style="warning" icon="star" %}
 **Not recommended for most users. Using the skills file is a better option.**
@@ -304,8 +298,6 @@ Follow the steps [here](https://support.claude.com/en/articles/11175166-get-star
 Once connected, use any of the example prompts mentioned in the previous options to test it out.
 
 </details>
-
-
 
 ### Which option is right for you?
 
@@ -642,7 +634,7 @@ _Measures cognitive, affective, and behavioural outcomes. Runs surveys, intervie
 ***
 
 {% hint style="success" icon="star" %}
-**Note: This playbook can be used directly with AI tools like Claude, ChatGPT, and NotebookLM.** \
+**Note: This playbook can be used directly with AI tools like Claude, ChatGPT, and NotebookLM.**\
 [_**Explore how**_**&#x20;>**](using-the-playbook-with-ai-tools.md)
 {% endhint %}
 
