@@ -15,6 +15,10 @@ layout:
     visible: true
   tags:
     visible: true
+  actions:
+    visible: true
+  anchors:
+    visible: true
 metaLinks:
   alternates:
     - >-
@@ -23,13 +27,11 @@ metaLinks:
 
 # How is Level 1 evaluation performed?
 
-
-
 End-to-end, the entire Level 1 evaluation workflow is both complex and highly iterative (see Figure 7). However, we encourage you to start with a [Minimum Viable Evaluation](https://app.gitbook.com/s/Ec5nQAw37GGYw1m7rYdO/additional-resources/minimum-viable-evaluations), and build incrementally as the product matures.
 
 <figure><img src="../.gitbook/assets/Figure7.svg" alt=""><figcaption><p>Figure 7: Level 1 Evals Workflow</p></figcaption></figure>
 
-### 6-step process for evaluating AI systems. <a href="#what-is-the-minimum-viable-evaluation-for-level-1" id="what-is-the-minimum-viable-evaluation-for-level-1"></a>
+#### These are the steps in a Level 1 evaluation: <a href="#what-is-the-minimum-viable-evaluation-for-level-1" id="what-is-the-minimum-viable-evaluation-for-level-1"></a>
 
 We will elaborate on each of these steps in turn. You can apply this process to each of the non-deterministic models in your AI system, individually at first (if needed) but eventually as an ensemble:
 
@@ -70,6 +72,8 @@ Manual evaluation can become tedious, is not scalable, and introduces inconsiste
 Beyond evaluating your solution against known criteria (e.g. those captured in your Golden Dataset), you may also want to actively try to break or pressure test your AI system before releasing it into the wild.
 {% endstep %}
 {% endstepper %}
+
+{% include "../.gitbook/includes/note-this-playbook-can-be-....md" %}
 
 ***
 

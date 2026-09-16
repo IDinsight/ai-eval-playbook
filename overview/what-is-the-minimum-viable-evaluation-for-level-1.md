@@ -15,6 +15,10 @@ layout:
     visible: true
   tags:
     visible: true
+  actions:
+    visible: true
+  anchors:
+    visible: true
 metaLinks:
   alternates:
     - >-
@@ -27,9 +31,13 @@ The earliest stage of AI development involves prototyping with offline evaluatio
 
 The goal of this step is to quickly analyze errors in the current configuration, make suitable changes, and test for resolution of issues. Working inside a notebook helps you access every component in one place—data, configs, models, metrics and any other intermediate steps like retrieval, tool calling—giving you full visibility into your existing system and a test bed for validating your experiments end-to-end.
 
+{% hint style="warning" icon="circle-info" %}
 Once you are ready to deploy a product to actual users, consider using an observability platform (like Langfuse or DeepEval) to automatically record traces as you iterate. This is important for understanding where your AI system is failing and why. But don’t let this delay your launch.
+{% endhint %}
 
 {% include "https://app.gitbook.com/s/Ec5nQAw37GGYw1m7rYdO/~/reusable/3AxJShrmR4dgC1e7o601/" %}
+
+{% include "../.gitbook/includes/note-this-playbook-can-be-....md" %}
 
 ***
 
