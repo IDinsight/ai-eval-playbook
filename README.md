@@ -16,57 +16,45 @@ layout:
     visible: true
   tags:
     visible: true
+  actions:
+    visible: true
+  anchors:
+    visible: true
 metaLinks:
   alternates:
     - >-
       https://app.gitbook.com/s/c8kIjQckFMmOgTGk4tcQ/level-2-product-evaluation/overview
 ---
 
-# Overview
-
-
+# What is Product Evaluation
 
 An AI system that produces perfect responses is worthless if no one uses it. Level 2 Evaluation moves beyond technical accuracy to measure the "digital traces" users leave behind. By tracking how users move from their first interaction to long-term habit formation, we can ensure the product actually delivers value in the real world.
 
-***
-
-#### Key Motivation
-
-Technical performance (Level 1) does not guarantee user adoption. Level 2 evaluation is critical because:
-
-* Value Validation: If users stop interacting, they likely see no value, meaning the intervention cannot achieve its intended life outcomes.
-* Continuous Improvement: It transforms product development from opinion-driven to data-driven through iterative cycles and A/B testing.
-* Safety & Risk Management: Monitoring user signals allows for controlled rollouts of experimental features, preventing negative reactions from reaching your entire user base at once.
-
-<a href="level-2-product-evaluation/why-is-this-level-of-evaluation-important.md" class="button primary">Read more -></a>
+{% hint style="warning" icon="circle-info" %}
+**Note:** The levels are not strictly sequential. Teams may run Levels 1, 2, and 3 in parallel, and revisit earlier levels as new results emerge
+{% endhint %}
 
 ***
 
 #### Core Concept: The User Funnel
 
-To evaluate the product, we "instrument" the application to track users as they progress through four distinct stages. We prioritize "Time to Success" (solving the user's problem) over "Time on Device" to ensure we are optimizing for welfare rather than just addiction.
+To evaluate the product, we "instrument" the application to automatically track specific user actions, as they progress through four distinct stages. The resulting log data allow you to track users as they move through the User Funnel: from their first interaction (Activation), to regular usage (Engagement) to long-term commitment or habit formation (Retention). We prioritize "Time to Success" (solving the user's problem) over "Time on Device" to ensure we are optimizing for welfare rather than just addiction.
 
-| Stage       | Goal                                | Key Metric Example                        |
-| ----------- | ----------------------------------- | ----------------------------------------- |
-| Acquisition | Bring users into the ecosystem.     | New User Count, Cost Per User (CAC)       |
-| Activation  | Ensure users find "First Value."    | Activation Rate, Time to Activate         |
-| Engagement  | Measure depth and frequency of use. | Active Users (DAU/WAU), Interaction Depth |
-| Retention   | Build long-term habits/commitment.  | Stickiness (DAU/MAU), Retention Rate      |
+In the tech sector, companies might track "clicks" and "purchases" as users move through a website. By analyzing logs, you can then identify which content or products are likely to bring users back to the website over time, or how different web experiences affect browsing time. In the development sector, we need to track actions that signal user intent, and estimate the value returned to users in response.&#x20;
 
-<a href="level-2-product-evaluation/what-is-the-product-being-evaluated.md" class="button primary">Read more -></a>
+* For an AI Agronomist, instead of tracking page views you might track whether a farmer uploads a photo of a diseased crop, listens to audio advice to completion, or shares content with another person.
+* For an AI Tutor, you might track if a student completes a quiz, how many follow-up questions they ask in a single session, or if they return to the app the night before an exam.
 
-***
+By analyzing these "digital traces," we can identify exactly where users lose interest. Does the farmer drop off because the photo upload takes too long? Does the student quit because the AI’s first response was too complex?&#x20;
 
-#### How to Evaluate
+Below are the four stages of the user funnel with goals and metrics:&#x20;
 
-Level 2 evaluation is performed by integrating 3rd party analytics tools (e.g., Amplitude, Mixpanel) to capture real-time data.
+<table data-header-hidden="false" data-header-sticky><thead><tr><th width="157" valign="top">Stage</th><th valign="top">Goal</th><th valign="top">Key Metric Example</th></tr></thead><tbody><tr><td valign="top">Acquisition</td><td valign="top">Bring users into the ecosystem.</td><td valign="top">New User Count, Cost Per User (CAC)</td></tr><tr><td valign="top">Activation</td><td valign="top">Ensure users find "First Value."</td><td valign="top">Activation Rate, Time to Activate</td></tr><tr><td valign="top">Engagement</td><td valign="top">Measure depth and frequency of use.</td><td valign="top">Active Users (DAU/WAU), Interaction Depth</td></tr><tr><td valign="top">Retention</td><td valign="top">Build long-term habits/commitment.</td><td valign="top">Stickiness (DAU/MAU), Retention Rate</td></tr></tbody></table>
 
-1. Define & Instrument: Map your user journey and identify specific "events" (e.g., "audio advice played") that signal progress.
-2. Analyze Trends: Use dashboards to identify friction points where users consistently drop off.
-3. Experiment: Run A/B Tests to compare different versions of a feature. By randomly assigning users to "Version A" or "Version B," you can statistically prove which design better supports user goals.
-4. Diagnose: If metrics are low, conduct a Process Evaluation (interviews or surveys) to understand the "why" behind the data—such as connectivity constraints or literacy barriers.
-
-<a href="how-to-evaluate/how-is-level-2-evaluation-performed.md" class="button primary">Read more -></a>
+{% hint style="success" icon="star" %}
+**Note:** **This playbook can be used directly with AI tools like Claude, ChatGPT, and NotebookLM.** \
+[_**Explore how**_**&#x20;>**](https://app.gitbook.com/s/Ec5nQAw37GGYw1m7rYdO/additional-resources/using-the-playbook-with-ai-tools)
+{% endhint %}
 
 ***
 
