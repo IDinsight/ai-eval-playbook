@@ -1,5 +1,25 @@
 ---
 description: 15 Questions for Funders to Assess an Applicant’s AI Evaluation Maturity
+layout:
+  width: default
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: false
+  pagination:
+    visible: true
+  metadata:
+    visible: true
+  tags:
+    visible: true
+  actions:
+    visible: true
+  anchors:
+    visible: true
 ---
 
 # Resources for Funders
