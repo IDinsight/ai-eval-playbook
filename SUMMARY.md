@@ -1,16 +1,14 @@
 # Table of contents
 
-## Level 4 - Impact Evaluation
+## Overview
 
-* [Overview](README.md)
-* [Who is involved in this evaluation?](level-4-impact-evaluation/why-is-this-level-of-evaluation-important.md "Who is it for and why")
-* [What is the “intervention” being evaluated?](level-4-impact-evaluation/what-is-the-intervention-being-evaluated.md)
-* [Minimum Viable Evaluation](level-4-impact-evaluation/minimum-viable-evaluation.md)
+* [What is Impact Evaluation](README.md)
+* [Who is involved in this evaluation?](overview/why-is-this-level-of-evaluation-important.md "Who is it for and why")
+* [Minimum Viable Evaluation](overview/minimum-viable-evaluation.md)
 
-## How to evaluate
+## Running the Evaluation
 
-* [How is Level 4 evaluation performed?](how-to-evaluate/how-is-level-4-evaluation-performed.md "Overview")
-* [A Quick Primer on Impact Evaluation Methods](how-to-evaluate/a-quick-primer-on-impact-evaluation-methods.md "Primer on Impact Eval Methods")
-* [Key design considerations for AI-specific impact evaluations](how-to-evaluate/key-design-considerations-for-ai-specific-impact-evaluations.md "Design for AI impact evaluations")
-* [Common pitfalls to avoid](how-to-evaluate/common-pitfalls-to-avoid.md)
-* [Process Evaluation: Why Aren’t Outcomes Changing?](how-to-evaluate/process-evaluation-why-arent-outcomes-changing.md "Challenges")
+* [How is Level 4 evaluation performed?](running-the-evaluation/how-is-level-4-evaluation-performed.md "How is Level 4 evaluation performed? ")
+* [Key design considerations for AI-specific impact evaluations](running-the-evaluation/key-design-considerations-for-ai-specific-impact-evaluations.md "Design for AI impact evaluations")
+* [Common pitfalls to avoid](running-the-evaluation/common-pitfalls-to-avoid.md)
+* [Why Aren’t Outcomes Changing?](running-the-evaluation/process-evaluation-why-arent-outcomes-changing.md "Challenges")

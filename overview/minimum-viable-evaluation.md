@@ -15,6 +15,10 @@ layout:
     visible: true
   tags:
     visible: true
+  actions:
+    visible: true
+  anchors:
+    visible: true
 metaLinks:
   alternates:
     - >-
@@ -24,6 +28,11 @@ metaLinks:
 # Minimum Viable Evaluation
 
 {% include "https://app.gitbook.com/s/Ec5nQAw37GGYw1m7rYdO/~/reusable/Z4pdyOwgsQApvva3soKx/" %}
+
+{% hint style="success" icon="star" %}
+**Note:** **This playbook can be used directly with AI tools like Claude, ChatGPT, and NotebookLM.** \
+[_**Explore how**_**&#x20;>**](https://app.gitbook.com/s/Ec5nQAw37GGYw1m7rYdO/additional-resources/using-the-playbook-with-ai-tools)
+{% endhint %}
 
 ***
 
