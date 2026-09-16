@@ -15,13 +15,15 @@ layout:
     visible: true
   tags:
     visible: true
+  actions:
+    visible: true
+  anchors:
+    visible: true
 ---
 
 # How is Level 3 evaluation performed?
 
-
-
-**The full workflow includes:**
+#### These are the steps in a Level 3 evaluation:
 
 {% stepper %}
 {% step %}
@@ -31,33 +33,27 @@ Based on the theory of change, define intermediate cognitive, affective, or beha
 {% endstep %}
 
 {% step %}
-#### Identify outcome metrics
+#### [Identify outcome metrics](descriptive-analysis.md)
 
 There are three potential ways to identify outcome metrics. First, you can analyze interaction data to construct metrics that reflect psychologically and behaviorally meaningful user interaction. Second, you can collect primary data. Often, the most direct way to gauge users' thoughts, feelings, knowledge, and behaviors is simply to ask them: short surveys can capture self-reported changes and subjective experiences, while longer surveys, interviews, quizzes, or observer reports can measure psychological well-being, behavioral frequency, and attitudinal shifts over time. Third, you can analyze conversation logs. For instance, you can use Natural Language Processing (NLP) methods to mine actual conversation logs or written outputs for signals of cognitive or emotional change.
-
-<a href="descriptive-analysis.md" class="button primary">Read more -></a>
 {% endstep %}
 
 {% step %}
-#### Define guardrail metrics and measure potential harm
+#### [Define guardrail metrics and measure potential harm](defining-guardrail-metrics-measuring-potential-harm.md)
 
 As you reach Level 3 evaluations, you are not just measuring if your product is working; you want to measure if it is causing harm. While Level 2 metrics track usage, Level 3 is your opportunity to use direct interviews and surveys to track unintended consequences.
-
-<a href="defining-guardrail-metrics-measuring-potential-harm.md" class="button primary">Read more -></a>
 {% endstep %}
 
 {% step %}
-#### Consider constructing proxies for long-term development outcomes
+#### Consider constructing proxies for long-term development outcomes&#x20;
 
-We expect Level 3 metrics to materialize more quickly than Level 4 evaluation outcomes. In principle, short-term Level 3 indicators can be used in A/B testing to rapidly design and test product improvements. However, it is unlikely that any one Level 3 metric is fully predictive of Level 4 outcomes. Therefore, we propose constructing a "Surrogate Index", consisting of Level 2 and Level 3 metrics, to serve as a proxy for longer-term Level 4 outcomes. The validity of this index can be assessed in Level 4 evaluations (e.g., in RCTs), following the framework proposed by [Athey, Chetty, Imbens, and Kang (2025)](https://academic.oup.com/restud/advance-article/doi/10.1093/restud/rdaf087/8268796?guestAccessKey=). Although this approach relies on very strong assumptions of unconfoundedness, surrogacy, and comparability, we encourage the continued collection of indicators to capture the links between the intervention, its adoption, underlying mechanisms, and ultimate development outcomes.
+We expect Level 3 metrics to materialize more quickly than Level 4 evaluation outcomes. In principle, short-term Level 3 indicators can be used in A/B testing to rapidly design and test product improvements. However, it is unlikely that any one Level 3 metric is fully predictive of Level 4 outcomes. Therefore, we propose constructing a ["Surrogate Index",](https://academic.oup.com/restud/advance-article/doi/10.1093/restud/rdaf087/8268796?guestAccessKey=) consisting of Level 2 and Level 3 metrics, to serve as a proxy for longer-term Level 4 outcomes. The validity of this index can be assessed in Level 4 evaluations (e.g., in RCTs). Although this approach relies on very strong assumptions of unconfoundedness, surrogacy, and comparability, we encourage the continued collection of indicators to capture the links between the intervention, its adoption, underlying mechanisms, and ultimate development outcomes.
 {% endstep %}
 
 {% step %}
-#### Consider conducting experiments to improve the selected key metrics and running process evaluations
+#### [Consider conducting experiments to improve the selected key metrics and running process evaluations](user-privacy-and-security.md)&#x20;
 
 After identifying intermediate outcomes that serve as early indicators of the development outcome of interest, the next step is to run experiments to assess how product changes influence Level 3 outcomes. The evaluation methods remain the same as in Level 2, but are applied to a different set of outcomes (e.g., A/B testing: Feature A vs. Feature B; multi-armed bandits: performance-based adaptive allocation; holdout testing: e.g., AI vs. non-AI). We also recommend running process evaluations to gain an understanding on why and when Level 3 metrics are not changing.
-
-<a href="why-arent-thoughts-feelings-and-behavior-changing.md" class="button primary">Read more -></a>
 {% endstep %}
 {% endstepper %}
 
@@ -65,7 +61,10 @@ As sensitive data, collecting information on user thoughts and feelings carries 
 
 <a href="https://eval.playbook.org.ai/level-linkages/linkage-across-levels/data-protection" class="button primary">Read more -></a>
 
-
+{% hint style="success" icon="star" %}
+**Note:** **This playbook can be used directly with AI tools like Claude, ChatGPT, and NotebookLM.** \
+[_**Explore how**_**&#x20;>**](https://app.gitbook.com/s/Ec5nQAw37GGYw1m7rYdO/additional-resources/using-the-playbook-with-ai-tools)
+{% endhint %}
 
 ***
 
