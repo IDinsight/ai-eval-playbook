@@ -74,12 +74,12 @@ This section of the Playbook **outlines the two foundational pillars of your eva
 
 #### Additional Resources
 
-[FAQs](additional-resources/frequently-asked-questions.md) | [Glossary](additional-resources/glossary.md) | [Minimal Viable Evaluations](additional-resources/minimum-viable-evaluations.md) | [Tools & Templates](additional-resources/additional-resources.md)
+[Minimal Viable Evaluations](additional-resources/minimum-viable-evaluations.md)  |  [FAQs](additional-resources/frequently-asked-questions.md) | [Tools & Templates](additional-resources/additional-resources.md) | [Resources for Funders](additional-resources/resources-for-funders.md) | [Glossary](additional-resources/glossary.md) | [Using the Playbook with AI Tools](additional-resources/using-the-playbook-with-ai-tools.md)
 
 #### Stay involved
 
-* [See the process behind the playbook](getting-started-1/the-process-behind-this-playbook.md)
-* [Contribute to this playbook](getting-started-1/how-to-contribute-to-the-playbook.md)<br>
+* [See the process behind the playbook](building-this-playbook/the-process-behind-this-playbook.md)
+* [Contribute to this playbook](building-this-playbook/how-to-contribute-to-the-playbook.md)<br>
 
 {% hint style="warning" icon="circle-info" %}
 **This is a living playbook.** It will be updated regularly, with deeper collaboration with specialists to co-create shared evaluation tools, refine methodologies, and support their practical use in real-world settings.

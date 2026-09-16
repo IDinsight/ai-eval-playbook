@@ -15,6 +15,10 @@ layout:
     visible: true
   tags:
     visible: true
+  actions:
+    visible: true
+  anchors:
+    visible: true
 metaLinks:
   alternates:
     - >-
@@ -23,9 +27,11 @@ metaLinks:
 
 # Tools & Templates
 
-## Level 1
+<details>
 
-### LLM evaluations
+<summary><strong>Level 1</strong></summary>
+
+**LLM evaluations**
 
 * [LLM Evals: Everything You Need to Know](https://hamel.dev/blog/posts/evals-faq/)
 * [Multi-Turn Chat Evals](https://hamel.dev/notes/llm/officehours/evalmultiturn.html)
@@ -33,9 +39,9 @@ metaLinks:
 * [Demystifying evals for AI agents](https://www.anthropic.com/engineering/demystifying-evals-for-ai-agents)
 * [Hierarchical AI Evaluation](https://gamma.app/docs/AI-QA-Hierarchical-Evaluation-Architecture-9t79y026n43d7op?mode=doc) by Gamma
 
-***
 
-### LLM evaluation in the social sector
+
+**LLM evaluation in the social sector**
 
 * [Generative AI for Health in Low & Middle Income Countries](https://cdh.stanford.edu/research-portfolio/generative-ai-health-low-middle-income-countries)
 * [Evaluation framework of PROMPTS at Jacaranda Health](https://www.google.com/url?q=https://cdh.stanford.edu/generative-ai-health-low-middle-income-countries\&sa=D\&source=editors\&ust=1770879887027623\&usg=AOvVaw2tnpWpMI0955H3SybGibhB) (pg 33)
@@ -43,7 +49,11 @@ metaLinks:
 * [Evaluation of Farmer.Chat at Digital Green](https://arxiv.org/abs/2409.08916)
 * [Evaluation of mMitra at Armman](https://docs.google.com/presentation/d/1mAF1lI8tkTjLLW3SjwrV8mdz4VDkTdog/edit?slide=id.p1#slide=id.p1)
 
-## Level 2
+</details>
+
+<details>
+
+<summary><strong>Level 2</strong></summary>
 
 The tech industry has published numerous guidebooks and tools to help you define, collect, and analyze user funnel metrics. For details on how to construct common metrics, consider reviewing [The Agency Fund’s User Funnel Playbook](https://theagencyfund.substack.com/p/user-funnel-playbook-for-the-social).
 
@@ -59,19 +69,34 @@ For more details on A/B testing, please review these resources:
 * [Optimizely: What is A/B testing?](https://www.optimizely.com/optimization-glossary/ab-testing/)
 * [Amplitude: What is A/B testing? How it works and when to use it](https://amplitude.com/blog/ab-testing)
 
-## Level 3
+</details>
+
+<details>
+
+<summary><strong>Level 3</strong></summary>
 
 Case Study: [ChatSEL](https://agency-fund.github.io/chatsel-docs/docs/t1-intro) is a GenAI coach developed at the Agency Fund that provides teachers with evidence-based and context-sensitive guidance on understanding and implementing SEL programs in a low-resource classroom. Please see the following document for how we might measure Level 3 outcomes in the context of ChatSEL.
 
 [User Evaluation Workshop - ChatSEL](https://docs.google.com/document/d/18AXtIeDx6HsidhMKTJ2kIDb7hUwHEkEnwGPZuC9JJo0/edit?tab=t.0)
 
-## Process Evaluations
+</details>
+
+<details>
+
+<summary><strong>Process Evaluations</strong></summary>
 
 * IDinsight. “Process Evaluation.” IDinsight Impact Measurement Guide,[ https://guide.idinsight.org/process-evaluation/](https://guide.idinsight.org/process-evaluation/)
 * World Health Organization. Monitoring and Evaluating Digital Health Interventions: A Practical Guide to Conducting Research and Assessment. World Health Organization, 2016. [https://saluddigital.com/wp-content/uploads/2019/06/WHO.-Monitoring-and-Evaluating-Digital-Health-Interventions.pdf](https://saluddigital.com/wp-content/uploads/2019/06/WHO.-Monitoring-and-Evaluating-Digital-Health-Interventions.pdf)
 * Implementation Monitoring and Process Evaluation (Practical Guidebook) Bliss, M. J., & Emshoff, J. G. (2018). Implementation Monitoring and Process Evaluation. SAGE Publications.​
 
-<br>
+</details>
+
+***
+
+{% hint style="success" icon="star" %}
+**Note: This playbook can be used directly with AI tools like Claude, ChatGPT, and NotebookLM.** \
+[_**Explore how**_**&#x20;>**](using-the-playbook-with-ai-tools.md)
+{% endhint %}
 
 ***
 

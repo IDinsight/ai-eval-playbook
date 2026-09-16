@@ -18,6 +18,10 @@ layout:
     visible: true
   tags:
     visible: true
+  actions:
+    visible: true
+  anchors:
+    visible: true
 metaLinks:
   alternates:
     - >-
@@ -44,8 +48,6 @@ Every page in the playbook includes a feedback form at the bottom. Use it to lea
 
 For direct edits or contributions, open a pull request in our GitHub repository: [https://github.com/IDinsight/ai-eval-playbook](https://github.com/IDinsight/ai-eval-playbook).
 
-
-
 ## What happens next
 
 ### 1. We review contributions monthly
@@ -60,7 +62,12 @@ If we think there's something actionable but need more information we'll reach o
 
 We're keen to grow our community of contributors. Join us!
 
+***
 
+{% hint style="success" icon="star" %}
+**Note: This playbook can be used directly with AI tools like Claude, ChatGPT, and NotebookLM.** \
+[_**Explore how**_**&#x20;>**](../additional-resources/using-the-playbook-with-ai-tools.md)
+{% endhint %}
 
 ***
 
@@ -71,4 +78,3 @@ We're keen to grow our community of contributors. Join us!
 {% embed url="https://tally.so/r/A788l0?originPage=overview%2Fhow-to-contribute-to-the-playbook" %}
 
 </details>
-

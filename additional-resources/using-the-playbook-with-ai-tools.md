@@ -27,23 +27,29 @@ metaLinks:
 
 # Using the Playbook with AI Tools
 
-You don't need to read through the entire playbook every time you want to apply the 4-level framework. This page shows you five ways to bring the playbook directly into the AI tools you're already using so that the playbook can seamlessly integrate with your existing workflows.
+{% hint style="warning" icon="circle-info" %}
+**Note:** You don't need to read through the entire playbook every time you want to apply the 4-level framework. This page shows you five ways to bring the playbook directly into the AI tools you're already using so that the playbook can seamlessly integrate with your existing workflows.
 
 Each option comes with a tradeoff in terms of ease of setting up and the features that are available to you. Choose the option that best suits your needs.
+{% endhint %}
 
-## Skills
 
+
+We have created a skill file for the AI Evaluation Playbook that answers your questions on evaluation using the 4-level framework. You can download it from [here](https://github.com/IDinsight/ai-eval-playbook/blob/introduction/skills/ai-eval-playbook-guide.skill.md).
+
+<details>
+
+<summary><i class="fa-microchip-ai" style="color:violet;">:microchip-ai:</i> <mark style="color:violet;"><strong>Adding the playbook skill to Claude</strong></mark></summary>
+
+{% hint style="warning" icon="star" %}
 **Best for: Answering questions on evaluation and preparing artifacts like slides/docs/reports.**
+{% endhint %}
 
 A "skill" that extends Claude's capabilities by giving it access to specialized knowledge and workflows. For example, a talented presenter can create a "skill" explaining the techniques they use to make engaging presentations. This skill can then be used to help others learn from their expertise and mimic their presentation style.
 
 A skill file is a simple text file that contains the specialized knowledge and workflows. It can be uploaded to your AI tool of choice and used to answer your questions following the instructions in the skill file.
 
 To know more about `Skills`, please refer to [this](https://support.claude.com/en/articles/12512176-what-are-skills) blog post by Anthropic and [this](https://youtu.be/a3uMv1S-1tM) step-by-step tutorial on using Claude skills.
-
-We have created a skill file for the AI Evaluation Playbook that answers your questions on evaluation using the 4-level framework. You can download it from [here](https://github.com/IDinsight/ai-eval-playbook/blob/introduction/skills/ai-eval-playbook-guide.skill.md).
-
-### Adding the playbook skill to Claude
 
 Open [Claude](https://claude.ai).
 
@@ -96,9 +102,17 @@ The final response for this question is generated using the 4-level framework:
 
 ![](../.gitbook/assets/ai/skill-demo-output.png)
 
-## NotebookLM
 
+
+</details>
+
+<details>
+
+<summary><i class="fa-microchip-ai" style="color:violet;">:microchip-ai:</i> <mark style="color:violet;"><strong>Connecting the playbook to NotebookLM</strong></mark></summary>
+
+{% hint style="warning" icon="star" %}
 **Best for: Learning the framework, exploring ideas, and getting answers grounded only in the playbook.**
+{% endhint %}
 
 [NotebookLM](https://notebooklm.google) is a free AI-research tool by Google that lets you upload documents as "sources" and then ask questions about them to get answers that cite specific sections from the source documents.
 
@@ -136,14 +150,22 @@ You can see the response is grounded in the playbook and it cites the specific s
 
 ![](../.gitbook/assets/ai/notebooklm-3.png)
 
+{% hint style="warning" icon="circle-info" %}
 **Things to keep in mind**
 
 * NotebookLM keeps responses strictly within what you've uploaded — it won't draw on outside knowledge. This is great for accuracy, but means it won't combine the framework with other context you haven't added.
 * You can add more links and documents as sources beyond the playbook to NotebookLM so that the response takes all the sources into account.
+{% endhint %}
 
-## Gemini Gems
+</details>
 
+<details>
+
+<summary><i class="fa-microchip-ai" style="color:violet;">:microchip-ai:</i> <mark style="color:violet;"><strong>Using the playbook with Gemini Gems</strong></mark></summary>
+
+{% hint style="warning" icon="star" %}
 **Best for: Running the same type of task repeatedly, especially if your team already uses Google Workspace (Docs, Sheets, Drive).**
+{% endhint %}
 
 [Gemini Gems](https://gemini.google/overview/gems/) let you create a customized version of Gemini that performs a concrete task with specific instructions and a clear goal repeatedly.
 
@@ -219,16 +241,26 @@ Here is a preview of the response:
 
 You can see the full response [here](https://gemini.google.com/share/eb1f3e03b45f).
 
+{% hint style="warning" icon="circle-info" %}
 **Things to keep in mind**
 
 * Gems work best for tasks you run regularly — like reviewing an evaluation plan against the framework, or checking whether a set of metrics maps to the right level.
 * You can combine the knowledge with tools like deep research, creating images and videos, etc. as shown below.
+{% endhint %}
 
 ![](../.gitbook/assets/ai/gems-5.png)
 
-## Paste the playbook content directly
 
+
+</details>
+
+<details>
+
+<summary><i class="fa-microchip-ai" style="color:violet;">:microchip-ai:</i> <mark style="color:violet;"><strong>Paste the playbook content directly</strong></mark></summary>
+
+{% hint style="warning" icon="star" %}
 **Best for: Using the playbook with any AI tool — Claude, ChatGPT, Gemini. No setup needed.**
+{% endhint %}
 
 The options mentioned above were specific to the AI tools that support them. Most of them need you to do some setup to use the playbook.
 
@@ -244,16 +276,22 @@ Open your AI tool of choice and paste the playbook content into the text box. Us
 
 For copying the contents of a single page rather than the whole playbook, you can append `.md` to any page URL (for example: `https://eval.playbook.org.ai/level-3-user-evaluation/overview/why-is-this-level-of-evaluation-important.md`).
 
+{% hint style="warning" icon="circle-info" %}
 **Things to keep in mind**
 
 * This works in any AI tool and no other setup is required. The entire playbook text is around 45,000 words. Most modern AI tools can handle this, but very long pastes may slow down responses or exhaust the token limit of your plan.
 * You need to paste it fresh every new conversation. Once the value of the playbook is clear to you, switch to one of the options above so that you don't have to keep pasting the playbook content every time.
+{% endhint %}
 
-***
+</details>
 
-## MCP server
+<details>
 
+<summary><i class="fa-microchip-ai" style="color:violet;">:microchip-ai:</i> <mark style="color:violet;"><strong>MCP server</strong></mark></summary>
+
+{% hint style="warning" icon="star" %}
 **Not recommended for most users. Using the skills file is a better option.**
+{% endhint %}
 
 MCP (Model Context Protocol) is a way to connect Claude to external resources so it can look things up during a conversation without you needing to paste anything.
 
@@ -265,19 +303,25 @@ Follow the steps [here](https://support.claude.com/en/articles/11175166-get-star
 
 Once connected, use any of the example prompts mentioned in the previous options to test it out.
 
-## Which option is right for you?
+</details>
+
+
+
+### Which option is right for you?
 
 If you're not sure where to start, **NotebookLM** is the easiest way to explore the playbook interactively. Once you're comfortable, **Claude Skills** is recommended for regular Claude users and **Gemini Gems** are recommended for Google Workspace users who want to run the same task repeatedly. **Paste the playbook content directly** is a good option for any AI tool and no other setup is required.
 
-## Example use cases by role
+### Example use cases by role
 
 To help you understand how the playbook can be used in practice, we have provided some example use cases for different roles in a team where the playbook can help you in your work. These are not exhaustive, but should give you an idea of how the playbook can be used in practice.
 
-### Impact Evaluator
+#### 1. Impact Evaluator
 
 _Designs RCTs and quasi-experimental studies, manages counterfactual selection, and connects Level 1–3 evidence to long-term outcomes. Leads Level 4._
 
-**Example 1 — Drafting an RCT pre-analysis plan**
+<details>
+
+<summary><strong>Example 1 — Drafting an RCT pre-analysis plan</strong></summary>
 
 > You're pre-registering a Level 4 RCT for an AI agricultural advisory tool. You need a pre-analysis plan that handles the unique challenges of evaluating a product that will change during the trial.
 
@@ -287,11 +331,15 @@ _Designs RCTs and quasi-experimental studies, manages counterfactual selection, 
 >
 > Using the Level 4 guidance in the AI Evaluation Playbook, draft the key sections of a pre-analysis plan. Include: counterfactual justification, how product versions will be tagged and handled analytically, spillover mitigation strategy (the tool is on WhatsApp and can be shared), power calculation assumptions, primary and secondary outcomes, and pre-specified subgroup analyses by gender and land size. Flag the top 3 AI-specific pitfalls to address.
 
+{% hint style="info" %}
 **What you'll get:** A structured pre-analysis plan with AI-specific versioning and spillover sections — ready for pre-registration.
+{% endhint %}
 
-***
+</details>
 
-**Example 2 — Stress-testing a Theory of Change**
+<details>
+
+<summary><strong>Example 2 — Stress-testing a Theory of Change</strong></summary>
 
 > Your Theory of Change was written 12 months ago. Level 1–3 data is now available. You need to check whether the causal chain still holds before committing to a Level 4 study.
 
@@ -301,13 +349,19 @@ _Designs RCTs and quasi-experimental studies, manages counterfactual selection, 
 >
 > Using the framework linkages guidance in the AI Evaluation Playbook, stress-test our Theory of Change against this evidence. Identify which causal links are supported, which are broken or uncertain, what the flat knowledge scores imply about our proximal outcome assumptions, whether we are ready for a Level 4 RCT or should iterate further, and what process evaluation questions to answer first. Output this as a structured memo I can share with our funder.
 
+{% hint style="info" %}
 **What you'll get:** A structured memo identifying which causal links hold and which don't — with a clear recommendation on whether to proceed to Level 4 or iterate first.
+{% endhint %}
 
-### Domain Expert
+</details>
+
+#### 2. Domain Expert
 
 _Validates rubrics, golden datasets, metric definitions, and Theory of Change assumptions across health, education, or agriculture domains. Supports all levels._
 
-**Example 1 — Critiquing a rubric from a clinical perspective**
+<details>
+
+<summary><strong>Example 1 — Critiquing a rubric from a clinical perspective</strong></summary>
 
 > The engineering team has drafted a Level 1 rubric for a clinical decision support tool. As a nurse supervisor, you need to validate it before the golden dataset sprint.
 
@@ -317,11 +371,15 @@ _Validates rubrics, golden datasets, metric definitions, and Theory of Change as
 >
 > Help me critique this rubric from a clinical domain expert perspective, following the AI Evaluation Playbook's guidance on rubric validation. For each dimension: flag what the engineers likely missed from a clinical workflow standpoint, suggest a concrete real-world failure case that the current definition would miss, and propose a sharper domain-specific definition. Then suggest one additional dimension the engineers have overlooked entirely.
 
+{% hint style="info" %}
 **What you'll get:** A detailed critique with dimension-by-dimension gaps, real failure cases, sharper definitions, and a missing dimension — ready to return to the engineering team.
+{% endhint %}
 
-***
+</details>
 
-**Example 2 — Annotating a Theory of Change**
+<details>
+
+<summary><strong>Example 2 — Annotating a Theory of Change</strong></summary>
 
 > You're reviewing a Theory of Change for an AI advisory tool for smallholder farmers in Northern Ghana. The causal chain looks clean on paper — your job is to find where it breaks in the field.
 
@@ -331,13 +389,19 @@ _Validates rubrics, golden datasets, metric definitions, and Theory of Change as
 >
 > Using the Theory of Change guidance from the AI Evaluation Playbook, help me identify the weakest assumptions from a field implementation perspective. For each weak link: explain the real-world constraint that breaks the assumption (e.g. input availability, weather, land tenure), suggest a Level 2 or Level 3 metric that would detect when this link is failing, and recommend a process evaluation method to investigate it. Format this as annotated ToC review notes I can return to the research team.
 
+{% hint style="info" %}
 **What you'll get:** Annotated ToC notes with field-grounded constraints, early-warning metrics, and process evaluation methods — ready to send back to the research team.
+{% endhint %}
 
-### Policy Analyst
+</details>
+
+#### 3. Policy Analyst
 
 _Works in government, multilaterals, or think tanks. Interprets evaluation findings, assesses whether a tool is ready to scale, and translates technical evidence into recommendations for decision-makers._
 
-**Example 1 — Writing a policy brief from evaluation data**
+<details>
+
+<summary><strong>Example 1 — Writing a policy brief from evaluation data</strong></summary>
 
 > Your ministry is deciding whether to integrate an AI agricultural advisory tool into the national extension service for 2 million smallholder farmers. You have technical evaluation reports and need a 2-page brief for the Secretary.
 
@@ -347,11 +411,15 @@ _Works in government, multilaterals, or think tanks. Interprets evaluation findi
 >
 > Using the AI Evaluation Playbook's 4-level framework, help me interpret this evidence for a non-technical Secretary-level audience. Structure your response as: (1) a plain-language verdict on each level — what it means in practice, not what the number is; (2) the 2 biggest risks of scaling now versus waiting; (3) the 3 conditions the implementer must meet before national rollout; and (4) a one-paragraph executive summary I can put at the top of the brief.
 
+{% hint style="info" %}
 **What you'll get:** A structured brief with plain-language verdicts, risk analysis, scale conditions, and a one-paragraph executive summary — ready to hand to the Secretary.
+{% endhint %}
 
-***
+</details>
 
-**Example 2 — Comparing two competing interventions**
+<details>
+
+<summary><strong>Example 2 — Comparing two competing interventions</strong></summary>
 
 > Two AI tools are competing for the same budget. You need to compare them not by their marketing claims, but by the strength of their evidence chains.
 
@@ -365,13 +433,19 @@ _Works in government, multilaterals, or think tanks. Interprets evaluation findi
 >
 > Using the AI Evaluation Playbook's evidence strength framework across all four levels, help me structure a comparison. For each option: assess the strength and gaps in the evidence chain, flag what is missing before a scaling decision is justified, estimate the relative risk of a premature scale-up, and suggest what interim condition or milestone should be attached to any funding decision.
 
+{% hint style="info" %}
 **What you'll get:** A structured comparison that reads the evidence pattern — not just the numbers — and surfaces what each product still needs to prove before it earns a scaling decision.
+{% endhint %}
 
-### Funding Reviewer
+</details>
+
+#### 4. Funding Reviewer
 
 _Works at a foundation, bilateral donor, or multilateral. Reviews grant proposals for GenAI projects, assesses whether proposed evaluation plans are rigorous enough, and sets evaluation conditions for funding._
 
-**Example 1 — Reviewing a proposal's evaluation plan**
+<details>
+
+<summary><strong>Example 1 — Reviewing a proposal's evaluation plan</strong></summary>
 
 > A promising NGO has submitted a $2M proposal for an AI literacy tutor. Their evaluation section is 3 paragraphs. You need a structured critique before the investment committee meeting.
 
@@ -381,11 +455,15 @@ _Works at a foundation, bilateral donor, or multilateral. Reviews grant proposal
 >
 > Using the AI Evaluation Playbook's Minimum Viable Evaluation checklists for all four levels, score this evaluation plan against what the playbook considers the minimum bar for each level. For each level: state whether the plan meets, partially meets, or fails to meet the MVE standard, explain the specific gap, and write 1–2 specific questions I should ask the applicant in the clarification call. Then give an overall readiness verdict: fund as-is, fund with conditions, request a resubmission, or decline. Include the 3 non-negotiable conditions I would attach to any funding decision.
 
+{% hint style="info" %}
 **What you'll get:** A level-by-level gap analysis mapped to the MVE checklists, specific clarification questions, and a funding verdict with non-negotiable conditions — reviewable by your investment committee.
+{% endhint %}
 
-***
+</details>
 
-**Example 2 — Setting evaluation requirements for an RFP**
+<details>
+
+<summary><strong>Example 2 — Setting evaluation requirements for an RFP</strong></summary>
 
 > Your foundation is launching a $10M RFP for GenAI tools in primary healthcare. You need evaluation requirements that are rigorous but won't exclude smaller organisations.
 
@@ -395,13 +473,19 @@ _Works at a foundation, bilateral donor, or multilateral. Reviews grant proposal
 >
 > Using the AI Evaluation Playbook's Minimum Viable Evaluation framework and tiered approach, help me design a two-tier evaluation requirement: a baseline tier all applicants must meet, and an enhanced tier for applicants requesting over $500K. For each tier and each of the 4 evaluation levels, specify the minimum required activities, the evidence format you'd accept, and the red lines that would disqualify a proposal regardless of tier.
 
+{% hint style="info" %}
 **What you'll get:** A two-tier evaluation framework with per-level requirements, accepted evidence formats, and disqualifying red lines — ready to paste into your RFP.
+{% endhint %}
 
-### AI / ML Engineer
+</details>
+
+#### 5. AI / ML Engineer
 
 _Builds and maintains the AI pipeline, evaluation rubrics, golden datasets, and automated scoring. Primarily works at Level 1 but feeds into Levels 2–4._
 
-**Example 1 — Drafting an evaluation rubric**
+<details>
+
+<summary><strong>Example 1 — Drafting an evaluation rubric</strong></summary>
 
 > You're building an agricultural advisory chatbot for smallholder farmers in Kenya. You need a Level 1 rubric before writing a single golden dataset entry.
 
@@ -411,11 +495,15 @@ _Builds and maintains the AI pipeline, evaluation rubrics, golden datasets, and 
 >
 > Using the evaluation rubric guidance from the AI Evaluation Playbook (Level 1), help me draft a 5-dimension rubric. For each dimension include: the qualitative definition, a concrete example of a passing and failing response, and a suggested scorer type (statistical, model-based, or LLM-as-judge).
 
+{% hint style="info" %}
 **What you'll get:** A structured rubric with pass/fail examples and scorer recommendations — ready to hand to your team before the dataset sprint begins.
+{% endhint %}
 
-***
+</details>
 
-**Example 2 — Seeding a golden dataset**
+<details>
+
+<summary><strong>Example 2 — Seeding a golden dataset</strong></summary>
 
 > Your domain expert has 2 hours. You need to get maximum value from that session by pre-drafting diverse golden dataset entries for their review.
 
@@ -425,13 +513,19 @@ _Builds and maintains the AI pipeline, evaluation rubrics, golden datasets, and 
 >
 > Generate 15 draft golden dataset entries covering: typical user queries in varying formality and Swahili-English code-switching, out-of-scope requests, and adversarial/safety edge cases. For each entry provide: user input, ideal output structure, and which rubric dimension it primarily tests. Flag the 3 entries most critical for the expert to validate first.
 
+{% hint style="info" %}
 **What you'll get:** A diverse draft dataset that makes the expert session far more productive — with the highest-risk entries flagged for priority review.
+{% endhint %}
 
-### Product Manager
+</details>
+
+#### 6. Product Manager
 
 _Owns product metrics, the user funnel, A/B test design, and translating evaluation insights into the roadmap. Primarily works at Level 2._
 
-**Example 1 — Designing a user funnel**
+<details>
+
+<summary><strong>Example 1 — Designing a user funnel</strong></summary>
 
 > You're launching a maternal health WhatsApp chatbot for expectant mothers in Nigeria. You need a user funnel with metrics before your engineering sprint.
 
@@ -441,11 +535,15 @@ _Owns product metrics, the user funnel, A/B test design, and translating evaluat
 >
 > Using the user funnel framework from the AI Evaluation Playbook (Level 2), design a complete funnel from Acquisition to Development Outcome. For each funnel stage: define the metric, explain how to measure it in a WhatsApp context, and identify the leading indicator that predicts the next stage.
 
+{% hint style="info" %}
 **What you'll get:** A complete funnel with stage-by-stage metrics, measurement methods, and leading indicators — ready for your engineering sprint planning.
+{% endhint %}
 
-***
+</details>
 
-**Example 2 — Writing an A/B test plan**
+<details>
+
+<summary><strong>Example 2 — Writing an A/B test plan</strong></summary>
 
 > Retention drops after week 2. You suspect the onboarding tone is too clinical. You need a clean hypothesis and test design before the next sprint.
 
@@ -455,13 +553,19 @@ _Owns product metrics, the user funnel, A/B test design, and translating evaluat
 >
 > Help me write an A/B test plan following the experimentation guidance in the AI Evaluation Playbook. Include: the specific hypothesis, treatment vs control variants, primary and secondary metrics, minimum detectable effect, guardrail metrics to monitor, and a pre-analysis plan summary. Then list 3 alternative hypotheses I should rule out first via process evaluation.
 
+{% hint style="info" %}
 **What you'll get:** A rigorous test plan with a clear hypothesis, MDE calculation, and a checklist of things to investigate before running the experiment.
+{% endhint %}
 
-### Data Scientist
+</details>
+
+#### 7. Data Scientist
 
 _Builds ETL pipelines, defines metric schemas, runs A/B analysis, and connects data across evaluation levels._
 
-**Example 1 — Designing a data schema across all four levels**
+<details>
+
+<summary><strong>Example 1 — Designing a data schema across all four levels</strong></summary>
 
 > You need to design a data warehouse schema that links model traces, product events, and survey responses across all four evaluation levels.
 
@@ -471,11 +575,15 @@ _Builds ETL pipelines, defines metric schemas, runs A/B analysis, and connects d
 >
 > Using the ETL pipeline guidance from the AI Evaluation Playbook, propose a data warehouse schema that links all four levels. Include: table structures, key joins, and how to handle data that arrives at different frequencies. Flag the 3 most common pipeline failures in this kind of multi-level setup.
 
+{% hint style="info" %}
 **What you'll get:** A multi-level schema design with join logic, data frequency handling, and a practical failure checklist.
+{% endhint %}
 
-***
+</details>
 
-**Example 2 — Building a surrogate index**
+<details>
+
+<summary><strong>Example 2 — Building a surrogate index</strong></summary>
 
 > Your Level 4 RCT is 18 months away. You need a surrogate index from Level 2–3 data to run faster product iterations now.
 
@@ -485,13 +593,19 @@ _Builds ETL pipelines, defines metric schemas, runs A/B analysis, and connects d
 >
 > Following the Surrogate Index framework in the AI Evaluation Playbook, help me construct a surrogate index. Suggest which Level 2–3 metrics to include, how to weight them based on theoretical proximity to income outcomes, how to validate the index against any available Level 4 pilot data, and what the assumptions and limitations are. Output this as a draft methods note I can share with our impact evaluator.
 
+{% hint style="info" %}
 **What you'll get:** A surrogate index design with weightings, validation approach, and a methods note — ready to share with your impact evaluation partner.
+{% endhint %}
 
-### User Researcher
+</details>
+
+#### 8. User Researcher
 
 _Measures cognitive, affective, and behavioural outcomes. Runs surveys, interviews, and NLP analysis on conversation logs. Primarily works at Level 3._
 
-**Example 1 — Designing an in-chat survey**
+<details>
+
+<summary><strong>Example 1 — Designing an in-chat survey</strong></summary>
 
 > You need a 3-question in-chat survey to measure self-efficacy and knowledge gain after a tutoring session, without disrupting the conversation flow.
 
@@ -501,11 +615,15 @@ _Measures cognitive, affective, and behavioural outcomes. Runs surveys, intervie
 >
 > Using the survey guidance from the AI Evaluation Playbook (Level 3), design a 3-item in-chat survey. For each item: write the question in natural conversational language, specify the response format (e.g. 1–5 scale, yes/no, open text), explain what construct it measures and why, and flag any cultural adaptation considerations for a West African student population.
 
+{% hint style="info" %}
 **What you'll get:** A 3-item survey with conversational wording, validated constructs, and cultural adaptation notes — ready to embed in your chatbot flow.
+{% endhint %}
 
-***
+</details>
 
-**Example 2 — Analysing conversation logs at scale**
+<details>
+
+<summary><strong>Example 2 — Analysing conversation logs at scale</strong></summary>
 
 > You have 500 conversation logs from a health chatbot. You need to extract cognitive and affective signals at scale without reading every log.
 
@@ -515,7 +633,18 @@ _Measures cognitive, affective, and behavioural outcomes. Runs surveys, intervie
 >
 > Based on the NLP analysis methods in the AI Evaluation Playbook (Level 3), design an analysis pipeline. Specify: which sentiment and linguistic signals to extract and why, the appropriate NLP method for each signal (LIWC, LLM-as-judge, topic modelling), a sample LLM-as-judge prompt for scoring 'perceived empathy' from a conversation excerpt, and guardrail checks to detect AI dependency patterns.
 
+{% hint style="info" %}
 **What you'll get:** A scalable analysis pipeline with method-to-signal mappings, a ready-to-use judge prompt, and dependency detection checks.
+{% endhint %}
+
+</details>
+
+***
+
+{% hint style="success" icon="star" %}
+**Note: This playbook can be used directly with AI tools like Claude, ChatGPT, and NotebookLM.** \
+[_**Explore how**_**&#x20;>**](using-the-playbook-with-ai-tools.md)
+{% endhint %}
 
 ***
 
