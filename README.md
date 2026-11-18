@@ -74,7 +74,7 @@ This section of the Playbook **outlines the two foundational pillars of your eva
 
 #### Additional Resources
 
-[Minimal Viable Evaluations](additional-resources/minimum-viable-evaluations.md)  |  [FAQs](additional-resources/frequently-asked-questions.md) | [Tools & Templates](additional-resources/additional-resources.md) | [Resources for Funders](additional-resources/resources-for-funders.md) | [Glossary](additional-resources/glossary.md) | [Using the Playbook with AI Tools](additional-resources/using-the-playbook-with-ai-tools.md)
+[Minimal Viable Evaluations](additional-resources/minimum-viable-evaluations.md)  |  [FAQs](additional-resources/frequently-asked-questions.md) | [Tools & Templates](additional-resources/additional-resources.md) | [Resources for Funders](additional-resources/resources-for-funders.md) | [Glossary](additional-resources/glossary.md) | [Using the Playbook with AI Tools](additional-resources/ai-tools.md)
 
 #### Stay involved
 
@@ -89,7 +89,7 @@ This section of the Playbook **outlines the two foundational pillars of your eva
 
 {% hint style="success" icon="star" %}
 **Note: This playbook can be used directly with AI tools like Claude, ChatGPT, and NotebookLM.** \
-[_**Explore how**_**&#x20;>**](additional-resources/using-the-playbook-with-ai-tools.md)
+[_**Explore how**_**&#x20;>**](additional-resources/ai-tools.md)
 {% endhint %}
 
 ***

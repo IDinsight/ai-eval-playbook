@@ -59,7 +59,7 @@ Yolanda Yang, CGD
 
 {% hint style="success" icon="star" %}
 **Note: This playbook can be used directly with AI tools like Claude, ChatGPT, and NotebookLM.** \
-[_**Explore how**_**&#x20;>**](../additional-resources/using-the-playbook-with-ai-tools.md)
+[_**Explore how**_**&#x20;>**](../additional-resources/ai-tools.md)
 {% endhint %}
 
 ***
