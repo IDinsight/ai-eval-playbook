@@ -37,7 +37,7 @@ metaLinks:
 
 {% hint style="success" icon="star" %}
 **Note: This playbook can be used directly with AI tools like Claude, ChatGPT, and NotebookLM.** \
-[_**Explore how**_**&#x20;>**](ai-tools.md)
+[_**Explore how**_**&#x20;>**](using-the-playbook-with-ai-tools.md)
 {% endhint %}
 
 ***
