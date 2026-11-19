@@ -1,4 +1,27 @@
-# Audere -  Self-Care from Anywhere: evaluating an AI sexual and reproductive health companion
+---
+layout:
+  width: default
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: false
+  outline:
+    visible: false
+  pagination:
+    visible: true
+  metadata:
+    visible: true
+  tags:
+    visible: true
+  actions:
+    visible: true
+  anchors:
+    visible: true
+---
+
+# Audere - Self-Care from Anywhere: evaluating an AI sexual and reproductive health companion
 
 How Audere evaluated Self-Care from Anywhere, a WhatsApp-based AI companion for sexual and reproductive health and HIV care, across the playbook's four levels — and the design choices behind each evaluation.
 

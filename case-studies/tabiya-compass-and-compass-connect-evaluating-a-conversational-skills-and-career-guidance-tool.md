@@ -1,4 +1,27 @@
-# Tabiya — Compass and Compass Connect: evaluating a conversational skills and career-guidance tool
+---
+layout:
+  width: default
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: false
+  outline:
+    visible: false
+  pagination:
+    visible: true
+  metadata:
+    visible: true
+  tags:
+    visible: true
+  actions:
+    visible: true
+  anchors:
+    visible: true
+---
+
+# Tabiya - Compass and Compass Connect: evaluating a conversational skills and career-guidance tool
 
 How Tabiya evaluated Compass and Compass Connect, a conversational skills and career-guidance tool for jobseekers, across the playbook's four levels — and the design choices behind each evaluation.
 

@@ -1,4 +1,27 @@
-# Girl Effect — Big Sis: evaluating generated answers to young people's health questions
+---
+layout:
+  width: default
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: false
+  outline:
+    visible: false
+  pagination:
+    visible: true
+  metadata:
+    visible: true
+  tags:
+    visible: true
+  actions:
+    visible: true
+  anchors:
+    visible: true
+---
+
+# Girl Effect - Big Sis: evaluating generated answers to young people's health questions
 
 How Girl Effect evaluated generated answers in Big Sis, a chatbot for young people's sexual, reproductive, and mental health questions in South Africa, across the playbook's four levels — and the design choices behind each evaluation.
 
